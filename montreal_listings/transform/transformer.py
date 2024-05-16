@@ -144,5 +144,5 @@ class Transformer:
         length_before = len(self._df)
         func()
         length_after = len(self._df)
-        logging.info(f'Removed {length_before - length_after}: {message}')
+        logging.info(f'Removed {length_before - length_after} rows: {message}')
         
