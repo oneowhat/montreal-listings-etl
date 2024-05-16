@@ -18,7 +18,7 @@ class Loader:
         
         try:
             data_frame.to_csv(filepath, index=False)
-            logging.info(f'Data saved to {filepath}')
+            logging.info(f'Cleaned listings saved to {filepath}')
         except Exception as e:
             logging.error(f'An error occurred: {str(e)}')
             
@@ -35,8 +35,7 @@ class Loader:
         """
         
         try:
-            with open(filepath, 'w') as file:
-                file.write(report)
+            report.to_csv(filepath, index=False)
             logging.info(f'Report saved to {filepath}')
         except Exception as e:
             logging.error(f'An error occurred: {str(e)}')

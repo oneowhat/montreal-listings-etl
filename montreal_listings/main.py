@@ -22,7 +22,7 @@ def run():
     
     loader = Loader()
     loader.load_listings(cleaned_df, 'data/output/montreal_listings_clean.csv')
-    loader.load_report(report, 'data/output/montreal_listings_by_neighbourhood.txt')
+    loader.load_report(report, 'data/output/montreal_listings_by_neighbourhood.csv')
     
     logging.info("Program finished")
 

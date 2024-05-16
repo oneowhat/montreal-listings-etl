@@ -20,4 +20,6 @@ class Reporter:
             mean_price=('price', 'mean'),
         ).sort_values('number_of_listings', ascending=False)
         
+        report.reset_index(inplace=True)
+        
         return report
