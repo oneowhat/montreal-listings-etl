@@ -70,10 +70,7 @@ class Transformer:
         Returns:
         None
         """
-        length_before = len(self._df)
         self._df = self._df[self._df['minimum_nights'] <= 31]
-        length_after = len(self._df)
-        logging.info(f'Removed {length_before - length_after} listings with minimum nights greater than 31.')
         
     def _remove_complete_duplicates(self):
         """
