@@ -20,12 +20,12 @@ class Extractor:
             df = pd.read_csv(filepath)
             logging.info(f"Data extracted from {filepath}")
             return df
-        except FileNotFoundError:
+        except FileNotFoundError as e:
             logging.error(f"File not found: {filepath}")
-            return None
+            raise e
         except Exception as e:
             logging.error(f"An error occurred: {str(e)}")
-            return None
+            raise e
         
     def extract_txt(self, filepath):
         """
@@ -42,9 +42,9 @@ class Extractor:
                 data = file.read().splitlines()
             logging.info(f"Data extracted from {filepath}")
             return data
-        except FileNotFoundError:
+        except FileNotFoundError as e:
             logging.error(f"File not found: {filepath}")
-            return None
+            raise e
         except Exception as e:
             logging.error(f"An error occurred: {str(e)}")
-            return None
+            raise e

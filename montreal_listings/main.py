@@ -10,8 +10,13 @@ def run():
     logging.info("Starting the program")
     extractor = Extractor()
     
-    df_listings = extractor.extract_csv('data/input/montreal-listings.csv')
-    neighbourhoods = extractor.extract_txt('data/input/montreal_neighbourhoods.txt')
+    try:
+        df_listings = extractor.extract_csv('data/input/montreal-listings.csv')
+        neighbourhoods = extractor.extract_txt('data/input/montreal_neighbourhoods.txt')
+    except Exception as e:
+        logging.error(f"Aborting program: {str(e)}")
+        return
+    
     logging.info("Extraction finished")
     
     transformer = Transformer(df_listings, neighbourhoods)
