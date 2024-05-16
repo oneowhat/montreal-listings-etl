@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "montreal-listings"
+version = "0.1.0"
+description = ""
+authors = ["Brendan Kendrick <brendan.kendrick@protonmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.2"
+
+[tool.poetry.scripts]
+montreal = "montreal_listings.main:run"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

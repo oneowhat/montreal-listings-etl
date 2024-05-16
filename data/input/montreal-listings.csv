@@ -1,0 +1,1005 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm,license
+29059,Lovely studio Quartier Latin,125031,Maryline,,Ville-Marie,45.51939,-73.56482,Entire home/apt,164,2,450,3/16/24,2.69,2,302,48,"267153, expires: 2024-03-31"
+29061,Maison historique - Quartier Latin,125031,Maryline,,Ville-Marie,45.51929,-73.56493,Entire home/apt,349,2,130,2/19/24,0.88,2,348,19,"267153, expires: 2024-03-31"
+36301,Romantic & peaceful Plateau  loft,381468,Sylvie,,Le Plateau-Mont-Royal,45.53026,-73.58413,Entire home/apt,175,32,51,1/7/24,0.47,3,81,4,
+38118,Beautiful room  with a balcony in front of a parc,163569,M.,,Ville-Marie,45.52699,-73.5584,Private room,50,31,16,8/29/22,0.1,1,299,0,
+50479,L'Arcade Douce,231694,Noemie,,Rosemont-La Petite-Patrie,45.54157,-73.60737,Entire home/apt,90,3,263,3/18/24,1.6,2,0,47,"271530, expires: 2024-04-30"
+66247,Large Loft in Historic Old Montreal,318040,Seb,,Ville-Marie,45.50584,-73.55602,Entire home/apt,110,3,453,3/3/24,2.81,4,59,83,"314544, expires: 2024-07-14T00:00:00Z"
+66276,Your Tranquil Oasis Near Downtown Montreal,324569,Anna,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.46133041,-73.62896729,Entire home/apt,48,32,41,2/27/24,0.26,2,252,3,
+70489,Ultra Luxurious - City Center,145990,Marc Andre,,Ville-Marie,45.5019,-73.56354,Entire home/apt,90,31,1,10/15/13,0.01,1,249,0,
+70801,"Large, sunny house with garden near Old MTL",294382,Jennifer&Steeve,,Le Sud-Ouest,45.47812,-73.55698,Entire home/apt,499,3,35,10/9/23,0.22,1,252,8,"310728, expires: 2024-07-31"
+85267,Country feeling loft in Plateau,381468,Sylvie,,Le Plateau-Mont-Royal,45.52946,-73.58206,Entire home/apt,170,32,39,12/23/23,0.25,3,90,4,
+99859,Plateau Charm,525486,Sesaye,,Le Plateau-Mont-Royal,45.51856,-73.57756,Entire home/apt,232,31,44,8/7/23,0.28,1,365,1,
+135275,"Charming aparthotel, little Italie",520966,Myriam,,Villeray-Saint-Michel-Parc-Extension,45.53971,-73.61943,Entire home/apt,170,31,75,1/9/24,0.48,3,223,3,
+137443,"Apt + garden (Mile End, Plateau) / # CiTQ 310398",656725,Christophe,,Le Plateau-Mont-Royal,45.52663,-73.60145,Entire home/apt,280,2,67,10/15/23,0.46,1,90,20,"310398, expires: 2024-06-30"
+160600,Sunlit Spacious 2BR+Office near to Universities,324569,Anna,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.46133423,-73.62901306,Entire home/apt,98,32,27,12/3/23,0.18,2,284,4,
+160639,Cosy Studio apartment,38398,Omar,,Rosemont-La Petite-Patrie,45.54512,-73.59808,Entire home/apt,90,186,15,11/30/19,0.1,1,358,0,
+164087,Functional studio (Secret Studio) -plateau,604849,Martin,,Le Plateau-Mont-Royal,45.528545,-73.579308,Entire home/apt,104,2,723,3/7/24,4.71,2,27,70,"291093, expires: 2025-01-31"
+165108,The Cocooning in the heart of Rosemont,787391,Karine,,Rosemont-La Petite-Patrie,45.54673,-73.57181,Entire home/apt,95,31,32,1/2/22,0.21,3,2,0,
+168331,Modern vintage 2 BDR in heart plateau,604849,Martin,,Le Plateau-Mont-Royal,45.528431,-73.578979,Entire home/apt,204,2,631,3/1/24,4.14,2,24,63,"291093, expires: 2025-01-31"
+171627,MINI LOUNGE LOFT,818883,Lapelemo,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.49406,-73.62555,Entire home/apt,92,31,2,8/7/22,0.01,1,265,0,
+180947,"Loft at Unity 1, Downtown - 423",387422,Service,,Ville-Marie,45.50312,-73.56346,Entire home/apt,175,31,5,3/22/22,0.04,14,273,0,
+190003,Large sunny room HEARTH of plateau,640693,Marco,,Le Plateau-Mont-Royal,45.51937,-73.56999,Private room,13294,99,1,8/13/11,0.01,1,365,0,
+208337,"Large apartment, terrace and garden",1025518,Christian Et Judith,,Le Plateau-Mont-Royal,45.53217,-73.58388,Entire home/apt,220,20,22,8/28/22,0.15,2,197,0,"306474, expires: 2024-08-31"
+211602,Beautiful sun-filled Studio,407029,Hans,,Baie-d'Urfé,45.41282,-73.90712,Entire home/apt,146,31,219,10/26/23,1.73,1,151,21,"311701, expires: 2024-12-22"
+231472,Charmant appartement équipé,520966,Myriam,,Villeray-Saint-Michel-Parc-Extension,45.53839,-73.61759,Entire home/apt,125,31,21,3/31/20,0.15,3,65,0,
+233584,Spacious room- doubl bed- townhouse,1020994,Melanie,,Le Sud-Ouest,45.49031,-73.56686,Private room,30,32,5,12/24/23,0.03,7,281,1,
+237216,"Modern, quiet Studio",1245164,Christophe &  Marie-Andrée,,Villeray-Saint-Michel-Parc-Extension,45.55275,-73.60055,Entire home/apt,90,32,44,9/30/23,0.29,1,151,3,
+238705,Magnificent Family Home in Mile End,1251392,Victor,,Le Plateau-Mont-Royal,45.5211,-73.59219,Entire home/apt,350,31,10,1/2/20,0.08,1,62,0,
+241212,"Le Laurier, exquisite loft",787391,Karine,,Rosemont-La Petite-Patrie,45.5467,-73.57182,Entire home/apt,180,31,15,7/13/23,0.1,3,0,1,
+256043,Plateau Mont-Royal Apt. - Long Term Opportunity,1346302,Stéphanie,,Le Plateau-Mont-Royal,45.52912,-73.57694,Entire home/apt,100,90,34,10/29/20,0.32,1,248,0,
+262688,Le Tierra - Private Parking Huge Backyard,1016614,Home In Montreal,,Le Sud-Ouest,45.48177,-73.55727,Entire home/apt,100,2,230,3/3/24,1.62,5,222,21,"266431, expires: 2024-06-30"
+285349,The authentic and charming Montrealer,787391,Karine,,Rosemont-La Petite-Patrie,45.55232,-73.58254,Entire home/apt,180,31,9,10/10/21,0.13,3,240,0,
+285497,Beautiful penthouse central location,1486044,Karine,,Le Plateau-Mont-Royal,45.50987035,-73.57478748,Entire home/apt,100,31,14,8/15/23,0.13,1,335,1,
+286671,Bel appartement Plateau Mt-Royal Métro Sherbrooke,1145010,Ian,,Le Plateau-Mont-Royal,45.51898,-73.56871,Entire home/apt,130,31,10,10/14/14,0.07,1,80,0,
+291629,Studio in Rosemont - Rouge,1510828,Marie-France Et Alain,,Rosemont-La Petite-Patrie,45.54967,-73.58588,Entire home/apt,40,45,83,1/13/24,0.57,1,146,6,
+293760,br. fully equip short/ long term,1327466,Marie Gyby,,Saint-Laurent,45.52353,-73.68069,Private room,35,31,38,2/5/24,0.26,3,266,2,
+319695,Sleek Mile End Loft near Ubisoft & Publicis,370793,Aleece,,Le Plateau-Mont-Royal,45.52459,-73.59616,Entire home/apt,128,180,33,6/21/21,0.23,1,202,0,
+331764,Loft sur le Plateau avec terrasse,1676310,Julien,,Le Plateau-Mont-Royal,45.52916,-73.57174,Entire home/apt,48,31,69,2/25/24,0.49,1,111,5,
+353210,Small room in a wonderful house,1789044,Colin&Özge,,Mercier-Hochelaga-Maisonneuve,45.55646,-73.53311,Private room,40,31,29,2/15/24,0.21,3,162,3,
+366300,Beautiful LOFT in the Plateau MTL,1849455,Jackie,,Le Plateau-Mont-Royal,45.51783,-73.58198,Entire home/apt,220,365,15,7/4/17,0.1,1,364,0,
+397489,Montreal downtown condo.,1980685,Chad,,Le Sud-Ouest,45.4888,-73.57092,Entire home/apt,129,200,25,2/1/21,0.17,1,365,0,
+416010,Apt central et lumineux (4) (Long terme),702508,Andréane,,Rosemont-La Petite-Patrie,45.5519,-73.57544,Entire home/apt,50,60,36,12/20/22,0.25,2,322,0,
+418104,Charming studio in old-Rosemont,2077991,Janique And Frederic,,Rosemont-La Petite-Patrie,45.54702,-73.57514,Entire home/apt,75,32,400,2/23/24,2.76,1,31,6,
+425582,Montreal for family Monthly only!,1775783,Corinne,,Le Plateau-Mont-Royal,45.53812,-73.56037,Entire home/apt,75,32,12,11/20/22,0.08,1,142,0,
+426532,Le Bruxelles - CHIC apt near metro: parking &patio,1016614,Home In Montreal,,Verdun,45.46853,-73.57173,Entire home/apt,112,90,12,4/18/22,0.08,5,297,0,
+453936,"Luminous LOFT, Calm and Spacious",1904354,Serge,,Le Plateau-Mont-Royal,45.51614,-73.581,Entire home/apt,115,3,374,3/4/24,2.6,1,166,50,"249454, expires: 2024-04-30"
+481023,Loft-like Apartment & Rooftop Views,1149654,Jessica,,Le Plateau-Mont-Royal,45.52428,-73.58825,Entire home/apt,252,32,15,8/8/19,0.1,2,364,0,
+487610,Nice room in the heart of Montreal,2170500,Cecel,,Le Plateau-Mont-Royal,45.51272,-73.57613,Private room,27,31,20,3/28/20,0.14,1,0,0,
+488221,Oasis next to Jean Talon market CITQ 314174,1375370,Pierre Et Martyna,,Rosemont-La Petite-Patrie,45.53556,-73.61186,Entire home/apt,285,6,24,12/28/23,0.17,1,99,5,"314174, expires: 2024-06-19"
+500701,Amazing loft in Montreal downtown,2470535,Valerie,,Le Sud-Ouest,45.48004,-73.58113,Entire home/apt,508,31,327,10/29/23,2.31,1,263,25,
+511509,Prime Location in Old Montreal - 2 floors,2519666,Andrew,,Ville-Marie,45.50922,-73.5519,Entire home/apt,109,2,325,3/8/24,2.27,1,233,53,"314121, expires: 2024-06-21"
+519108,Quartier Villeray Montréal,2553387,Andréanne,,Villeray-Saint-Michel-Parc-Extension,45.53689,-73.62379,Entire home/apt,100,32,37,3/2/24,0.26,1,221,4,
+522094,Great cozy condo by Little italy!,2349836,Amelie,,Rosemont-La Petite-Patrie,45.54192,-73.60358,Entire home/apt,90,90,49,11/30/22,0.34,1,282,0,
+526401,Spacious bright loft in the Plateau,915999,Tammy,,Le Plateau-Mont-Royal,45.5137,-73.57614,Entire home/apt,140,180,92,8/17/19,0.7,1,365,0,
+527449,"Cosy and private place, Mile End",2591217,Philippe,,Le Plateau-Mont-Royal,45.52952,-73.59487,Entire home/apt,68,35,33,7/17/23,0.27,1,158,1,
+534948,Beautiful & quiet apartment in downtown,1610679,Edward,,Le Sud-Ouest,45.4873,-73.5733,Entire home/apt,62,31,7,10/8/23,0.05,1,64,3,
+542160,Charming condo Plateau Mont-Royal,2666170,Alex,,Le Plateau-Mont-Royal,45.53666,-73.58142,Entire home/apt,83,7,202,2/22/24,1.69,2,190,15,"284723, expires: 2024-06-30"
+556742,"5-1/2 Plateau Mont Royal,2 bedrooms",2737452,Carole,,Le Plateau-Mont-Royal,45.5309,-73.56854,Entire home/apt,150,31,127,2/23/24,0.9,1,259,3,
+564098,Bright loft on the Plateau +terrace,2542265,Marilou,,Le Plateau-Mont-Royal,45.53826,-73.5707,Entire home/apt,61,31,13,12/1/23,0.09,2,99,2,
+565545,CASA - BLANCA : PEACE & QUIET,2124794,Aniss,,Mercier-Hochelaga-Maisonneuve,45.5506,-73.5443,Private room,60,31,37,9/20/18,0.26,1,359,0,
+583029,Room in little ancestral house near waterfront,2872156,Eve Caroline,,Lachine,45.43393,-73.68545,Private room,84,3,107,3/10/24,0.75,1,86,21,"309309, expires: 2024-03-31"
+589770,Montreal at the heart of City-Marie,2909959,Cottages Montréal,,Ville-Marie,45.51757,-73.55598,Entire home/apt,141,2,142,3/18/24,1,2,249,44,"271946, expires: 2024-12-31"
+598266,NICE & COZY 4-BROOMS Little-Italy STUDENTS WELCOME,2713204,Jean-Philippe,,Rosemont-La Petite-Patrie,45.53491,-73.60668,Entire home/apt,250,31,47,7/4/22,0.33,2,365,0,
+616408,"Unique & huge ap. on top floor, 31 nights & more!",3055081,Nath,,Le Plateau-Mont-Royal,45.5285,-73.58559,Entire home/apt,429,31,21,8/31/22,0.15,1,363,0,
+624078,Amazing 1 Bdrm downtown with garden,3095959,Olivier,,Le Plateau-Mont-Royal,45.50652,-73.57523,Entire home/apt,207,31,14,3/13/24,0.11,1,254,5,
+635179,Backyard house short or long term,3154502,Liette-Kyny,,Le Sud-Ouest,45.47907,-73.57308,Entire home/apt,115,32,9,6/24/21,0.08,2,284,0,
+636982,ROOM IN LOVELY AREA (ROSEMONT),3176181,Pierre-Marc,,Rosemont-La Petite-Patrie,45.54721,-73.59024,Private room,48,31,13,7/1/23,0.11,2,365,1,
+637533,Charming Downtown Montreal,2909959,Cottages Montréal,,Ville-Marie,45.51758,-73.55601,Entire home/apt,196,2,242,3/18/24,3.08,2,177,69,"271946, expires: 2024-12-31"
+644898,Eco studio/loft in Mile-End/Plateau,756145,Emmanuel,,Le Plateau-Mont-Royal,45.51884,-73.59048,Entire home/apt,116,1,870,3/21/24,6.19,2,158,103,"263966, expires: 2024-05-31"
+646363,City apartment fully equipped,3239159,Sandy,,Rosemont-La Petite-Patrie,45.57466,-73.57275,Entire home/apt,90,31,34,3/10/24,0.24,3,231,5,
+662501,Luxurious Plateau Apartment,3345978,Mathieu,,Le Plateau-Mont-Royal,45.52408,-73.59696,Entire home/apt,85,31,33,2/2/24,0.24,3,252,6,
+697198,"Appt Fully furnished, Montreal, Carré St Louis",3571507,Stephane,,Ville-Marie,45.51602,-73.56676,Entire home/apt,43,31,7,3/31/20,0.1,1,174,0,
+708096,Plateau Location Cozy Apartment,3641118,Mark,,Le Plateau-Mont-Royal,45.51579,-73.57833,Entire home/apt,115,32,252,9/28/20,1.81,1,365,0,
+720581,"Home away from home, entire apt",1327466,Marie Gyby,,Saint-Laurent,45.52597,-73.68104,Entire home/apt,75,31,89,6/1/22,0.68,3,297,0,
+726334,"The Red Balcony, 2bdr, AC,  Outremont /Mile end",3758382,Melanie + Guy,,Outremont,45.51811,-73.59867,Entire home/apt,168,32,68,9/6/22,0.5,1,227,0,
+135275,"Charming aparthotel, little Italie",520966,Myriam,,Villeray-Saint-Michel-Parc-Extension,45.53971,-73.61943,Entire home/apt,170,31,75,1/9/24,0.48,3,223,3,
+744424,Design Apartment in the Most Trendy aera.,3901487,France,,Le Plateau-Mont-Royal,45.5243,-73.59238,Entire home/apt,130,14,153,3/8/24,1.15,3,212,5,"271283, expires: 2024-11-30"
+744459,Magnificent Apartment in Miles End,3901487,France,,Le Plateau-Mont-Royal,45.5241,-73.59248,Entire home/apt,140,31,38,3/1/24,0.28,3,178,4,"271283, expires: 2024-11-30"
+755459,Bohemian Loft Retreat in Montreal’s Old Port,1766393,Missy,,Ville-Marie,45.50444,-73.55426,Entire home/apt,202,31,144,10/31/23,1.42,3,118,2,
+759953,Bright and sunny family house,3517393,Hélène & Simon,,Ahuntsic-Cartierville,45.54117,-73.67114,Entire home/apt,150,31,1,1/1/15,0.01,1,164,0,
+760558,Cozy room -woman only - heart  of Plateau,715871,Stephanie,,Le Plateau-Mont-Royal,45.52186,-73.58207,Private room,100,1,59,12/2/23,0.46,1,4,12,"307677, expires: 2024-12-01T01:00:00Z"
+767978,2 Bedrooms Rosemont close to Subway Iberville,4044343,Marie-Josée,,Rosemont-La Petite-Patrie,45.55209732,-73.59619904,Entire home/apt,65,32,12,1/18/24,0.12,1,167,2,
+793546,Cozy appartement in a convenient location,178256,Federico,,Ville-Marie,45.53017,-73.5611,Entire home/apt,159,31,39,8/28/22,0.33,1,364,0,
+815265,2 bedrooms executive suite downtown Montreal - 475,387422,Service,,Ville-Marie,45.49238,-73.57625,Entire home/apt,112,31,5,9/30/23,0.04,14,364,1,
+833598,Loft with indoor parking for (long-mid term stays),1703886,Albane & Alex,,Mercier-Hochelaga-Maisonneuve,45.5461,-73.54263,Entire home/apt,100,31,12,7/31/23,0.17,1,192,3,
+838690,Heavenly/Homey Spa like Rental: 3 months min stay,4381527,Christine,,Le Plateau-Mont-Royal,45.52241,-73.58575,Entire home/apt,200,90,0,,,1,363,0,
+839318,"Comfortable, fully equipped apartment in Montreal",4384589,Charles,,Rosemont-La Petite-Patrie,45.54934,-73.58532,Entire home/apt,110,32,30,1/13/23,0.23,1,265,0,
+840426,HOME IN THE HEART OF THE PLATEAU,3382340,Yanic,,Le Plateau-Mont-Royal,45.52073,-73.5807,Entire home/apt,155,60,0,,,1,265,0,
+850970,House on the Plateau Mont-Royal,4440030,David,,Le Plateau-Mont-Royal,45.52797,-73.57446,Entire home/apt,832,3,11,1/1/24,0.11,1,290,6,"309543, expires: 2024-04-30"
+854388,"2-bdr - furnished, heated & private garden",4462156,Florence Et France,,Le Sud-Ouest,45.44955,-73.59633,Entire home/apt,90,32,1,7/31/16,0.01,8,302,0,
+856136,REALLY NICE ROOM IN ROSEMONT AREA,3176181,Pierre-Marc,,Rosemont-La Petite-Patrie,45.54706,-73.59011,Private room,48,31,6,2/12/23,0.31,2,365,0,
+858051,"1800 SQ.FT, 4 BEDROOMS, 2 BATHROOMS",4489286,Ibrahim,,Verdun,45.45032,-73.56707,Entire home/apt,359,31,32,6/1/23,0.24,2,362,1,
+865853,Fully renovated apt Rosemont Petite Patrie,1155194,Céline&François,,Rosemont-La Petite-Patrie,45.53931,-73.59157,Entire home/apt,100,32,205,9/15/23,1.52,1,134,2,
+875315,6 minutes à pieds du marché J-Talon,4621118,Josée,,Villeray-Saint-Michel-Parc-Extension,45.54245,-73.61908,Entire home/apt,110,31,27,11/10/23,0.28,3,195,6,
+878412,Montreal Downtown- great location,1020994,Melanie,,Le Sud-Ouest,45.49072,-73.56627,Private room,30,31,8,12/24/23,0.06,7,54,2,
+879191,friends travelling together? MTL,1020994,Melanie,,Le Sud-Ouest,45.49068,-73.56544,Private room,35,31,2,3/5/24,0.02,7,174,1,
+879202,Griffintown  room  in townhouse,1020994,Melanie,,Ville-Marie,45.49462,-73.56486,Private room,27,31,7,7/31/22,0.05,7,231,0,
+889347,FURNISHED STUDIO FOR TWO VERY NEAR METRO; DALI,4718435,Pierre,,Rosemont-La Petite-Patrie,45.53421,-73.60252,Entire home/apt,115,5,95,3/14/24,0.71,4,94,13,"266641, expires: 2024-07-31"
+890444,Charming spot in Montreal,4700215,Valérie,,Mercier-Hochelaga-Maisonneuve,45.5578,-73.53967,Entire home/apt,125,2,109,3/6/24,0.86,1,175,23,"263141, expires: 2024-12-31"
+898804,3 1/2  + Hide-a-bed  in Plateau !!!,4797675,Marie-Hélène,,Le Plateau-Mont-Royal,45.53571,-73.56806,Entire home/apt,60,32,39,2/6/24,0.29,2,38,5,
+909980,1 bedroom apartment Angrignon metro station,1646154,Dimitri,,Le Sud-Ouest,45.45225,-73.60177,Entire home/apt,59,40,65,12/31/23,0.48,5,295,2,
+927964,Rosemont - Une adresse pour vous(32 jours),4795915,Nicole,,Villeray-Saint-Michel-Parc-Extension,45.55459,-73.59638,Entire home/apt,48,32,37,3/1/24,0.28,4,152,2,
+927978,4 et demi au coeur de Rosemont(2lits),4795915,Nicole,,Rosemont-La Petite-Patrie,45.55538,-73.59036,Entire home/apt,69,32,33,8/8/19,0.28,4,224,0,
+929583,3 1/2  sur le Plateau !,4797675,Marie-Hélène,,Le Plateau-Mont-Royal,45.53377,-73.56627,Entire home/apt,55,32,39,1/19/24,0.31,2,106,7,
+936438,3 1/2 rooms all-comfort,5054644,Denis,,Rosemont-La Petite-Patrie,45.56718,-73.57658,Entire home/apt,104,2,64,1/29/24,0.49,2,151,18,"257530, expires: 2024-07-31"
+937926,"GREAT LOCATION,  BEAUBIEN METRO; PICASSO STUDIO",4718435,Pierre,,Rosemont-La Petite-Patrie,45.53419,-73.6023,Entire home/apt,80,5,125,3/13/24,0.94,4,85,24,"266641, expires: 2024-07-31"
+938150,STUDIO 200 METERS FROM BEAUBIEN METRO; VAN GOGH,4718435,Pierre,,Rosemont-La Petite-Patrie,45.53411,-73.6024,Entire home/apt,119,5,160,2/13/24,1.21,4,58,23,"266641, expires: 2024-07-31"
+939730,Beautiful Mile-End Apartment!,3345978,Mathieu,,Rosemont-La Petite-Patrie,45.52993,-73.61427,Entire home/apt,100,45,22,12/23/23,0.17,3,211,2,
+942837,Luxury Apt in Le Plateau / Mile End - 3 bedrooms,4462156,Florence Et France,,Le Plateau-Mont-Royal,45.51812,-73.59068,Entire home/apt,166,31,29,7/13/19,0.22,8,173,0,
+987285,Beautiful apartment in Mile-End,3427166,Geneviève,,Le Plateau-Mont-Royal,45.52205,-73.5993,Entire home/apt,200,31,34,8/17/23,0.26,1,209,3,"308396, expires: 2025-02-01T00:00:00Z"
+996300,Lovely Esplanade Ave Apartment on Plateau Montreal,2884582,Don,,Le Plateau-Mont-Royal,45.51878,-73.59151,Entire home/apt,259,31,139,9/18/23,1.04,1,41,12,"311690, expires: 2025-01-13T00:00:00Z"
+1003202,Private room downtown Montreal  40-2b,1020994,Melanie,,Ville-Marie,45.49048,-73.56719,Private room,26,31,11,4/30/22,0.08,7,257,0,
+1019168,"Cozy Nest, heart of the Plateau",39300,Lilou,,Le Plateau-Mont-Royal,45.52169,-73.58807,Private room,45,31,126,1/22/24,1.06,1,100,12,
+1022114,Idéal pour un stage ou des études,4121417,Olivier,,Rosemont-La Petite-Patrie,45.53506,-73.60639,Entire home/apt,55,31,9,12/19/23,0.07,1,93,3,
+1046057,Condo - 2 level Mile-End/Plateau,3775482,Mylene,,Le Plateau-Mont-Royal,45.5216,-73.59065,Entire home/apt,112,59,21,11/12/23,0.16,1,296,2,
+1066963,Restored Victorian GreyStone,1142936,Patrice,,Westmount,45.48743,-73.58644,Entire home/apt,225,3,2,1/4/24,0.69,1,262,2,"315575, expires: 2024-09-17"
+1067530,Colocation Belle au bois dormant,5874268,Sarah,,Le Plateau-Mont-Royal,45.52202,-73.57864,Private room,42,31,44,11/2/23,0.34,1,113,3,
+1075759,Quiet apartment in  ‘’the village’’,3704756,Sylvain,,Ville-Marie,45.52152,-73.56156,Entire home/apt,45,32,131,3/4/24,0.99,2,97,2,
+1078559,Cool flat  in the plateau Mt-Royal.,5933506,Martine,,Le Plateau-Mont-Royal,45.53781799,-73.5799361,Entire home/apt,78,31,62,6/4/23,0.59,1,89,2,
+1151635,Plateau Montreal- Studio 9,6312297,Katherine,,Le Plateau-Mont-Royal,45.52716,-73.57478,Entire home/apt,52,32,28,12/20/23,0.24,14,235,3,
+1177300,Spacious 2bd -Steps away from metro,6441424,Coco & Jack,,Mercier-Hochelaga-Maisonneuve,45.55398,-73.5497,Entire home/apt,219,5,196,12/31/23,1.5,1,147,13,"267234, expires: 2024-06-30T14:08:50Z"
+1183363,"Spacious loft, fully legit BnB, A/C, keyless entry",1015379,Marie,,Le Plateau-Mont-Royal,45.51838,-73.5796,Entire home/apt,308,1,275,2/25/24,2.12,1,253,42,"297133, expires: 2024-12-31"
+1190611,★ Cubahaus ★ International Student Housing 10302,6508215,Cubahaus International,,Ville-Marie,45.51183509,-73.56654228,Private room,70,32,8,6/16/23,0.06,2,365,1,
+1190762,★ Cubahaus ★ International Student Housing 10306,6508215,Cubahaus International,,Ville-Marie,45.51251,-73.56526,Private room,105,32,4,7/24/13,0.03,2,364,0,
+1223837,Modern condo near Mont-Royal metro,6675383,Marc-André,,Le Plateau-Mont-Royal,45.52551,-73.58954,Entire home/apt,130,80,17,8/17/22,0.13,1,109,0,
+1231516,Chambre pour étudiant/e VILERAY,6553886,Nathalie,,Villeray-Saint-Michel-Parc-Extension,45.54403,-73.63151,Private room,35,31,4,8/1/23,0.21,3,265,3,
+1232374,"Central, Modern & Bright with Backyard Oasis!",6720816,Amy,,Le Plateau-Mont-Royal,45.51334,-73.56983,Entire home/apt,95,31,117,2/15/24,0.9,2,327,3,
+1238669,Vacation in Montreal,6553886,Nathalie,,Villeray-Saint-Michel-Parc-Extension,45.54762,-73.63594,Entire home/apt,55,31,40,11/16/23,0.49,3,242,1,
+1296772,2 steps from JeanTalonSubway&Market,2148392,Vicente,,Villeray-Saint-Michel-Parc-Extension,45.53941,-73.61949,Entire home/apt,67,32,30,8/31/23,0.23,1,150,3,
+1320736,Very charming apt plateau - Park,4641329,Pierrette,,Le Plateau-Mont-Royal,45.53434,-73.58697,Entire home/apt,145,31,46,11/5/23,0.36,1,225,6,
+1339165,The Villeroise room,7218739,Yan,,Villeray-Saint-Michel-Parc-Extension,45.54207,-73.61947,Private room,50,2,176,3/17/24,1.36,1,204,40,"306386, expires: 2024-08-31"
+1351673,IL Destino: Original Tourist apt! - CITQ 186830,2462509,Marisol,,Rosemont-La Petite-Patrie,45.53389,-73.60831,Entire home/apt,90,31,121,7/28/23,1.03,1,112,1,
+1367805,Small sunny room /w private balcony + 2 bicycles,7223348,Jason,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.49185,-73.62946,Private room,24,32,134,12/22/23,1.03,9,120,2,
+1374884,Beautiful garden on the Plateau,7450062,Julie,,Le Plateau-Mont-Royal,45.53625,-73.58638,Entire home/apt,364,6,11,10/11/22,0.08,1,206,0,"310426, expires: 2024-06-30"
+793546,Cozy appartement in a convenient location,178256,Federico,,Ville-Marie,45.53017,-73.5611,Entire home/apt,159,31,39,8/28/22,0.33,1,364,0,
+1386010,"SUNNY LOFT OLD MTL, GARAGE !!!",2747436,Ariane-Li,,Ville-Marie,45.49912,-73.55432,Entire home/apt,80,365,36,6/30/22,0.28,1,364,0,
+1447970,Chic apt in the heart of Montréal,1213588,Hugues,,Le Plateau-Mont-Royal,45.51585,-73.57393,Entire home/apt,125,31,26,1/5/24,0.2,1,93,5,
+1458435,Appartement à Louer À Montréal,6242955,Yan,,Villeray-Saint-Michel-Parc-Extension,45.55887,-73.60963,Entire home/apt,95,2,150,11/26/23,1.28,1,40,6,"303664, expires: 2024-12-31T14:36:42Z"
+1462416,"Nice bedroom, sunny appartment.",7837525,Touria,,Ville-Marie,45.52379,-73.5553,Private room,95,31,28,8/7/23,0.22,1,364,1,
+1473849,Historic Duplex with Terrasse in city center,3660851,Ted,,Ville-Marie,45.517662,-73.56054,Entire home/apt,500,3,2,6/19/23,0.12,2,258,1,"311365, expires: 2024-11-30"
+1501912,Huge Room With its own Bathroom!,8024983,Julie (Habitats Julie Et David),,Rosemont-La Petite-Patrie,45.53906777,-73.60747904,Private room,100,1,641,3/10/24,5.8,6,336,60,"286775, expires: 2024-08-31T20:12:54Z"
+1514235,Beautiful Downtown Condo + Parking + Quiet Terrace,8085323,Craig,,Ville-Marie,45.49576,-73.57296,Entire home/apt,171,182,12,8/8/19,0.1,1,189,0,
+1544844,L'inoubliable ,8232632,Luz,,Villeray-Saint-Michel-Parc-Extension,45.56489,-73.59731,Entire home/apt,42,32,221,8/31/23,1.72,1,241,1,
+1554643,15 min. Montreal airport. Water,7038328,Lissa,,Lachine,45.43079,-73.67173,Entire home/apt,70,32,39,1/2/21,0.3,2,87,0,
+1555580,"Beautiful apartment, room for rent.",6841780,Thomas,,Le Sud-Ouest,45.48172,-73.56808,Private room,90,31,55,11/5/23,0.43,1,266,19,
+1571302,LUXURIOUS 2 BEDROOMS CONDO,8355288,Cadet,,Le Sud-Ouest,45.48081,-73.57793,Entire home/apt,174,330,6,1/1/23,0.09,1,356,0,
+1581691,Apartment downtown Montreal,8412574,Nancy,,Ville-Marie,45.5081,-73.55797,Entire home/apt,114,180,3,5/14/22,0.02,1,365,0,
+1592606,Very calm studio in Ahuntsic.,17556336,Geneviève,,Ahuntsic-Cartierville,45.57158,-73.64661,Entire home/apt,100,32,46,1/25/24,0.39,1,289,2,
+1594053,Beautiful Loft in Old Montreal,8502121,Istifan,,Ville-Marie,45.50169885,-73.55849248,Entire home/apt,83,31,20,3/5/24,0.16,2,40,3,
+1601488,loft style new york,8534820,Gerard,,Ville-Marie,45.49862,-73.55977,Entire home/apt,289,31,64,6/19/23,0.53,2,254,2,
+1605448,"(32 days+ only): 3 Bedrooms, 3 balconies",4941136,Joel,,Le Sud-Ouest,45.47738539,-73.58400996,Entire home/apt,125,32,176,9/15/21,1.38,1,134,0,
+1606972,"3 1/2 dans les arbres, ensoleillé Mile-End",8560186,Sophie,,Le Plateau-Mont-Royal,45.52545,-73.60227,Entire home/apt,95,31,1,9/1/23,0.15,1,243,1,
+1654750,Cozy 2bd in The Village,8751784,Omid,,Ville-Marie,45.51871,-73.55818,Entire home/apt,120,31,24,11/16/22,0.19,1,211,0,
+1663916,Amazing condo heart of Mile-End,8804361,Lilian,,Le Plateau-Mont-Royal,45.526554,-73.603584,Entire home/apt,245,3,143,10/9/23,1.12,1,25,14,"313335, expires: 2024-05-18"
+1685875,Magnifique studio_Petite-Italie,8912131,Annie,,Rosemont-La Petite-Patrie,45.53295,-73.61347,Entire home/apt,65,32,279,8/31/23,2.31,2,192,3,
+1698827,Luxury condo! Great location !,2754897,Christian,,Ville-Marie,45.52709,-73.55602,Entire home/apt,105,31,6,2/1/24,0.05,1,183,1,
+1755790,La vraie vie de quartier à Montréal,9233712,Catherine,,Rosemont-La Petite-Patrie,45.54424,-73.60263,Entire home/apt,80,31,33,8/31/23,0.26,2,132,2,
+1767393,Great location downtown Mtl,1020994,Melanie,,Le Sud-Ouest,45.48995,-73.56535,Private room,25,31,4,4/15/22,0.03,7,125,0,
+1806883,"SOSHE 207, walk to MUHC Glen Campus",3299104,Franca,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47358,-73.60586,Entire home/apt,40,365,24,5/31/20,0.19,10,303,0,
+1838648,Montreal DREAMLOFT on the PLATEAU🤩,3998914,Brad & Dan,,Le Plateau-Mont-Royal,45.52143,-73.57345,Entire home/apt,197,31,796,3/19/24,6.4,3,48,71,"281470, expires: 2025-02-28"
+1844027,Housing (Logement) in the Plateau (CITQ-306732),3368536,Redgi,,Le Plateau-Mont-Royal,45.53285,-73.58246,Entire home/apt,161,2,129,2/25/24,1.05,1,103,23,"306732, expires: 2024-09-30"
+1851104,Beautiful Condo - Heart of Montreal,3302556,A.,,Ville-Marie,45.5095,-73.56323,Entire home/apt,85,180,16,2/29/20,0.13,1,265,0,
+1869544,"Gorgeous, luxury duplex in Montreal",9500203,René,,Villeray-Saint-Michel-Parc-Extension,45.53926,-73.62067,Entire home/apt,229,2,93,3/17/24,0.79,1,69,36,"312866, expires: 2024-05-18T00:00:00Z"
+1875887,"Près du métro et de l'UQAM, adorable studio",9770464,Melissa,,Ville-Marie,45.52385,-73.55971,Entire home/apt,52,32,36,12/20/23,0.35,15,198,2,
+1890203,"Ghost Sign Suites #1, 1920s style",9828616,Lance,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.46878,-73.6219,Entire home/apt,250,3,75,1/3/24,0.59,2,153,6,"294907, expires: 2024-09-30"
+1960413,Great 3 BR in Key Location Mile End,9949439,Nathalie,,Le Plateau-Mont-Royal,45.52225,-73.59526,Entire home/apt,80,45,44,5/1/23,0.37,1,79,1,
+1984315,Tulum vibe around lachine,4274825,Omid,,Lachine,45.43425,-73.67816,Entire home/apt,400,31,0,,,1,267,0,
+2014326,"Calme et volupté (avec Patio), Plateau Mont-Royal",10359474,Anne,,Le Plateau-Mont-Royal,45.52777,-73.58024,Entire home/apt,299,7,25,8/19/23,0.26,1,114,4,"306955, expires: 2024-10-31"
+2036814,Appartement au cœur du plateau avec jardin,10451172,Liette,,Le Plateau-Mont-Royal,45.53051,-73.58549,Entire home/apt,150,21,3,8/3/23,0.03,1,119,1,"312876, expires: 2024-04-24"
+2037495,studio vraiment chic,8534820,Gerard,,Ville-Marie,45.50438,-73.55943,Entire home/apt,256,31,94,10/3/23,0.79,2,362,7,
+2041714,This is it!,9444647,Joseph,,Le Plateau-Mont-Royal,45.5289,-73.57182,Entire home/apt,50,31,562,3/13/24,4.55,1,122,4,
+2045477,Coquet meublé rénové écolo Rosemont,6136951,Sylvie,,Rosemont-La Petite-Patrie,45.55509,-73.58583,Entire home/apt,81,31,38,8/24/23,0.32,2,185,2,
+2080456,"Bright, confortable & well located",10629094,Benoit,,Rosemont-La Petite-Patrie,45.55237,-73.59676,Entire home/apt,130,32,18,10/27/22,0.14,1,123,0,
+2131283,joli appartement abordable,10873633,Wahab,,Rivière-des-Prairies-Pointe-aux-Trembles,45.6428,-73.49825,Entire home/apt,59,32,38,11/18/23,0.31,4,95,1,
+2131499,Ideal location in the heart of the Plateau!,10874972,Trevor,,Le Plateau-Mont-Royal,45.52635,-73.57507,Entire home/apt,120,91,0,,,1,359,0,
+2133810,joli appartement économique,10873633,Wahab,,Rivière-des-Prairies-Pointe-aux-Trembles,45.64276,-73.49736,Entire home/apt,59,32,51,1/2/23,0.42,4,265,0,
+2178331,"Spacious, quiet & walking distance to everything!",1518378,Ilona,,Le Plateau-Mont-Royal,45.51437,-73.57005,Entire home/apt,139,31,95,1/24/24,0.77,1,66,7,
+2203437,Exceptional home in the Mile-End min one  month,8796008,Petit Séjour,,Le Plateau-Mont-Royal,45.52331,-73.6004,Entire home/apt,138,31,56,8/31/23,0.46,4,258,1,
+2210744,Chouette logement dans le Mile End!,1206439,Lina,,Le Plateau-Mont-Royal,45.52164,-73.59317,Entire home/apt,150,3,19,1/2/24,0.32,1,49,5,"304975, expires: 2024-05-31"
+2223204,Charmant cottage avec piscine,11344157,Nicolas,,Villeray-Saint-Michel-Parc-Extension,45.54258,-73.63469,Entire home/apt,400,4,33,1/5/24,0.28,1,216,12,"304909, expires: 2024-05-31"
+2238241,grand appartement lumineux,11429288,Nicolas,,Le Plateau-Mont-Royal,45.5203,-73.5728,Entire home/apt,120,31,62,8/13/23,0.51,1,272,2,
+2254170,Best location-One bedroom suite with Queen bed (1),11511525,Turgay,,Le Plateau-Mont-Royal,45.50941,-73.57234,Entire home/apt,159,1,20,3/17/24,0.19,4,299,2,"221252, expires: 2024-05-31"
+2281831,"Lovely modern cottage, Little Italy",10896182,Renee,,Rosemont-La Petite-Patrie,45.5329628,-73.60941315,Entire home/apt,230,5,12,10/10/23,0.11,1,37,2,"295530, expires: 2024-06-11"
+2310328,Plateau Mont-Royal awaits!,11798449,Sylvie,,Le Plateau-Mont-Royal,45.53321,-73.58563,Entire home/apt,106,31,199,10/29/23,1.65,2,239,2,
+2338432,Loft On The Main-Heart Of Montreal Downtown,11943082,We Rent For You Inc.,,Le Plateau-Mont-Royal,45.51391,-73.57071,Entire home/apt,146,1,32,7/18/23,0.29,24,42,7,"267551, expires: 2024-06-30"
+2339145,Studio Downtown Montreal,11943082,We Rent For You Inc.,,Le Plateau-Mont-Royal,45.51244,-73.57257,Entire home/apt,156,1,30,7/16/23,0.27,24,42,9,"267551, expires: 2024-06-30"
+2357303,sunny condo in the Plateau Mt Royal,12038788,Marilyn,,Le Plateau-Mont-Royal,45.52499,-73.58691,Entire home/apt,80,32,32,10/20/23,0.26,1,140,2,
+2357471,Appartement style condo de 3 1/2,5054644,Denis,,Rosemont-La Petite-Patrie,45.56722,-73.577,Entire home/apt,104,2,49,3/9/24,0.52,2,178,27,"257530, expires: 2024-07-31"
+2407187,Terrace Saint-Hubert,12305151,Nicolas,,Le Plateau-Mont-Royal,45.52702,-73.58339,Entire home/apt,373,1,53,3/11/24,0.5,1,252,9,"304615, expires: 2025-04-30"
+2413434,Charming and Spacious Duplex,9422280,Lilibeth,,Anjou,45.59586,-73.548,Entire home/apt,96,31,168,9/2/23,1.39,1,314,2,
+2415062,Luxury 2 bedrooms in the Plateau,12344579,Freddy,,Le Plateau-Mont-Royal,45.52952,-73.57389,Entire home/apt,120,31,18,10/8/23,0.15,1,82,3,
+2426058,Stylish apart for 2 to 4 in Mile- End -Min 1 month,8796008,Petit Séjour,,Le Plateau-Mont-Royal,45.52325,-73.59824,Entire home/apt,158,31,54,1/15/24,0.46,4,327,3,
+2460213,Artsy Plateau Apartment with Patio,3998914,Brad & Dan,,Le Plateau-Mont-Royal,45.51998,-73.57326,Entire home/apt,159,31,717,3/19/24,5.92,3,33,68,"281282, expires: 2025-02-28"
+2514605,Large room with 'En Suite' bathroom and 2 bicycles,7223348,Jason,,Brooklyn Heights,45.49215,-73.62921,Private room,38,32,152,7/1/23,1.28,9,57,1,
+2524236,Contemporary Loft in Old Montreal Third Floor,11916402,Loft,,Ville-Marie,45.50033,-73.55586,Entire home/apt,90,31,47,9/1/23,0.39,1,66,2,
+2529752,SOSHE 407 - walk to MUHC Glen Campus,3299104,Franca,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47199,-73.60593,Entire home/apt,50,365,10,6/30/22,0.08,10,350,0,
+2550699,Luxurious and very well located,13059341,Francis,,Ville-Marie,45.52011,-73.55522,Entire home/apt,350,31,45,6/20/23,0.39,1,362,1,
+2564039,Spacious downtown MTL 2 bedrooms  loft + PARKING,12954332,Antonie,,Le Plateau-Mont-Royal,45.51376,-73.5741,Entire home/apt,210,2,510,3/13/24,4.21,3,24,54,"299353, expires: 2024-06-30"
+2586672,EcoDesign&Shared Garden&J-T Market,8024983,Julie (Habitats Julie Et David),,Rosemont-La Petite-Patrie,45.539932,-73.606477,Entire home/apt,140,1,688,3/14/24,5.66,6,328,86,"274201, expires: 2025-04-01T00:00:00Z"
+2611791,Condo at District Griffin - 935,387422,Service,,Le Sud-Ouest,45.49142,-73.56152,Entire home/apt,90,31,1,9/24/18,0.01,14,283,0,
+2628616,Calm and near everything!,2315282,Annie,,Le Plateau-Mont-Royal,45.52391,-73.58571,Entire home/apt,260,2,85,10/29/23,0.72,2,48,12,"303170, expires: 2024-09-30T21:34:11Z"
+2681527,1-Bedroom Apt-Downtown Montreal,13728680,Ghada,,Le Sud-Ouest,45.49177,-73.57396,Entire home/apt,60,120,28,12/27/23,0.24,1,217,2,
+2683607,Pointe-Claire Getaway B,13737276,Stewart,,Pointe-Claire,45.42788,-73.82499,Entire home/apt,75,31,11,9/30/23,0.11,2,1,2,
+2684786,"SOSHE 409, MUHC Glen Campus",3299104,Franca,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47128,-73.60782,Entire home/apt,40,365,4,5/1/22,0.05,10,172,0,
+2701863,Apartment with 2 Bedrooms/2 Bathrooms P0205,13826429,Maya,,Mont-Royal,45.51674,-73.65578,Entire home/apt,100,32,5,9/26/16,0.04,16,365,0,
+2703124,La vie est belle/ Air C/2 Parkings/2 storey,13834416,Hélène,,Rosemont-La Petite-Patrie,45.54856,-73.57962,Entire home/apt,396,2,449,2/21/24,3.82,2,302,42,"280302, expires: 2025-01-01T08:27:25Z"
+2713693,Cozy 1 bedroom ap. - Heart of Plateau + sofa bed,13887389,Sébastien,,Le Plateau-Mont-Royal,45.52378,-73.5816,Entire home/apt,224,2,325,1/1/24,2.7,1,66,25,"309305, expires: 2024-03-31"
+2715650,Large 20 square meter room with 2 bicycles,7223348,Jason,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.49223,-73.62916,Private room,33,32,69,12/24/23,0.58,9,144,3,
+2715741,Loft near Atwater Market,9560434,Marilou,,Verdun,45.47191,-73.56421,Entire home/apt,145,3,146,10/21/23,1.22,1,159,30,"295112, expires: 2024-05-03T16:10:37Z"
+2722895,"Montreal, Metro, furnished independent room",13648338,Nader,,Ville-Marie,45.51658,-73.55738,Private room,35,31,55,9/1/22,0.59,9,363,0,
+2723294,Small studio in Montreal,13648338,Nader,,Ville-Marie,45.51883,-73.56385,Entire home/apt,51,31,34,1/1/24,0.36,9,109,1,
+2746393,Apartment in the Heart of Montreal S0309,13826429,Maya,,Mont-Royal,45.51508,-73.65613,Entire home/apt,63,32,0,,,16,365,0,
+2748000,Lovely furnished room in cosy condo Vegan friendly,14059179,Julie,,Mercier-Hochelaga-Maisonneuve,45.54736,-73.54754,Private room,100,32,7,12/22/18,0.06,1,266,0,
+2755243,Appartement 2 chambres/2 salles de bains P0206,13826429,Maya,,Mont-Royal,45.51686,-73.6557,Entire home/apt,100,32,1,7/22/18,0.01,16,365,0,
+2755328,Appartement 2 chambres/2 salles de bains P0610,13826429,Maya,,Mont-Royal,45.51571,-73.6557,Entire home/apt,100,32,4,3/31/23,0.03,16,365,1,
+2768004,1 Bedroom Furnished Apartment - 202,387422,Service,,Ville-Marie,45.51119,-73.55044,Entire home/apt,102,90,1,12/8/14,0.01,14,328,0,
+2769882,Fully furnished room - Perfect for student!,7872418,Daniella,,Ville-Marie,45.53159,-73.56082,Private room,45,31,15,9/24/23,0.13,1,139,1,
+2823066,"4 et demi avec jardin , Rosemont(2 lits)( 32 jours",4795915,Nicole,,Rosemont-La Petite-Patrie,45.55591,-73.58945,Entire home/apt,52,32,47,10/23/23,0.39,4,184,4,
+2855300,SOSHE 107 - adjacent MUHC- Glen Campus,3299104,Franca,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47301,-73.60783,Entire home/apt,40,32,17,1/1/21,0.15,10,214,0,
+2867422,Lovely 2-room apartment Plateau,14657012,Francis,,Le Plateau-Mont-Royal,45.53855,-73.5706,Entire home/apt,101,32,332,1/7/24,2.78,1,208,22,
+2878270,"Plateausuites #1, 1 bdrm Best@Plateau",14711467,Luke,,Le Plateau-Mont-Royal,45.52804,-73.58501,Entire home/apt,95,2,204,3/17/24,1.82,3,178,38,"230370, expires: 2024-09-30"
+2940592,Mont Royal Park View Flat,6170420,Miriam,,Le Plateau-Mont-Royal,45.51874,-73.58518,Entire home/apt,93,31,0,,,1,165,0,
+2947565,Condo-Centre Ville-Meublé-Garage,15047222,Abdel,,Le Sud-Ouest,45.49555,-73.56146,Entire home/apt,100,365,0,,,1,365,0,
+2989546,Architect Oasis,10275255,Genevieve,,Le Sud-Ouest,45.48771442,-73.57157192,Entire home/apt,350,7,28,1/3/24,0.23,1,19,4,"313278, expires: 2024-05-02"
+3006119,Spacious Downtown Condo,15319609,Katia,,Ville-Marie,45.48868,-73.58208,Entire home/apt,135,1,353,3/8/24,2.94,1,14,84,"312710, expires: 2024-04-13"
+3010203,Private room in the Mile End.,15340320,Morelia,,Le Plateau-Mont-Royal,45.52198,-73.60211,Private room,48,32,28,10/20/23,0.26,1,31,2,
+3051385,The perfect pied-à-terre (chilli)!,5513779,Shelagh,,Le Sud-Ouest,45.47419,-73.56293,Entire home/apt,85,31,145,12/17/23,1.23,3,153,4,
+3073209,"Ghost Sign Suites #2,  roof deck",9828616,Lance,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.46734,-73.62189,Entire home/apt,250,3,93,1/5/24,0.79,2,218,7,"294907, expires: 2024-09-30"
+3094294,Anderson apartment 2H : Cozy and spacious #2,15736663,Myriam,,Ville-Marie,45.5054,-73.56355,Entire home/apt,212,1,36,10/14/23,0.31,13,270,6,"221311, expires: 2024-04-30"
+3094299,Charmant appartement a louer.,15715548,Claude,,Rosemont-La Petite-Patrie,45.5405,-73.60709,Entire home/apt,100,31,52,1/7/22,0.45,1,204,0,
+3110141,Quiet room /w private balcony + 2 bicycles,7223348,Jason,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.492,-73.62934,Private room,27,32,116,12/21/23,0.97,9,0,1,
+3110592,Warm room with Queen sized bed + 2 bicycles,7223348,Jason,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.492,-73.6294,Private room,28,32,95,3/7/24,0.8,9,183,3,
+3119119,"In town, 1min Convention Centre, Old Montreal #4H",15736663,Myriam,,Ville-Marie,45.5054,-73.56341,Entire home/apt,199,1,46,1/2/24,0.38,13,271,8,"221311, expires: 2024-04-30"
+3120244,private quiet floor downtown montre,1020994,Melanie,,Le Sud-Ouest,45.49056,-73.56514,Private room,29,33,13,12/3/23,0.11,7,236,4,
+3121627,2 BEDS: up to 4 guests ! Private entrance. J.Talon,8024983,Julie (Habitats Julie Et David),,Rosemont-La Petite-Patrie,45.539979,-73.606578,Private room,84,1,615,3/10/24,5.17,6,328,69,"286775, expires: 2024-08-31T20:20:35Z"
+3199659,The Quartier des spectacles at your feet,8401220,Delphine,,Ville-Marie,45.50641,-73.5685,Entire home/apt,99,32,160,1/22/24,1.4,1,259,3,
+3207190,Beautiful apartment in Outremont,5620607,Hélène,,Outremont,45.51903,-73.6095,Entire home/apt,240,5,19,1/2/24,0.16,1,15,4,"312780, expires: 2024-05-16"
+3219428,Anderson apartment 1H 3 Beds: Cozy and spacious,15736663,Myriam,,Ville-Marie,45.50536,-73.56337,Entire home/apt,345,1,44,8/14/23,0.37,13,267,9,"221311, expires: 2024-04-30"
+3219653,Anderson apartment 5H: Cozy and spacious,15736663,Myriam,,Ville-Marie,45.5054,-73.56341,Entire home/apt,236,1,39,12/24/23,0.33,13,267,9,"221311, expires: 2024-04-30"
+3226606,Luxury Condo in Downtown Montreal. LONG TERM.,22571891,Jeff,,Ville-Marie,45.49755,-73.58305,Entire home/apt,316,90,135,9/8/19,1.13,1,203,0,
+3250998,Mile End the very best location!,115974,Simon,,Le Plateau-Mont-Royal,45.524,-73.60045,Entire home/apt,211,4,57,8/19/23,0.48,1,50,10,"305895, expires: 2024-08-01T00:00:00Z"
+3264866,Tranquil 3BR Gem: Cozy & Inviting,16441080,Well,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.50765,-73.6327,Entire home/apt,123,31,18,7/30/23,0.17,8,179,1,
+3290692,Apartment with 2 Bedrooms/2 Bathrooms P0505,13826429,Maya,,Mont-Royal,45.51627,-73.65574,Entire home/apt,100,32,7,7/3/22,0.06,16,365,0,
+3309276,LOFT/CONDO for rent Montreal,4149620,Brigitte,,Ville-Marie,45.50519,-73.5638,Private room,110,183,0,,,1,365,0,
+3350394,2BR Plateau Apartment 2 min walk to metro (subway),16906156,Liat,,Le Plateau-Mont-Royal,45.51863,-73.56871,Entire home/apt,124,31,11,5/1/21,0.12,3,326,0,
+3351254,Chambre a loué  470 $ 14 jours,16909309,Jean-(Jp Ou Jean ),,Mercier-Hochelaga-Maisonneuve,45.55754211,-73.53751656,Private room,283,31,0,,,1,269,0,
+3354834,"Cozy, Furnished Studio in Plateau Mont-Royal #15",6312297,Katherine,,Le Plateau-Mont-Royal,45.52716,-73.57465,Entire home/apt,52,32,38,12/31/23,0.32,14,264,3,
+3359018,Spacieux logement sur le Plateau,6014273,Marie Marthe,,Le Plateau-Mont-Royal,45.5342,-73.57388,Entire home/apt,282,2,95,8/7/23,0.8,1,121,5,"299641, expires: 2024-05-16"
+3369866,"Spacious and bright, heart of Plateau",1016614,Home In Montreal,,Le Plateau-Mont-Royal,45.53371,-73.57497,Entire home/apt,148,2,220,2/19/24,1.86,5,292,16,"275601, expires: 2024-05-31"
+3370604,ARTY INDUSTRIAL LOFT,17005296,Nathalie,,Ville-Marie,45.50409,-73.5643,Entire home/apt,644,31,27,9/19/23,0.23,2,256,4,"258710, expires: 2024-10-01T14:03:26Z"
+3382961,HUGE/COOL/CHIC/ LOFT /OLD CITY,17005296,Nathalie,,Ville-Marie,45.50402,-73.56424,Entire home/apt,1190,31,4,8/2/17,0.03,2,365,0,
+3406157,Le Lounge Spacious Apartment in Heart of the,1016614,Home In Montreal,,Le Plateau-Mont-Royal,45.53279,-73.57612,Entire home/apt,148,2,239,1/3/24,2.02,5,276,13,"275601, expires: 2024-05-31"
+3425315,L'expérience loft au cachet unique!,17265783,Mathieu&Martin,,Ville-Marie,45.53421,-73.56066,Entire home/apt,65,31,150,3/2/24,1.27,2,206,11,
+3462811,Bright top-floor loft in Mile-End,296904,Duncan,,Le Plateau-Mont-Royal,45.52052,-73.59848,Entire home/apt,236,31,64,6/19/23,0.54,1,365,1,
+3479042,Charming Flat with Garden,2334176,Ready To Greet You,,Ville-Marie,45.5293,-73.55966,Entire home/apt,105,75,75,12/23/23,0.64,2,99,3,
+3511458,Charming and cosy apartment with backyard,17653490,Nathalie,,Rosemont-La Petite-Patrie,45.53867,-73.60403,Entire home/apt,195,14,16,10/6/23,0.14,1,220,5,"301128, expires: 2024-06-30"
+3521973,Le Metro Unbeatable location on Mt-Royal Avenue,1016614,Home In Montreal,,Le Plateau-Mont-Royal,45.52476,-73.58076,Entire home/apt,118,2,249,3/19/24,2.12,5,281,18,"275612, expires: 2024-05-31"
+3549084,"Private Room in Little Italy, great for family",8024983,Julie (Habitats Julie Et David),,Rosemont-La Petite-Patrie,45.539979,-73.606578,Private room,76,1,272,3/3/24,2.3,6,89,58,"286775, expires: 2024-08-31T20:22:10Z"
+3563956,Cozy & private studio in Villeray,9785890,Giuliana,,Villeray-Saint-Michel-Parc-Extension,45.55202,-73.6103,Entire home/apt,44,50,15,6/30/17,0.13,1,179,0,
+3574422,Chambre confortable et calme,2047039,Maxime,,Mercier-Hochelaga-Maisonneuve,45.54476,-73.53941,Private room,63,7,101,3/17/24,0.86,1,27,12,"307763, expires: 2024-11-30"
+3592643,Sunny apt. in Rosemont (3),702508,Andréane,,Rosemont-La Petite-Patrie,45.55073,-73.57747,Entire home/apt,50,60,28,3/1/24,0.24,2,158,2,
+3627407,"Marché Jean-Talon confort, pratique",3300655,Ariâme,,Rosemont-La Petite-Patrie,45.53874,-73.61243,Entire home/apt,70,31,22,12/18/23,0.19,1,122,2,
+3629281,Oasis de paix  plateau Mont-Royal,18286656,Danielle,,Le Plateau-Mont-Royal,45.52767,-73.57492,Entire home/apt,325,1,16,10/11/16,0.14,1,279,0,"317874, expires: 2025-03-12"
+3637622,Your own private studio apartment next to UdeM,18220686,Jan,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.497,-73.62284,Entire home/apt,40,31,12,2/24/24,0.12,4,187,5,
+3697689,Grand Loft 1chambre fermée Mile-End-Petite Italie!,4371997,Jonathan,,Rosemont-La Petite-Patrie,45.53117,-73.60881,Entire home/apt,240,31,86,10/13/23,0.73,1,331,12,
+3698156,Cosy place in the heart of Montreal - CITQ#307822,18275527,Cecile,,Le Plateau-Mont-Royal,45.51849,-73.58655,Private room,72,2,85,3/15/24,0.73,1,8,21,"307822, expires: 2024-11-30"
+3710350,"Welcoming 3 BDRM, 2 story 2 bath",18887987,Synnove And Sean,,Ville-Marie,45.51768,-73.56383,Entire home/apt,269,3,111,3/13/24,4.45,1,116,48,"309323, expires: 2025-03-31"
+3739416,"5 bdr fully furnished apt, parking",4462156,Florence Et France,,Le Sud-Ouest,45.44876,-73.5944,Entire home/apt,145,60,4,12/22/19,0.04,8,278,0,
+3768433,Centre-Ville Village (quartier gai),19279996,Michel,,Ville-Marie,45.52055,-73.55177,Entire home/apt,96,60,17,12/1/23,0.16,1,146,3,
+3792900,Superbe Appartement dans Ho-Ma,19474209,Sylvain,,Mercier-Hochelaga-Maisonneuve,45.55287,-73.54068,Entire home/apt,135,31,15,8/29/23,0.13,1,325,2,
+3792946,Petite-Italie Easy Parking EcoDesign #2,8024983,Julie (Habitats Julie Et David),,Rosemont-La Petite-Patrie,45.54068253,-73.60540164,Entire home/apt,132,1,666,3/16/24,6.18,6,340,60,"274201, expires: 2025-04-01T00:00:00Z"
+3873703,1 Bedroom VIP apartment at Europea - 941,387422,Service,,Ville-Marie,45.50534,-73.55804,Entire home/apt,107,90,0,,,14,364,0,
+3931365,Charming Loft in Heart of Little Italy,5531406,Sal,,Rosemont-La Petite-Patrie,45.53442,-73.61509,Entire home/apt,177,31,185,11/6/23,1.77,1,317,25,"307255, expires: 2025-03-01"
+3986026,SOSHE 206 - adjacent MUHC - Glen Campus,3299104,Franca,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47242,-73.6068,Entire home/apt,50,180,2,8/14/16,0.02,10,358,0,
+3990653,Trendy Apartment Park View - Long Term Stay,17268976,Maria,,Le Sud-Ouest,45.47334,-73.58713,Entire home/apt,272,32,92,5/31/22,0.79,1,365,0,
+4013283,comfy condo,20807767,Nalou,,Villeray-Saint-Michel-Parc-Extension,45.56522,-73.60009,Private room,44,365,3,9/8/15,0.03,1,365,0,
+4022050,*La Roche royale - Splendid apt Plateau,1245701,Pierre,,Le Plateau-Mont-Royal,45.52831268,-73.57824707,Entire home/apt,219,3,99,2/26/24,0.86,1,202,24,"311379, expires: 2024-12-03"
+4033082,STUNNING LOFT HISTORIC OLD MONTREAL,20909727,Mo,,Ville-Marie,45.51194,-73.55011,Entire home/apt,70,31,123,7/31/20,1.1,1,6,0,
+4076990,The Classic On The Plateau Mont-Royal,2343919,Heathcliff,,Le Plateau-Mont-Royal,45.53559875,-73.56939697,Entire home/apt,67,31,192,3/2/24,1.68,2,206,4,
+4081276,Bedroom Douillette Métro Mont-Royal,17686527,Daniel,,Le Plateau-Mont-Royal,45.52548,-73.58162,Private room,49,45,100,12/22/23,0.87,1,316,3,
+4096961,Flat in the Plateau Mont-Royal,4429522,Isabelle,,Le Plateau-Mont-Royal,45.5245,-73.57852,Entire home/apt,109,3,92,1/3/24,0.82,1,46,9,"300651, expires: 2024-07-31"
+4100405,Chic et deco moderne  au coeur du Rosemont,7317503,Fredy Alexander,,Rosemont-La Petite-Patrie,45.55562931,-73.58893572,Entire home/apt,788,31,8,3/19/23,0.26,7,365,0,
+4108332,Vintage+bien situé: à 300m métro Rosemont (d),154735,Isabelle,,Rosemont-La Petite-Patrie,45.53379,-73.59757,Entire home/apt,102,32,27,2/19/24,0.31,8,303,4,
+4119801,BEAUTIFUL LOFT ON THE PLATEAU,21372117,Vincent,,Le Plateau-Mont-Royal,45.51701146,-73.58061252,Entire home/apt,175,5,16,12/5/23,0.2,1,263,7,"317600, expires: 2025-02-13"
+4214871,Centennial apt near Lafontaine Park,2334176,Ready To Greet You,,Ville-Marie,45.52902,-73.55961,Entire home/apt,105,85,103,10/31/21,0.9,2,69,0,
+4219023,"Luxueux - deco moderne, Rosemont 3 chambres",7317503,Fredy Alexander,,Rosemont-La Petite-Patrie,45.56284,-73.58558,Entire home/apt,148,4,19,3/16/24,0.64,7,317,10,"313641, expires: 2024-05-26"
+4257188,Adorable condo Plateau Mont-Royal,4374073,MarieClaire,,Le Plateau-Mont-Royal,45.53188,-73.56932,Entire home/apt,140,31,45,7/30/21,0.39,1,177,0,
+4258412,"Cozy, like a hotel, apartment!",426511,Naima,,Ville-Marie,45.49249,-73.57653,Entire home/apt,133,31,97,3/2/24,0.86,1,144,7,
+4278172,Free Breakfast +Parking +Near Metro,3403305,Colin,,Verdun,45.45686,-73.57194,Private room,67,60,44,6/20/16,0.38,1,365,0,
+4318807,maison propre et tranquille Pointe St Charles,3154502,Liette-Kyny,,Le Sud-Ouest,45.47967,-73.57186,Entire home/apt,115,31,8,9/30/23,0.27,2,283,1,
+4329626,Chambre au coeur de St-Henri,22480535,Amélie,,Le Sud-Ouest,45.47136,-73.58603,Private room,100,31,5,9/12/20,0.05,2,338,0,
+4351701,welcome,22589917,Chocco,,Anjou,45.60993,-73.54813,Entire home/apt,85,31,65,1/17/24,0.63,1,290,4,
+4358922,Charming studio - Heart of Plateau-Mont-Royal,19532718,Patricia,,Le Plateau-Mont-Royal,45.52058,-73.57687,Entire home/apt,80,32,102,1/31/24,0.91,2,215,4,
+4376456,Appartement   au coeur de Montréal,22721558,Oleksandra,,Rosemont-La Petite-Patrie,45.54153,-73.60434,Entire home/apt,125,31,303,12/19/23,2.67,2,180,14,
+4422595,Nice sunny room,1789044,Colin&Özge,,Mercier-Hochelaga-Maisonneuve,45.55629,-73.53114,Private room,37,31,22,5/1/22,0.2,3,54,0,
+4438504,Intimacy and commodity,5268127,Guillaume,,Verdun,45.46571,-73.56967,Entire home/apt,50,31,20,10/31/23,0.19,2,3,1,
+4484689,1 chambre  dans Résidence  Étudiante Familiale,23268627,Isabelle,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.49183,-73.64012,Private room,35,31,7,1/17/24,0.09,2,156,3,
+4493422,Apartment Downtown Montréal,2163095,Marian,,Ville-Marie,45.51767,-73.55659,Entire home/apt,195,31,71,12/31/22,0.63,2,84,0,"314070, expires: 2024-06-20T00:00:00Z"
+4516339,Au coeur du Plateau Mt Royal + jardin,4263668,Zina,,Le Plateau-Mont-Royal,45.5302,-73.57939,Entire home/apt,70,31,28,2/2/24,0.81,1,32,3,
+4532909,Maison propre et tranquille Pointe St Charles,22634758,Liette-Kyny,,Le Sud-Ouest,45.4796,-73.57162,Entire home/apt,118,32,0,,,1,365,0,
+4579838,Luxury Old Montreal Heritage Home,23738150,Tiziano,,Ville-Marie,45.51046,-73.55474,Entire home/apt,225,31,174,11/18/23,1.57,4,179,13,
+4580191,"Old Montreal, lovely quiet location",23738150,Tiziano,,Ville-Marie,45.51024,-73.55477,Entire home/apt,185,31,203,1/2/24,1.88,4,114,9,
+4642394,"Montreal Centre-ville, quartier N.d.G.",1695541,Denise,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47387,-73.61359,Entire home/apt,275,3,21,5/10/21,0.21,1,317,0,"302264, expires: 2024-07-31"
+4662940,Stylish 1BD trendy in heart of Plateau!,1656323,Nadim,,Le Plateau-Mont-Royal,45.52389,-73.5932,Entire home/apt,65,31,175,2/25/24,1.56,6,331,6,
+4663019,Come and see us!!,24128291,Danièle,,Ahuntsic-Cartierville,45.54048,-73.64542,Entire home/apt,114,32,122,8/12/23,1.12,1,176,1,
+4668203,Le charme de Rosemont-Petite Patrie,24151278,Camille,,Rosemont-La Petite-Patrie,45.53272,-73.60055,Entire home/apt,60,32,29,11/6/20,0.26,1,28,0,
+4669680,Casa O’ …where luxury and comfort await,24156030,Cristina And Paul,,Villeray-Saint-Michel-Parc-Extension,45.53635,-73.62216,Entire home/apt,300,31,39,8/22/22,0.36,2,32,0,
+4678938,Apartment Downtown Montreal,2163095,Marian,,Ville-Marie,45.51838,-73.55921,Entire home/apt,199,31,68,11/8/22,0.62,2,175,0,"314070, expires: 2024-06-21T00:26:25Z"
+4679950,Charming and central studio,12696106,Sudhir,,Le Plateau-Mont-Royal,45.51743,-73.58041,Entire home/apt,80,31,65,2/14/24,0.58,1,264,5,
+4692378,"Grand appartement calme prés du métro, 3 chambres",24258186,François,,Verdun,45.46744,-73.57063,Entire home/apt,90,60,31,7/7/23,0.29,1,156,2,
+4699761,Joli appartement au coeur de Montréal,15704753,Amal,,Rosemont-La Petite-Patrie,45.56754,-73.57873,Entire home/apt,88,31,27,1/13/20,0.31,1,157,0,
+4700691,"MTLVR #02 | Plateau central, sunny patio, A/C",24290215,Yann,,Le Plateau-Mont-Royal,45.53088,-73.57879,Entire home/apt,152,31,106,3/3/24,0.97,19,214,24,"247671, expires: 2025-02-28"
+4701728,"MTLVR #09 | Prime location, A/C, Enjoy the moment",24290215,Yann,,Le Plateau-Mont-Royal,45.5302411,-73.57671609,Entire home/apt,204,2,235,3/17/24,2.2,19,232,52,"272241, expires: 2024-05-31"
+4727400,"MTLVR #11 | Fully equipped for 12, Family focused",24290215,Yann,,Le Plateau-Mont-Royal,45.52827,-73.57763,Entire home/apt,185,2,170,3/11/24,1.53,19,226,28,"279355, expires: 2024-11-30"
+4730381,Plateau - elegant and bright flat - children,1502334,Mathilde,,Le Plateau-Mont-Royal,45.53181,-73.5803,Entire home/apt,275,4,86,1/1/24,0.8,1,4,3,"311299, expires: 2024-11-16"
+4734218,"Magnifique 5 1/2 , PLATEAU MT-ROYAL",2520266,Frederic,,Le Plateau-Mont-Royal,45.53881,-73.58013,Entire home/apt,471,100,3,9/8/15,0.03,1,365,0,
+4738920,Historic 2BR GEM in Golden Square Mile Downtown,24461601,Carmela,,Ville-Marie,45.4968728,-73.587117,Entire home/apt,193,3,21,2/19/24,1.02,2,229,20,"310878, expires: 2024-10-27T15:49:02Z"
+4743645,"Beautiful & Bright, Fully Furnished Apartment",24484653,Kostas,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.50081,-73.63579,Entire home/apt,99,32,83,8/30/23,0.76,1,81,2,
+4745683,"Superb 3½ all included, 32 days location minimum",9926393,Denise,,Le Sud-Ouest,45.4551,-73.6002,Entire home/apt,39,32,9,10/1/22,0.08,1,57,0,
+4774697,Shaughnessy Village Downtown,6114938,Patrick,,Ville-Marie,45.49181,-73.57567,Entire home/apt,100,31,5,10/20/23,0.07,5,179,1,
+4795345,Le Petit Penthouse Downtown Montreal,11943082,We Rent For You Inc.,,Le Plateau-Mont-Royal,45.5131,-73.57282,Entire home/apt,193,1,39,8/7/23,0.35,24,42,13,"267551, expires: 2024-06-30"
+4813554,Modern 1 bedroom apartment,24791257,Jean-Sébastien,,Ahuntsic-Cartierville,45.56761,-73.65219,Entire home/apt,79,32,40,7/30/23,0.36,1,286,1,
+4822411,DOUBLEROOM Piano&Garden&KING SIZE BED!,8024983,Julie (Habitats Julie Et David),,Rosemont-La Petite-Patrie,45.539979,-73.606578,Private room,75,1,275,3/11/24,2.5,6,89,60,"286775, expires: 2024-08-31T20:24:39Z"
+4824784,Large modern 2BD in Plateau/MileEnd,1656323,Nadim,,Le Plateau-Mont-Royal,45.52455,-73.59508,Entire home/apt,68,31,172,3/20/24,1.57,6,326,5,
+4867994,Fully renovated Pointe Claire home.,4446501,Paul,,Pointe-Claire,45.44477,-73.82831,Entire home/apt,175,32,18,6/27/23,0.21,1,236,1,
+4900840,Le Old World Meets Modern,23413183,Brooke,,Ville-Marie,45.49012,-73.5798,Entire home/apt,299,1,159,3/9/24,1.66,1,194,25,"297531, expires: 2024-06-30T00:00:00Z"
+4908966,Anderson apartment 3H: Cozy and spacious #3,15736663,Myriam,,Ville-Marie,45.50536,-73.56337,Entire home/apt,256,1,26,10/29/23,0.23,13,256,8,"221311, expires: 2024-04-30"
+4975441,Downtown Studio for 2 with a view,25646950,Eric,,Ville-Marie,45.50769,-73.56964,Entire home/apt,75,31,31,9/30/23,0.29,10,341,2,
+4983260,"3 BD, patio,metro. Best deal for 1+ month staying!",25688694,Tatiana,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47085,-73.61222,Entire home/apt,150,32,15,7/21/23,0.15,1,242,1,
+5066202,Mile-end Plateau Montreal's Best,6886234,Julien,,Le Plateau-Mont-Royal,45.52134,-73.58678,Entire home/apt,175,4,133,12/9/23,1.25,1,30,20,"303164, expires: 2024-09-30T18:49:19Z"
+5142544,Le Loft Spa,26586314,Patrice,,Le Plateau-Mont-Royal,45.52663,-73.58282,Entire home/apt,174,31,114,11/30/23,1.04,1,328,2,
+5173875,Large 4 1/2 Downtown Montréal,3206353,Rosaire,,Ville-Marie,45.50139,-73.57851,Entire home/apt,180,31,8,12/3/23,0.07,1,305,2,
+5174441,"Superb Furnished Condo, Little Italy",7931773,Frederic,,Villeray-Saint-Michel-Parc-Extension,45.53527451,-73.62117004,Entire home/apt,75,31,3,2/1/24,0.08,1,111,2,
+5241608,Cosy apt close to subway with terrace.,39434,Alexandre,,Mercier-Hochelaga-Maisonneuve,45.54628,-73.54997,Entire home/apt,94,2,579,3/10/24,5.23,1,99,71,"289785, expires: 2024-12-31"
+5280660,Quiet & clean in Plateau Mont-Royal studio,6312297,Katherine,,Le Plateau-Mont-Royal,45.52716,-73.57465,Entire home/apt,52,32,13,1/2/24,0.12,14,365,2,
+5287115,Vintage Montreal Apartment,27375271,Fabrice,,Verdun,45.4685,-73.56758,Entire home/apt,55,31,63,12/17/23,0.58,2,192,2,
+5292336,Quiet & clean in Plateau Mont-Royal Studio 6,6312297,Katherine,,Le Plateau-Mont-Royal,45.52716,-73.57465,Entire home/apt,52,32,29,12/10/23,0.27,14,290,1,
+5319105,Luxury Quiet Old Montreal Home,23738150,Tiziano,,Ville-Marie,45.51172,-73.55338,Entire home/apt,215,31,228,8/10/23,2.09,4,179,13,
+5386190,"Little Italy, king-size suite/terrace & roof views",27920720,Frank,,Rosemont-La Petite-Patrie,45.5334046,-73.6075745,Entire home/apt,98,2,72,3/8/24,5.32,1,103,65,"315115, expires: 2024-08-21"
+5386705,"NDG -Lower Duplex 4 bd/3 bath Solarium,Villa Maria",26828995,Michèle,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47091,-73.63671,Entire home/apt,150,32,70,9/22/23,0.65,3,243,2,
+5439050,"Chambre confortable et tranquille,",28213960,Dany,,Mission,45.66264,-73.54411,Private room,82,2,19,1/1/24,0.21,7,329,4,"307329, expires: 2024-11-01T00:00:00Z"
+5446042,Quiet & Cozy studio,28247239,Ellie,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.4763,-73.63585,Entire home/apt,56,31,45,12/10/23,0.43,2,168,3,
+5469892,3 bedrooms 2 bathrooms unit,28370252,Desislava,,Ahuntsic-Cartierville,45.52825,-73.73077,Entire home/apt,414,1,1,8/20/23,0.14,4,264,1,"314880, expires: 2024-08-07"
+5475847,Grand appart. deux étages :3 càc et 2 sdb/Rosemont,16476183,Mélanie,,Villeray-Saint-Michel-Parc-Extension,45.56314,-73.59013,Entire home/apt,239,31,4,5/19/19,0.04,2,323,0,
+5511908,Quiet Studio 8,6312297,Katherine,,Le Plateau-Mont-Royal,45.52716,-73.57465,Entire home/apt,52,32,31,8/1/23,0.29,14,273,1,
+5541927,Quiet & Clean in Plateau Mont-Royal studio,6312297,Katherine,,Le Plateau-Mont-Royal,45.52716,-73.57465,Entire home/apt,52,32,22,8/3/23,0.23,14,365,1,
+5543101,A beautiful room on a quiet yard,4254790,Annick,,Ville-Marie,45.49176,-73.56955,Private room,88,31,28,5/19/19,0.26,2,365,0,
+5554191,SOSHE 204 adjacent MUHC Glen Campus,3299104,Franca,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47315,-73.60792,Entire home/apt,40,365,20,9/3/22,0.18,10,203,0,
+5598071,SOSHE 303 - adj. MUHC Glen Campus,3299104,Franca,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47189,-73.60809,Entire home/apt,40,90,22,6/30/22,0.2,10,260,0,
+5617978,Home Away from Home right downtown,4254790,Annick,,Ville-Marie,45.49364,-73.57052,Entire home/apt,250,31,3,8/7/15,0.03,2,365,0,
+5635964,SOSHE 102 - adj. MUHC Glen Campus,3299104,Franca,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.473,-73.60778,Entire home/apt,47,365,15,7/31/20,0.14,10,358,0,
+5657801,"CentreVille - JardinBBCue 3ch/1,5sdb, MétroBeaudry",26828995,Michèle,,Ville-Marie,45.51914,-73.55396,Entire home/apt,175,365,40,10/28/18,0.37,3,354,0,
+5658671,Eco-appartment in Mile End,756145,Emmanuel,,Le Plateau-Mont-Royal,45.51895,-73.5924,Entire home/apt,98,1,414,3/10/24,3.82,2,170,78,"263966, expires: 2024-05-31"
+5668201,"MTLVR #15 | 1600 ft2 oasis, central Plateau, A/C",24290215,Yann,,Le Plateau-Mont-Royal,45.52578757,-73.58403325,Entire home/apt,283,2,191,2/18/24,1.75,19,212,37,"286731, expires: 2024-08-31"
+5738969,"Center of town - 5 lovely and airy rooms with 2 bathrooms, Beaudry subway",26828995,Michèle,,Ville-Marie,45.5191,-73.55399,Entire home/apt,150,31,37,7/1/23,0.34,3,233,1,
+5758514,Studio/maison à côté métro 3,29872464,Lucie,,Saint-Laurent,45.51107,-73.6716,Entire home/apt,45,31,109,1/7/24,1,4,81,14,
+5758826,FAB! 4-BEDROOMS Little Italy! 1min subway Beaubien,2713204,Jean-Philippe,,Rosemont-La Petite-Patrie,45.53575,-73.60692,Entire home/apt,150,31,49,7/7/19,0.45,2,166,0,
+5806607,Studio in Montreal,13648338,Nader,,Ville-Marie,45.51909,-73.56387,Entire home/apt,51,31,67,8/25/23,0.67,9,149,1,
+5809691,"MTLVR #14 | Central, Kid-Friendly, Metro 3 min",24290215,Yann,,Le Plateau-Mont-Royal,45.52413,-73.586,Entire home/apt,283,2,226,3/9/24,2.07,19,208,28,"286731, expires: 2024-08-31"
+5848282,"Creative, comfortable, Plateau pad",555474,D.N.,,Le Plateau-Mont-Royal,45.52267,-73.57028,Entire home/apt,75,31,43,3/15/23,0.39,1,0,0,
+5863295,Large - Best for Families - long stays,25391072,J P,,Westmount,45.48505,-73.60352,Entire home/apt,186,31,55,9/8/23,0.51,1,272,4,
+5890629,"Sunny, modern & in a good location",30591927,Thibault,,Mercier-Hochelaga-Maisonneuve,45.58591,-73.54119,Entire home/apt,130,32,41,1/3/24,0.38,1,196,4,
+5916367,Studio Moderne voisin du Métro Monk.,30724827,Annie,,Le Sud-Ouest,45.4509,-73.59427,Entire home/apt,70,32,144,6/22/23,1.34,1,124,1,
+5933084,New on the Plateau - Chic & design,9262203,Jean Philippe,,Le Plateau-Mont-Royal,45.52862,-73.58235,Entire home/apt,260,5,52,11/19/23,0.48,1,23,7,"314260, expires: 2024-06-20"
+5946811,Luxury Montreal  Home Quiet Area,24084514,David,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.48899,-73.64419,Entire home/apt,111,35,103,4/4/20,0.96,3,204,0,
+6001752,Magnifique chambre hochelaga,19127144,John,,Mercier-Hochelaga-Maisonneuve,45.54375937,-73.54591232,Private room,202,31,0,,,2,365,0,
+6029383,Condo 2 chambres et 1 bureau,6292487,Amanda,,Le Plateau-Mont-Royal,45.52663,-73.58559,Entire home/apt,100,180,0,,,1,201,0,
+6032202,studio/maison à côté métro,29872464,Lucie,,Saint-Laurent,45.50911,-73.66983,Entire home/apt,50,31,134,10/3/23,1.23,4,23,8,
+6039486,Montreal Chateau.,29894548,Nina,,Mercier-Hochelaga-Maisonneuve,45.55825,-73.53093,Entire home/apt,543,2,86,12/10/23,0.83,1,338,3,"279300, expires: 2025-01-31"
+6076880,Newly renovated apartment downtown!,31543037,Faye,,Ville-Marie,45.49128,-73.57939,Entire home/apt,200,5,96,9/26/23,0.89,1,158,17,"305171, expires: 2024-05-31"
+6119840,Studio for 2 downtown Mtl,25646950,Eric,,Ville-Marie,45.50769,-73.56964,Entire home/apt,83,31,57,8/24/22,0.53,10,328,0,
+6130229,Gingerbread Manor - WM Room - breakfast included,4847479,Ephraim,,Le Plateau-Mont-Royal,45.51572,-73.56904,Private room,128,1,4,10/4/16,0.04,5,4,0,"222528, expires: 2024-05-31"
+6134036,Cozy house in ville st-laurent,31822751,Yuan,,Saint-Laurent,45.51369,-73.66125,Private room,27,32,25,9/5/23,0.23,7,269,3,
+6134740,Old Montreal Luxury Quiet Apartment,23738150,Tiziano,,Ville-Marie,45.50971,-73.55458,Entire home/apt,200,31,52,9/24/23,0.48,4,140,8,
+6158475,"Charmant studio, tout équipé",11952431,Jeremy,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.48152,-73.62962,Entire home/apt,96,31,0,,,1,64,0,
+6169698,The Sunny studio downtown,25646950,Eric,,Ville-Marie,45.50769,-73.56964,Entire home/apt,77,31,69,11/30/23,0.66,10,112,4,
+6169860,Downtown suite-1 bedroom #201,25646950,Eric,,Ville-Marie,45.51177,-73.56672,Entire home/apt,83,180,6,7/30/17,0.06,10,306,0,
+6182564,"2nd Flr Apt, Pvt Entr., Balc, Pkg, Parc Bustop 1""",32068321,Bonnie,,Villeray-Saint-Michel-Parc-Extension,45.53226,-73.63913,Entire home/apt,59,7,103,9/3/23,0.96,3,116,11,"312006, expires: 2025-02-05"
+6186448,Bright 850 Sq ft loft - Plateau,23262312,Marc,,Le Plateau-Mont-Royal,45.53464,-73.57172,Entire home/apt,90,1,250,1/22/24,2.31,2,188,42,"308163, expires: 2024-12-31"
+6238159,Loft in the heart of the plateau!,2666170,Alex,,Le Plateau-Mont-Royal,45.53319,-73.58308,Entire home/apt,70,31,302,12/31/23,2.81,2,143,3,
+6249151,appart  à 2 mn du Métro Mont Royal,32450186,Amelle,,Le Plateau-Mont-Royal,45.52682,-73.58061,Entire home/apt,199,3,196,3/18/24,1.82,2,269,48,"277922, expires: 2024-06-01T00:00:00Z"
+6298626,Mi Casa es Tu cAsa!,32753324,Marianne,,Rosemont-La Petite-Patrie,45.53952,-73.6095,Entire home/apt,128,2,143,1/4/24,1.33,1,8,8,"310063, expires: 2024-04-30T12:24:23Z"
+6299948,Industrial-modern style- Down Town (2),32760952,Lise,,Ville-Marie,45.50677,-73.56193,Entire home/apt,85,31,13,12/15/19,0.14,3,203,0,
+6302619,Gorgeous 2 BR Outremont/Mile End,3502134,Erin,,Outremont,45.52318,-73.61257,Entire home/apt,125,31,67,9/14/23,0.63,1,103,3,
+6309620,Anderson apartment 2 Beds 6H: Cozy and spacious,15736663,Myriam,,Ville-Marie,45.50449,-73.5625,Entire home/apt,378,1,50,11/26/23,0.47,13,246,14,"221311, expires: 2024-04-30"
+6316223,The Fullum on the Plateau -2 floors,11403031,Sophie,,Le Plateau-Mont-Royal,45.53742,-73.56719,Entire home/apt,189,7,36,2/25/24,0.34,1,203,17,"323931, expires: 2024-05-08"
+6421886,Une chambre sous la terrasse,2824051,Pierre-Henri,,Mercier-Hochelaga-Maisonneuve,45.54129,-73.54196,Private room,65,31,11,8/31/23,0.1,1,235,1,
+6424036,AMAZING loft w/view + Parking,3664287,S.,,Ville-Marie,45.50876,-73.55246,Entire home/apt,90,90,255,10/29/23,2.4,1,243,6,
+6438283,"MTLVR #13 | Central Urban Oasis, Sleeps 12, BBQ",24290215,Yann,,Le Plateau-Mont-Royal,45.52565,-73.58423,Entire home/apt,283,2,141,2/25/24,1.32,19,217,16,"286731, expires: 2024-08-31"
+6438382,"MTLVR #12 | Modern 4 BR/2BA, Plateau, A/C, BBQ",24290215,Yann,,Le Plateau-Mont-Royal,45.52395813,-73.58378187,Entire home/apt,283,2,165,3/3/24,1.53,19,190,14,"286731, expires: 2024-08-31"
+6448540,Private room with access to garden,31822751,Yuan,,Saint-Laurent,45.51397,-73.66317,Private room,25,32,26,1/6/24,0.28,7,202,4,
+6451534,Cosy Studio in A Quiet Area,24084514,David,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.48857,-73.64448,Entire home/apt,60,32,34,10/30/20,0.32,3,206,0,
+6460732,2 Floors in Superb Plateau Home,8071762,Nina,,Le Plateau-Mont-Royal,45.53088,-73.58535,Entire home/apt,250,21,93,9/5/23,0.89,2,205,4,"305266, expires: 2024-06-30"
+6461235,Spacious Plateau Unit steps from everything,8071762,Nina,,Le Plateau-Mont-Royal,45.53088,-73.58675,Entire home/apt,111,14,21,2/23/24,0.28,2,188,9,"305266, expires: 2024-06-30"
+6485711,Appartement lumineux sur le Plateau Mont-Royal,33748371,Lorraine,,Le Plateau-Mont-Royal,45.52228,-73.56999,Entire home/apt,64,32,22,2/29/24,0.21,1,173,4,
+6493792,Hortensias'garden,21760037,Michelle,,Ahuntsic-Cartierville,45.54638,-73.64147,Entire home/apt,94,290,7,2/22/16,0.07,1,364,0,
+6545059,Homey 3BR: Cozy & Inviting,16441080,Well,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.50824,-73.63066,Entire home/apt,130,31,22,11/18/22,0.21,8,365,0,
+6558609,Lg Bdrm/Pvt Bath start date 1st wk June Min 55 nts,32068321,Bonnie,,Villeray-Saint-Michel-Parc-Extension,45.53249,-73.6376,Private room,32,55,21,2/10/24,0.2,3,106,3,
+6559850,"CreAtive, Modern & Inspired Plateau: Heart of MTL!",6720816,Amy,,Le Plateau-Mont-Royal,45.51346,-73.57011,Entire home/apt,154,31,69,9/29/23,0.65,2,144,2,
+6590617,Les 3 Castors  (numéro d'établissement  279915),34482763,Nathalie,,Ahuntsic-Cartierville,45.55479,-73.66718,Entire home/apt,160,5,70,3/17/24,0.67,1,192,23,"279915, expires: 2024-12-31"
+6611969,A little piece of paradise...,34599357,Eric,,Le Plateau-Mont-Royal,45.52198,-73.58012,Entire home/apt,491,31,36,9/30/23,0.34,1,186,14,"308907, expires: 2024-03-01"
+6624051,Studio cosy et bien équipé à Villeray - Montréal,1229488,Marilou,,Ahuntsic-Cartierville,45.54782,-73.6368,Entire home/apt,60,60,115,11/1/23,1.07,2,309,2,
+6634469,Welcome ! Bienvenue !,34726528,Varvara,,Le Plateau-Mont-Royal,45.52064,-73.57018,Entire home/apt,213,2,165,3/16/24,1.54,2,80,4,"285865, expires: 2024-07-31"
+6644522,Perfect Stay,34726528,Varvara,,Le Plateau-Mont-Royal,45.52077,-73.57021,Entire home/apt,213,2,184,1/1/24,1.72,2,148,26,"285876, expires: 2024-07-31"
+6646020,Amazing 2-bdr apt just for you !,23049089,Claudel,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.46874,-73.61305,Entire home/apt,75,179,1,9/14/15,0.01,1,274,0,
+6657701,Live like a Montrealer! Pristine renovated home!,10851522,Maya,,Villeray-Saint-Michel-Parc-Extension,45.53802,-73.62843,Entire home/apt,165,32,35,7/1/22,0.33,2,53,0,
+6722097,Beautiful 4 bedroom house & garden,30720639,Jacques,,Rosemont-La Petite-Patrie,45.54116,-73.6071,Entire home/apt,284,3,348,2/21/24,3.26,2,168,48,"282262, expires: 2024-05-31"
+6725638,Rustic Chic in the Heart of Montreal,7319387,Christian,,Le Plateau-Mont-Royal,45.52269,-73.5771,Private room,70,2,52,3/8/24,2.21,1,76,31,"314337, expires: 2024-06-26"
+6746491,beau Studio Mile-End /.2. Plateau,7250257,Stewie,,Le Plateau-Mont-Royal,45.52472,-73.59554,Entire home/apt,52,120,60,4/30/23,0.56,17,203,1,
+6747261,30days + Big house for 7 (15 min. to downtown),27109383,Vil,,Rosemont-La Petite-Patrie,45.53573,-73.60439,Entire home/apt,443,2,79,1/14/24,0.74,1,185,6,"316669, expires: 2024-11-23T20:35:42Z"
+6766263,"Bright, Calm Room&Private Bathroom",35422266,Jean,,Villeray-Saint-Michel-Parc-Extension,45.55035,-73.60706,Private room,100,31,25,10/15/23,0.24,1,161,1,
+6805517,Quiet & clean in Plateau Mont-Royal Studio,6312297,Katherine,,Le Plateau-Mont-Royal,45.52716,-73.57465,Entire home/apt,52,32,20,3/4/24,0.19,14,276,2,
+6812722,"MTLVR #07 | Fully equipped for 8, Family focused",24290215,Yann,,Le Plateau-Mont-Royal,45.52021,-73.57217,Entire home/apt,277,2,203,3/10/24,1.91,19,226,36,"286720, expires: 2024-08-31"
+6863708,"Sunny, Clean, Entire Top Flr Apartment in MileEnd",35920738,Kara,,Le Plateau-Mont-Royal,45.52611,-73.60427,Private room,60,31,40,12/11/23,0.38,1,38,2,
+6864866,Renovated Apartment in the Heart of Montreal P0504,13826429,Maya,,Mont-Royal,45.51715,-73.65627,Entire home/apt,70,32,5,7/1/23,0.05,16,365,1,
+6866740,Spacious Apartment in the Heart of Montreal P0108,13826429,Maya,,Mont-Royal,45.51508,-73.65732,Entire home/apt,67,32,2,1/28/24,0.03,16,365,1,
+6877196,5☆ Comfy Pad in Plateau ❤️ BEST LOCATION/TOP FLOOR!,2624022,Steve,,Le Plateau-Mont-Royal,45.51497,-73.57836,Entire home/apt,119,2,149,3/14/24,1.57,7,40,24,"313088, expires: 2024-05-08"
+6885700,The perfect pied-à-terre (wasabi)!,5513779,Shelagh,,Le Sud-Ouest,45.47545,-73.56443,Entire home/apt,85,31,99,12/13/23,0.98,3,204,4,
+6895797,Green room in town,36133697,Marie-Luc,,Rosemont-La Petite-Patrie,45.541,-73.60103,Private room,35,31,27,12/10/23,0.26,1,173,3,
+6896591,Apartment in the Heart of Montreal P0102,13826429,Maya,,Mont-Royal,45.51673,-73.65594,Entire home/apt,67,32,4,6/9/22,0.04,16,365,0,
+6901263,Grande maison avec cour et terrasse,25907075,Elena,,Le Sud-Ouest,45.44876,-73.59437,Entire home/apt,140,31,1,8/9/15,0.01,1,167,0,
+6909562,Apartment in the Heart of Montreal S0209,13826429,Maya,,Saint-Laurent,45.51731,-73.65641,Entire home/apt,63,32,2,12/12/22,0.08,16,365,0,
+6956661,Le Montréal que j'aime,36474203,Louis,,Rosemont-La Petite-Patrie,45.54104,-73.60706,Entire home/apt,60,25,4,8/13/19,0.04,1,44,0,"314234, expires: 2024-06-19"
+7026202,Bright yellow studio,22299469,Louise,,Rosemont-La Petite-Patrie,45.54316,-73.58834,Entire home/apt,40,32,31,5/1/23,0.29,4,146,1,
+7043845,Mile-End/Plateau boutique apartment with backyard,2303079,Good Living,,Le Plateau-Mont-Royal,45.52782,-73.59218,Entire home/apt,91,31,274,7/28/23,2.58,2,39,2,
+7044267,Quiet & clean Plateau Mont-Royal Studio 11,6312297,Katherine,,Le Plateau-Mont-Royal,45.5271,-73.57466,Entire home/apt,52,32,12,4/23/23,0.13,14,329,1,
+7054114,Urban Oasis house,11737975,Catherine,,Mercier-Hochelaga-Maisonneuve,45.57343,-73.54337,Entire home/apt,100,3,53,3/18/24,0.87,1,240,46,"312901, expires: 2024-04-30"
+7056058,Zen Garden in Ahuntsic - Causy Private Room,37008213,Lydiane,,Ahuntsic-Cartierville,45.55382,-73.65393,Private room,41,31,46,9/19/22,0.49,2,365,0,
+7070701,Bright condo near downtown Montreal Ref# 302843,15863625,Caroline,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.46712,-73.6108,Entire home/apt,195,2,91,3/10/24,0.86,1,109,18,"302843, expires: 2024-10-31T15:51:59Z"
+7098676,New 2bdr charming bright apartment,37206057,Kristina,,Le Sud-Ouest,45.47884,-73.56353,Entire home/apt,120,31,98,11/13/22,0.93,1,247,0,
+7132579,Montreal family getaway,16441080,Well,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.50572,-73.63196,Entire home/apt,110,31,20,1/14/22,0.2,8,365,0,
+7135191,Great Mile-End Apartment!,3345978,Mathieu,,Le Plateau-Mont-Royal,45.52027,-73.59875,Entire home/apt,100,60,10,10/6/23,0.1,3,295,2,
+7147902,Private room in an upper duplex,9817244,Isabella,,Villeray-Saint-Michel-Parc-Extension,45.57481,-73.63047,Private room,56,1,71,10/29/23,0.76,1,145,33,"313709, expires: 2024-05-22"
+7174449,A room in a homely home,37578798,Camila,,Verdun,45.45566,-73.54937,Private room,55,31,20,9/1/23,0.2,2,139,2,
+7181625,Authentic Loft near Square Victoria,32140180,Claudia,,Ville-Marie,45.50312,-73.56344,Entire home/apt,95,31,95,2/1/24,0.9,1,217,5,
+7194353,Quite unique condo in lower Plateau,1617641,Vadney,,Le Plateau-Mont-Royal,45.51501,-73.57471,Entire home/apt,250,31,0,,,1,120,0,
+7216726,"Beautiful, historic, downtown house",37570215,Susie,,Le Plateau-Mont-Royal,45.5126,-73.57485,Entire home/apt,214,3,238,3/18/24,2.26,1,68,44,"307726, expires: 2024-12-01T00:00:00Z"
+7245319,Quiet and clean in Plateau Studio 11,6312297,Katherine,,Le Plateau-Mont-Royal,45.52716,-73.57465,Entire home/apt,52,32,16,12/20/23,0.15,14,365,1,
+7246678,Quiet & clean in Plateau-Mont-Royal studio,6312297,Katherine,,Le Plateau-Mont-Royal,45.5271,-73.57466,Entire home/apt,52,32,14,12/8/23,0.14,14,365,1,
+7292089,Nice Condo in heart of Montreal !,2127268,Francois,,Rosemont-La Petite-Patrie,45.53982,-73.58936,Private room,289,365,7,9/6/16,0.07,1,365,0,
+7301246,Designer Hotel-Loft in Old MTL,11206990,Sam,,Ville-Marie,45.50363,-73.55745,Entire home/apt,140,1,334,3/15/24,3.16,8,311,54,"315417, expires: 2024-09-07T21:18:22Z"
+7302354,A beautiful large room in a beautiful house,38250611,Gilly,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.49775,-73.63708,Private room,30,31,0,,,6,80,0,
+7309028,Charming 2 bedrooms condo downtown,28812929,Tarek,,Ville-Marie,45.52741,-73.54915,Entire home/apt,135,31,33,9/1/23,0.31,1,62,1,
+7310368,Cozy basement in historic site,10843737,Citlali And Family,,LaSalle,45.43049,-73.66345,Entire home/apt,69,7,166,3/15/24,1.77,1,68,27,"302837, expires: 2024-09-30"
+7359515,Beautiful Studio Downtown Montreal,38555003,Trylon,,Le Plateau-Mont-Royal,45.51122,-73.57307,Entire home/apt,36,33,7,12/18/21,0.07,6,81,0,
+7369138,WOW HUGE&MODERN FOR 5 IN DOWNTOWN MONTREAL VILLAGE,3403736,Murielle,,Ville-Marie,45.51908,-73.55773,Entire home/apt,125,31,123,8/7/23,1.26,1,364,6,
+7395846,403 - 2 Bedroom condo with indoor parking,387422,Service,,Ville-Marie,45.51199,-73.55092,Entire home/apt,120,90,0,,,14,280,0,
+7402853,"Mile-end South, Plateau, Metro Mont Royal, 2 br GF",38789396,Helo Et Franck,,Le Plateau-Mont-Royal,45.52393,-73.58303,Entire home/apt,110,31,88,1/9/24,0.84,1,48,5,
+7434450,Nice room in front of the park,3830576,Evelyne,,Ahuntsic-Cartierville,45.55761,-73.66219,Private room,50,31,213,3/14/24,2.03,1,187,45,"311367, expires: 2024-11-30"
+7478402,Spacious Studio in NDG,39159881,Lizzy,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.4757,-73.63015,Entire home/apt,115,2,142,2/18/24,1.36,7,106,26,"308210, expires: 2024-12-31"
+7518154,Belle grande chambre dans maison privée,1327466,Marie Gyby,,Ahuntsic-Cartierville,45.53053,-73.70268,Private room,48,31,26,8/6/23,0.25,3,262,1,
+7580556,Agreable & Confortable Appartement,5790602,Andres,,Rosemont-La Petite-Patrie,45.57283958,-73.5729086,Entire home/apt,100,2,21,2/19/24,1.57,1,298,18,"312700, expires: 2024-07-27T22:05:18Z"
+7583134,Quiet and Clean in Plateau Mont-Royal Studio,6312297,Katherine,,Le Plateau-Mont-Royal,45.5271,-73.57466,Entire home/apt,52,32,15,11/19/23,0.14,14,274,2,
+7618513,Michel et Nicole CITQ N: 287980+ Parking privé,39955896,Michel Et Nicole,,Mercier-Hochelaga-Maisonneuve,45.56992,-73.52616,Entire home/apt,127,2,440,3/10/24,4.19,1,217,53,"287980, expires: 2024-10-31"
+7650803,1 brm apartment oasis in Ahuntsic furnished,1803138,MFS - Maria,,Ahuntsic-Cartierville,45.54237,-73.64542,Entire home/apt,70,32,4,11/11/23,0.04,1,80,2,
+7651945,Superbe appartement Montreal,4146799,Louis-Philippe,,Ville-Marie,45.519,-73.56564,Entire home/apt,140,31,22,3/13/20,0.24,1,50,0,
+7698799,Your 3BDR refuge in Montreal -no 302655,40436918,Rodica,,Mercier-Hochelaga-Maisonneuve,45.57649,-73.55099,Entire home/apt,150,5,94,7/14/23,0.9,1,208,2,"302655, expires: 2024-09-30"
+7709142,"Casa Italiana, large room, bright, 2 beds MPD2",40497800,Lorenzo,,LaSalle,45.42668,-73.60452,Private room,40,31,12,9/4/22,0.24,4,365,0,
+7727076,Montreal Modern Detached Home!,40601106,Maxime,,Côte-Saint-Luc,45.47585,-73.66134,Entire home/apt,43,31,23,11/16/23,0.22,1,60,2,
+7728307,Corporate Stays | Le Shaughn | Stylish 1BR,38459934,Corporate Stays,,Ville-Marie,45.49086,-73.57729,Entire home/apt,168,31,9,8/31/20,0.09,102,79,0,
+7775667,"Exceptional!  Modern, high class with Breakfast!",40904499,"Reg, Family&Co.",,Hampstead,45.48491,-73.64265,Entire home/apt,246,31,119,11/4/23,1.14,1,364,14,"309495, expires: 2024-04-30"
+7775898,Cozy Montreal Apartment with Terrasse,10994988,Lam,,Rosemont-La Petite-Patrie,45.55125,-73.58159,Entire home/apt,60,150,9,12/19/21,0.11,1,235,0,
+7842840,Le2662 : Beau studio à 2 pas du métro Pie IX,26240685,Julien,,Mercier-Hochelaga-Maisonneuve,45.55338,-73.55087,Entire home/apt,200,5,16,11/14/19,0.16,1,23,0,"286904, expires: 2024-09-30"
+7881913,Central Quiet and Cozy Home,19347399,Stefanie,,Le Sud-Ouest,45.47828857,-73.56284894,Entire home/apt,450,2,0,,,1,171,0,"312823, expires: 2024-04-17"
+7885520,Historic building apartment in central location,5554311,Naoufel,,Ville-Marie,45.52131,-73.55904,Entire home/apt,50,31,9,1/28/24,0.12,1,173,1,
+7936491,Huge Central Retreat,41850801,Dom,,Le Sud-Ouest,45.48538,-73.57581,Entire home/apt,300,32,47,8/10/23,0.45,1,139,2,
+7936526,Modern and comfortable appt - Plateau Mont Royal,442223310,BESTBNB Conciergerie,,Le Plateau-Mont-Royal,45.52024,-73.57971,Entire home/apt,107,31,190,8/30/22,2.61,6,365,0,
+8053698,Grande et belle chambre avec walk-in,42533465,Sib & Chris,,Verdun,45.46231,-73.56551,Private room,60,31,31,2/26/24,0.33,2,349,5,
+8226033,Bel oasis près du Canal Lachine,27495595,Maude,,Lachine,45.43582211,-73.67157515,Entire home/apt,137,31,0,,,1,100,0,
+8249642,Nice apartment fully equiped,43505077,Mestapha,,Le Sud-Ouest,45.45071,-73.5923,Entire home/apt,90,32,18,4/23/23,0.18,1,235,1,
+8277047,5 1/2 à louer Plateau Mont-Royal,42160149,Martine,,Le Plateau-Mont-Royal,45.53171,-73.56582,Entire home/apt,120,31,111,12/5/23,1.08,1,292,3,
+8327432,Le confort aux portes de la ville,17265783,Mathieu&Martin,,Ville-Marie,45.52827,-73.55739,Entire home/apt,68,60,9,3/13/24,0.09,2,97,4,
+8341614,comfy one bedroom apartment MIN one month stay,6279531,Magenka,,Saint-Laurent,45.49633,-73.68381,Entire home/apt,68,32,52,9/30/23,0.5,1,265,2,
+8353975,"Long stay - 2 bdr + big lvr, wifi, 4mn to metro",43682980,Sonia Et Thomas,,Villeray-Saint-Michel-Parc-Extension,45.55205,-73.60656,Entire home/apt,45,31,61,6/30/23,0.59,1,53,2,
+8355810,Large room with 'en suite' bathroom and 2 bicycles,7223348,Jason,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.49169,-73.62956,Private room,38,32,22,1/31/23,0.22,9,158,0,
+8459268,Brand new apt  on Crescent street,36297157,Guoying,,Ville-Marie,45.49853,-73.57517,Entire home/apt,198,180,52,1/14/18,0.5,1,179,0,
+8545669,SOSHE 404 - adj. MUHC- Glen Campus,3299104,Franca,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47342,-73.60804,Entire home/apt,40,90,10,11/30/16,0.1,10,264,0,
+8615073,"HIGH QUALITY, MONTREAL , LOW COST , BEST VALUE.",7250257,Stewie,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47201,-73.64476,Entire home/apt,1300,32,29,8/2/23,0.28,17,116,1,
+8615301,Cozy home 15 sec walk from Vendome,18587259,Rashad,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47492,-73.60552,Entire home/apt,70,31,127,11/27/23,1.24,1,364,4,
+8656505,Studio Logan -,45490921,Daniel,,Ville-Marie,45.52017,-73.55778,Entire home/apt,88,60,36,9/30/23,0.35,1,152,2,
+8689315,10 min & Less Walk to Most of Verdun Guaranteed,2657524,Sunny,,Verdun,45.45838429,-73.56750378,Entire home/apt,82,4,135,2/19/24,1.74,6,283,20,"296323, expires: 2024-07-31"
+8760268,Studio au cœur de St-Henri,22480535,Amélie,,Le Sud-Ouest,45.47136,-73.58603,Entire home/apt,85,31,21,2/2/24,0.29,2,81,6,
+8964227,Cozy 2 BED suite in heart of Downtown Montreal,26736977,Eda,,Ville-Marie,45.49592,-73.5829,Entire home/apt,149,32,6,8/29/18,0.06,1,270,0,
+8990841,Huge modern waterfront residence !,75212378,Maude Et Pascal,,L'Île-Bizard-Sainte-Geneviève,45.4761,-73.87535,Entire home/apt,265,32,12,3/1/24,0.12,1,0,3,
+8990949,THE Montreal crash pad,46965680,Damian,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.46196,-73.64159,Private room,74,32,0,,,1,275,0,
+9193560,Calm +comfort close to Downtown/Plateau/Mt-Royal,2380079,Joëlle,,Le Plateau-Mont-Royal,45.50953,-73.57762,Private room,29,31,57,2/17/24,0.56,1,86,6,
+9235345,Maison 3 étages dans Rosemont (métro d’Iberville),48002730,Emilie Et Arturo,,Villeray-Saint-Michel-Parc-Extension,45.55491,-73.59886,Entire home/apt,590,31,7,8/14/23,0.07,1,31,1,
+9301794,Outremont / Mile-end Appartment,4102676,Gabrielle,,Le Plateau-Mont-Royal,45.51952,-73.59687,Entire home/apt,299,3,96,2/12/24,0.96,1,125,14,"313192, expires: 2024-05-17"
+9339596,"Fantastic location, for families, professionals!",2411934,Ina,,Ville-Marie,45.49126,-73.56725,Entire home/apt,150,60,0,,,1,89,0,
+9428385,"MTLVR #06 | Fully equipped 3BR, Family focused",24290215,Yann,,Le Plateau-Mont-Royal,45.5318,-73.57688,Entire home/apt,207,31,148,3/15/24,1.47,19,232,28,"292353, expires: 2025-02-28"
+9448927,Luxurious Appartement in Downtown Montreal,47979504,Sandro,,Ville-Marie,45.49686,-73.57988,Entire home/apt,140,31,4,9/15/23,0.05,1,267,1,
+9484988,Bel appartement près de tout!,45443269,Majorette,,Le Plateau-Mont-Royal,45.53766,-73.56893,Entire home/apt,75,31,7,11/16/23,0.08,1,235,3,
+9495914,A pretty 3 and ½ apartment in Le Plateau,11798449,Sylvie,,Le Plateau-Mont-Royal,45.53468,-73.58579,Entire home/apt,90,31,156,12/9/23,1.54,2,199,1,
+9499809,Linda's Way Victorian House Montreal,471001,Linda Michelle,,Ville-Marie,45.51135,-73.5605,Entire home/apt,495,2,172,3/17/24,1.71,1,323,28,"118510, expires: 2025-02-09"
+9532490,"HIGH QUALITY, MONTREAL , LOW COST , BEST VALUE...",7250257,Stewie,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47318,-73.64515,Entire home/apt,1300,32,33,12/31/23,0.32,17,98,3,
+9547823,"Grand Apt bien situé et proche de tout 
+201",46218029,Sam,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.51179,-73.6273,Entire home/apt,91,31,24,7/8/22,0.3,3,177,0,
+9613965,"DOWNTOWN VIP MONTREAL ,  GOOD VALUE ,GREAT DECOR I",7250257,Stewie,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47203,-73.64633,Entire home/apt,1500,32,73,7/2/23,0.72,17,159,2,
+9623570,Quebec Heritage House (Griffintown),6178250,Michael,,Le Sud-Ouest,45.49369,-73.56161,Entire home/apt,643,1,152,2/11/24,1.58,8,267,22,"294243, expires: 2024-11-30"
+9626469,'Petit Laurier' - in the *PLATEAU*,49792178,Jayson,,Le Plateau-Mont-Royal,45.53668,-73.58294,Entire home/apt,175,3,160,9/5/23,1.7,1,186,4,"309935, expires: 2024-04-30"
+9674122,Stylish 2BR in The Plateau by LeQube,1761366,LeQube,,Le Plateau-Mont-Royal,45.52218628,-73.5740509,Entire home/apt,115,1,183,2/11/24,1.86,10,143,44,"293112, expires: 2024-03-31"
+9705970,"Condo-Maison, 3CAC 2SDB, luxueux, centre ville MTL",49928805,Martin,,Le Plateau-Mont-Royal,45.52037,-73.56601,Entire home/apt,125,180,1,4/13/19,0.02,1,327,0,
+9730516,PLATEAU-Close to  METRO and UNIVERSITIES,50211466,Maggaly,,Le Plateau-Mont-Royal,45.5245018,-73.58161926,Private room,298,31,43,12/5/23,0.45,4,357,3,
+9750770,Modern 1BR in The Plateau by LeQube,1761366,LeQube,,Le Plateau-Mont-Royal,45.52225,-73.57424,Entire home/apt,104,1,106,2/17/24,1.05,10,179,37,"293112, expires: 2024-03-31"
+9751756,Bright Studio in The Plateau by LeQube,1761366,LeQube,,Le Plateau-Mont-Royal,45.522278,-73.574219,Entire home/apt,110,1,141,2/27/24,1.4,10,175,42,"293112, expires: 2024-03-31"
+9752238,Bright Studio in Montreal By LeQube,1761366,LeQube,,Le Plateau-Mont-Royal,45.522278,-73.574219,Entire home/apt,108,1,178,3/1/24,1.83,10,174,40,"293112, expires: 2024-03-31"
+9752458,Slick Studio in The Plateau by LeQube,1761366,LeQube,,Le Plateau-Mont-Royal,45.52228,-73.57422,Entire home/apt,111,1,123,3/4/24,1.25,10,182,41,"293112, expires: 2024-03-31"
+9752792,Sleek Studio in the Plateau by LeQube,1761366,LeQube,,Le Plateau-Mont-Royal,45.52228,-73.57422,Entire home/apt,108,1,106,3/15/24,1.06,10,175,32,"293112, expires: 2024-03-31"
+9772086,"Plateau cozy room, mountain view CITQ #311745",5910057,Alison,,Le Plateau-Mont-Royal,45.52022,-73.57932,Private room,49,31,136,1/29/24,1.44,1,143,40,"311745, expires: 2025-01-09"
+9807529,Upscale Room in Montreal by LeQube,1761366,LeQube,,Le Plateau-Mont-Royal,45.52228,-73.57422,Entire home/apt,111,1,155,3/2/24,1.6,10,128,32,"293112, expires: 2024-03-31"
+9860116,"Bright and sunny bedroom, 7 minute walk from metro",5707748,Juliette,,Ahuntsic-Cartierville,45.54724,-73.64578,Private room,90,1,141,10/29/23,1.41,2,282,21,"314362, expires: 2024-06-28"
+9877649,"Centre ville de Montréal, 12218",15736663,Myriam,,Ville-Marie,45.51685,-73.55541,Entire home/apt,118,31,3,8/7/23,0.05,13,308,1,
+9918614,Located in the heart of Montreal !,4462156,Florence Et France,,Ville-Marie,45.52154,-73.55915,Entire home/apt,100,119,20,12/24/19,0.21,8,364,0,
+10014419,"Maison Tamtam 
+(CITQ #: 309507)",12837837,Samuel,,Villeray-Saint-Michel-Parc-Extension,45.52595,-73.62504,Entire home/apt,163,3,45,1/2/24,2.72,1,260,42,"309507, expires: 2024-03-31"
+10019460,Nomad in Hochelaga,11147519,Catherine,,Mercier-Hochelaga-Maisonneuve,45.54177,-73.5402,Entire home/apt,130,31,2,1/25/19,0.02,1,89,0,
+10095245,Beautiful Loft,51804732,Assal,,Ville-Marie,45.50234,-73.56463,Entire home/apt,175,31,0,,,1,83,0,
+10105366,Belle chambre tout inclus,42533465,Sib & Chris,,Verdun,45.46244,-73.56551,Private room,70,31,22,12/23/22,0.23,2,82,0,
+10124234,La Bohème | Work Desk & Wi-Fi | Metro Station 5min,45855740,Anne,,Villeray-Saint-Michel-Parc-Extension,45.54067,-73.62286,Entire home/apt,129,32,147,3/2/24,1.47,1,118,7,
+10124328,"Loft-style studio ""Le Microclimat""",51954898,Audrey,,Rosemont-La Petite-Patrie,45.55312,-73.59492,Entire home/apt,74,31,103,10/27/23,1.11,2,226,4,
+10135845,Quiet Urban Oasis downtown Montreal,25646950,Eric,,Ville-Marie,45.51394,-73.56696,Entire home/apt,83,180,7,11/4/16,0.07,10,275,0,
+10177741,Home Sweet Home,51512821,Miri,,Pierrefonds-Roxboro,45.50582,-73.81685,Entire home/apt,145,31,16,1/31/23,0.82,1,242,0,
+10288628,"Plaza10 - BBQ, XL Terrace, FirePit, restos & shops",51144331,Norman G,,Rosemont-La Petite-Patrie,45.538226,-73.606543,Entire home/apt,200,2,91,3/17/24,2.22,2,295,28,"296619, expires: 2024-08-31"
+10324744,Logement lumineux - Rosemont ( Parc Molson),5707549,Véronique,,Rosemont-La Petite-Patrie,45.55042825,-73.59067109,Entire home/apt,65,31,2,10/28/23,0.17,1,213,2,
+10340183,Monkland village appartement,53212163,Véronique,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47258,-73.61702,Entire home/apt,146,1,437,3/18/24,4.4,1,61,70,"301530, expires: 2024-05-31"
+10432590,Sunny 4 1/2 in Villeray. 15 min from Downtown,53690403,Dominique,,Villeray-Saint-Michel-Parc-Extension,45.54408661,-73.62639061,Entire home/apt,184,31,0,,,2,364,0,
+10469557,Experience luxury - Amazing location - pking incl.,2676852,Luc,,Le Plateau-Mont-Royal,45.53288,-73.58239,Entire home/apt,423,3,221,2/19/24,2.5,7,243,39,"304204, expires: 2024-03-31"
+10498422,"Downtown, Beautiful, Unique, spacious and sunny",54123735,Louis,,Ville-Marie,45.49388,-73.5834,Entire home/apt,150,32,11,1/16/24,0.11,1,298,4,
+10501253,Super cosy 4 pieces fully equipped on the Plateau,17263237,Kim,,Le Plateau-Mont-Royal,45.51646,-73.57201,Entire home/apt,89,1,635,3/19/24,6.69,1,46,114,"294434, expires: 2024-07-31"
+10655713,Cozy room with access to beautiful veranda,31822751,Yuan,,Saint-Laurent,45.51335134,-73.66135044,Private room,35,32,18,11/12/22,0.19,7,365,0,
+10691088,Luxury Downtown high floor AmazingView Bell Centre,55233753,Burhan,,Ville-Marie,45.49724,-73.56974,Entire home/apt,14,32,14,2/29/24,0.24,2,345,2,
+10719890,Une chambre privée sur le Plateau Mont-Royal,219279144,Gloria,,Le Plateau-Mont-Royal,45.53192,-73.57933,Private room,60,4,25,2/29/24,0.83,1,132,7,"311761, expires: 2025-01-15"
+10994919,"Appt 1100 sf / location, near services,",57049518,Abdelkader,,Saint-Laurent,45.5112,-73.67754,Private room,140,31,47,6/21/23,0.49,1,364,2,
+11070741,Lovely Semi-Basement Flat in Montreal's Heart,7597963,Gaiane,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.48756,-73.62667,Entire home/apt,125,2,24,12/2/23,1.27,1,147,6,"314136, expires: 2024-06-12"
+11083919,Long term*great location*350m subway station (f),154735,Isabelle,,Rosemont-La Petite-Patrie,45.53404,-73.59686,Entire home/apt,78,32,7,12/23/23,0.1,8,234,2,
+11124712,Grand appartement dans le Mile-End,16278760,Guylaine,,Le Plateau-Mont-Royal,45.52361,-73.60296,Entire home/apt,150,31,2,7/30/23,0.02,1,106,1,
+11270384,Amazing Ground Floor with Patio -  95% Walk Score!,57761284,Bernhard And Frederique,,Le Plateau-Mont-Royal,45.52373,-73.57912,Entire home/apt,457,1,276,3/10/24,2.89,6,261,54,"291885, expires: 2025-02-28"
+11279075,Central Location - Large Terrace - 95% Walk Score!,57761284,Bernhard And Frederique,,Le Plateau-Mont-Royal,45.52374,-73.58122,Entire home/apt,378,1,234,3/17/24,2.45,6,259,52,"291885, expires: 2025-02-28"
+11279304,Top Floor - Huge Sunny Terrace - 95% Walk Score!,57761284,Bernhard And Frederique,,Le Plateau-Mont-Royal,45.52201,-73.5792,Entire home/apt,366,1,223,3/13/24,2.31,6,246,50,"291885, expires: 2025-02-28"
+11300139,Cozy appartment to rent for 1 year!,59054280,Mélanie,,Verdun,45.44384,-73.58006,Entire home/apt,40,325,0,,,1,364,0,
+11343641,"Bright bedroom, private bathroom. Downtown Mtl",59384754,Katie,,Ville-Marie,45.51225,-73.56079,Private room,85,31,32,10/31/23,0.33,1,90,1,
+11413241,Charming and perfect for family in a lively area,11154804,Philippe & Sandrine,,Rosemont-La Petite-Patrie,45.55427,-73.58346,Entire home/apt,150,6,9,8/7/23,0.1,5,10,3,"312736, expires: 2024-04-13"
+11583915,Well Located Cozy Plateau Apt,27281445,Tia,,Le Plateau-Mont-Royal,45.52759,-73.59137,Entire home/apt,350,31,19,8/19/19,0.19,1,133,0,
+11587559,"Renovated April 2022, downtown, 1br, Berri station",3227599,Geneviève,,Ville-Marie,45.52,-73.56235,Entire home/apt,51,31,236,3/9/24,2.49,2,187,8,
+11594641,JEWEL- Modern&Cachet- Best Location,33242683,Catherine Marie-Claude,,Ville-Marie,45.51108,-73.5623,Entire home/apt,653,31,37,7/12/20,0.39,11,365,0,
+11609689,"Downtown, quiet and private, renovated",3227599,Geneviève,,Ville-Marie,45.52015,-73.56388,Entire home/apt,52,31,203,1/31/24,2.16,2,66,5,
+11637966,New Condo with Piano beside Olympic Stadium,23399629,Grace,,Mercier-Hochelaga-Maisonneuve,45.5548,-73.54878,Entire home/apt,88,360,13,6/30/21,0.13,1,364,0,
+11651385,Water front apartment in city of Montreal,61802690,Chen,,Lachine,45.43384645,-73.67859551,Entire home/apt,93,2,253,2/26/24,2.62,1,0,57,"301845, expires: 2024-06-30"
+11698106,Downtown Montreal - Tour des Canadiens,62166910,Jean-Grégoire,,Ville-Marie,45.49625,-73.57169,Entire home/apt,100,31,25,1/19/24,0.27,2,260,4,
+11698437,Big cozy house 5BR close to DT,62169679,Evgeny,,Le Sud-Ouest,45.4646,-73.593,Entire home/apt,319,31,250,3/4/24,2.6,3,340,31,"296126, expires: 2024-07-31"
+11712825,LE CONDO LAJEUNESSE (next to metro station),24484839,Noeung,,Ahuntsic-Cartierville,45.5517,-73.65948,Entire home/apt,86,2,254,2/26/24,2.63,3,112,45,"298953, expires: 2025-01-31"
+11734929,Cozy French Studio,62420054,June,,Le Plateau-Mont-Royal,45.53476,-73.58537,Private room,105,31,51,6/4/22,0.61,1,304,0,
+11806368,Chic Luxury Downtown Condo with Pool & Garage !,45643240,Chrissy,,Ville-Marie,45.5059,-73.56823,Entire home/apt,205,31,23,7/29/19,0.24,7,365,0,
+11809503,"Urban Vintage, for 2 pers, GREAT location (h)",154735,Isabelle,,Rosemont-La Petite-Patrie,45.53402,-73.59689,Entire home/apt,135,32,20,9/16/23,0.23,8,295,1,
+11812604,"BREATHTAKING LUXURY CONDO-GARAGE,BALCONY,AMENITIES",45643240,Chrissy,,Ville-Marie,45.49461,-73.56755,Entire home/apt,222,31,23,6/9/19,0.24,7,180,0,
+11829886,SEXY DOWNTOWN LUXURY CONDO WITH GARAGE & AMENITIES,45643240,Chrissy,,Ville-Marie,45.50578,-73.56618,Entire home/apt,185,31,53,1/1/18,0.55,7,365,0,
+11931262,STUNNING URBAN LOFT-GREAT AMENITIES & ROOFTOP POOL,45643240,Chrissy,,Le Sud-Ouest,45.48275,-73.58199,Entire home/apt,178,31,47,9/22/19,0.49,7,365,0,
+11944181,Perfect ROOM in the Plateau.,29298651,Miki,,Le Plateau-Mont-Royal,45.52566,-73.58216,Private room,76,1,298,3/13/24,3.21,1,140,57,"294792, expires: 2024-12-18"
+12073416,Plateau Mont-Royal's charm - central and cozy,6511426,Cristina,,Le Plateau-Mont-Royal,45.52857,-73.57397,Entire home/apt,160,5,55,11/3/23,0.58,1,101,3,"300242, expires: 2025-01-18"
+12123570,Appart balcon+parking gratuit- PlateauCITQ-221665,39653,Miozoti,,Le Plateau-Mont-Royal,45.53051,-73.56773,Entire home/apt,177,1,63,11/20/23,0.66,4,239,24,"221665, expires: 2025-02-28"
+12124494,APPART+BALCONY+ FREE PARKING LE PLATEAU,39653,Miozoti,,Le Plateau-Mont-Royal,45.53056,-73.56768,Entire home/apt,145,1,28,3/17/24,0.35,4,223,9,"221665, expires: 2025-02-28"
+12127911,Bright and quiet in the heart of Mile End!,56715805,Alexis,,Le Plateau-Mont-Royal,45.51914,-73.59197,Entire home/apt,230,40,7,8/24/22,0.08,1,61,0,
+12187792,Jolie appart dans La Petite Patrie,22721558,Oleksandra,,Rosemont-La Petite-Patrie,45.54306,-73.60615,Entire home/apt,116,31,149,1/2/24,1.54,2,303,2,
+12231211,Montreal Luxurious Lower Duplex,6636278,Helda,,Hampstead,45.48276335,-73.63892297,Entire home/apt,156,32,1,10/16/22,0.06,1,363,0,
+12234465,House in a quiet neighborhood (rooms),42590348,Gricha,,Baie-d'Urfé,45.41391317,-73.91662683,Private room,566,1,22,1/2/24,1.09,2,142,16,"310235, expires: 2024-05-31"
+12256183,Impossibly Cool Downtown Flat,15935760,Erol & Jay,,Le Plateau-Mont-Royal,45.50793,-73.57248,Entire home/apt,87,1,264,3/17/24,2.73,24,68,30,"294006, expires: 2024-03-31"
+12343679,BRAND NEW STUDIO DOWNTOWN MONTREAL,63233237,Mayer,,Ville-Marie,45.51073,-73.56893,Entire home/apt,110,185,22,4/29/17,0.24,1,365,0,
+12405297,Lovely Thai themed / Brand New Everything,52434694,Francesco,,LaSalle,45.44078,-73.62709,Entire home/apt,175,31,11,8/24/22,0.47,1,179,0,
+12462449,Chalet de ville/ air c/3+1 bdrm/ AIR/C,13834416,Hélène,,Rosemont-La Petite-Patrie,45.54707,-73.57783,Entire home/apt,90,31,161,2/18/24,1.69,2,255,2,
+12514980,Best MTL Superhosts!! +No FEES +Downtown +FastWIFI,4268904,Christopher+Fatine,,Ville-Marie,45.51351,-73.5655,Private room,107,1,946,3/18/24,9.91,2,111,127,"310044, expires: 2024-04-30"
+12517927,Sunlit Private Balcony ❤️  Downtown +WIFI,4268904,Christopher+Fatine,,Ville-Marie,45.5156,-73.56526,Private room,83,1,647,3/18/24,6.79,2,119,112,"310044, expires: 2024-04-30"
+12531782,"Plateausuites #2, 1BR apt,  Best@Plateau",14711467,Luke,,Le Plateau-Mont-Royal,45.5281,-73.58489,Entire home/apt,105,2,174,3/17/24,1.88,3,229,40,"230370, expires: 2024-09-30"
+12545764,2-Bedroom at district griffin - 945,387422,Service,,Le Sud-Ouest,45.4941,-73.55915,Entire home/apt,141,31,2,9/30/23,0.04,14,346,1,
+12548574,Chez Bé,27509188,Bérangère,,Rosemont-La Petite-Patrie,45.54655,-73.58279,Entire home/apt,65,32,15,8/17/23,0.16,1,4,2,
+12589553,"O-Cozy, Clean and All-Furnished Room - The Ocean",12939382,Julie,,Mercier-Hochelaga-Maisonneuve,45.596527,-73.514442,Private room,45,31,25,11/9/23,0.26,5,365,3,
+12646636,Cute 1br flat,59601521,Valérie,,Rosemont-La Petite-Patrie,45.55556552,-73.59034227,Entire home/apt,65,31,0,,,1,108,0,
+12654992,Stunning terrace - 2 bedrooms,68746814,Annie,,Le Plateau-Mont-Royal,45.52363,-73.57639,Entire home/apt,139,2,309,2/23/24,3.21,10,122,41,"294221, expires: 2024-05-31"
+12731573,Spacious Apartment in the Heart of Montreal P0403,13826429,Maya,,Saint-Laurent,45.51553,-73.65766,Entire home/apt,70,32,2,6/12/19,0.03,16,365,0,
+12732164,Spacious Apartment in the Heart of Montreal P0110,13826429,Maya,,Mont-Royal,45.51584,-73.6557,Entire home/apt,66,32,2,7/30/22,0.02,16,365,0,
+12751687,Spacious Apartment in the Heart of Montreal P0103,13826429,Maya,,Mont-Royal,45.51535,-73.65623,Entire home/apt,70,32,2,6/29/16,0.02,16,365,0,
+12754079,Apartment in the Heart of Montreal P0109,13826429,Maya,,Mont-Royal,45.51715,-73.65556,Entire home/apt,67,32,4,8/5/22,0.04,16,365,0,
+12757761,Apartment with 2 Bedrooms/2 Bathrooms P0305,13826429,Maya,,Mont-Royal,45.51614,-73.65581,Entire home/apt,100,32,2,8/8/16,0.02,16,365,0,
+12783812,Cachet au coeur de Montréal,47409366,Jean-Michel,,Ville-Marie,45.51516,-73.5565,Entire home/apt,295,31,93,11/21/22,0.99,6,365,0,
+12783848,New Victorian,47409366,Jean-Michel,,Ville-Marie,45.51706,-73.55758,Entire home/apt,575,31,142,8/7/23,1.49,6,365,2,
+12802202,"Comfy, clean and cozy, super location, for 2 (g)",154735,Isabelle,,Rosemont-La Petite-Patrie,45.53412,-73.59682,Entire home/apt,105,32,17,2/25/24,0.24,8,216,3,
+12826560,Double private room -  living & bedroom,69985975,Linda,,Le Plateau-Mont-Royal,45.52904,-73.58447,Private room,99,31,78,10/26/23,0.82,2,308,5,
+12834205,Studio Close to Downtown - Free Private Parking,70058293,Mary & Jim,,Rosemont-La Petite-Patrie,45.54182,-73.57921,Entire home/apt,46,31,160,3/17/24,1.94,14,269,6,
+12866623,Family furnished apartment,70348765,Dodo,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.50778,-73.63218,Entire home/apt,130,32,14,7/9/22,0.15,4,365,0,
+12888527,STUDIO MTL,29498328,Magali,,Villeray-Saint-Michel-Parc-Extension,45.54844,-73.62864,Entire home/apt,40,32,21,1/31/24,0.22,3,97,2,
+12908495,Spacious * 4BR *Plateau Mont-Royal*Sunny Courtyard,9007944,Émilie,,Le Plateau-Mont-Royal,45.52541,-73.57761,Entire home/apt,750,4,33,8/20/23,0.35,1,35,3,"309825, expires: 2024-05-01T00:00:00Z"
+12911082,"Chez Miel - Take a deep breath, you're home now...",70776231,Chez Miel,,Saint-Léonard,45.57079,-73.59069,Entire home/apt,120,2,148,3/17/24,1.56,1,258,20,"294658, expires: 2024-09-30"
+12911815,"Splendid studio with garden, Griffintown",6178250,Michael,,Le Sud-Ouest,45.493,-73.56146,Entire home/apt,145,1,79,1/23/24,0.83,8,101,17,"294243, expires: 2024-11-30"
+12967956,Bachelor flat Metro Rosemont,71330532,Dominic,,Rosemont-La Petite-Patrie,45.53509,-73.59591,Entire home/apt,60,1,193,3/4/24,2.02,1,35,11,"315105, expires: 2024-09-13"
+12985286,2 bedrooms with private back yard,133747,Caroline,,Mercier-Hochelaga-Maisonneuve,45.57843,-73.54834,Entire home/apt,45,32,6,1/29/24,0.35,2,217,3,
+12990942,Quiet and clean in Plateau 16,6312297,Katherine,,Le Plateau-Mont-Royal,45.5271,-73.57466,Entire home/apt,52,32,8,8/26/19,0.1,14,365,0,
+13019764,Beautiful and cosy getaway by the river,1371850,Hedi,,Verdun,45.45816,-73.56451,Entire home/apt,48,31,92,10/31/23,0.96,1,227,2,
+13028872,Luxury Loft with Panoramic City Views,3604131,Stephanie,,Ville-Marie,45.50698,-73.57177,Entire home/apt,110,90,23,8/30/16,0.24,1,365,0,
+13083101,Condo in Griffintown,60931296,Hermann,,Le Sud-Ouest,45.4949,-73.56016,Entire home/apt,109,90,28,12/23/23,0.29,1,293,1,
+13106154,Best View in Montreal overlooking Square St Louis,294199,Tim,,Le Plateau-Mont-Royal,45.51757,-73.56843,Entire home/apt,88,31,70,11/1/23,0.76,1,364,1,
+13134194,Superb 2 bedroom apartment in the plateau,36857728,Julie Et Philippe,,Le Plateau-Mont-Royal,45.53003,-73.58438,Entire home/apt,200,2,176,3/17/24,1.86,1,152,16,"296361, expires: 2024-06-30"
+13136633,"Converted, Cozy Coach House Studio",40853,Lili,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47174,-73.61209,Entire home/apt,110,3,221,3/17/24,2.45,2,266,40,"296440, expires: 2024-07-31"
+13204345,Large 1 bedroom Apartment Downtown/Mount Royal,66881070,Oxford,,Le Plateau-Mont-Royal,45.51038,-73.57583,Entire home/apt,88,31,11,8/26/23,0.12,20,243,2,
+13206625,Gorgeous Modern Condo Center of Downtown Montreal,33652137,Pedrum,,Ville-Marie,45.49484,-73.57379,Entire home/apt,1100,31,0,,,1,358,0,
+13250283,Liv MTL Soho-6 Big Spacious 1BR + Rooftop No Fees,73995257,Liv MTL,,Le Plateau-Mont-Royal,45.52031,-73.57839,Entire home/apt,216,2,53,3/10/24,0.56,47,347,18,"298468, expires: 2024-11-30"
+13250351,Liv MTL Soho-5 Big Spacious Studio Rooftop No Fees,73995257,Liv MTL,,Le Plateau-Mont-Royal,45.52212,-73.57879,Entire home/apt,196,2,44,11/24/23,0.46,47,355,12,"298468, expires: 2024-11-30"
+13265152,Sunny 2 bedroom close to everything,68746814,Annie,,Le Plateau-Mont-Royal,45.52255,-73.57422,Entire home/apt,173,2,284,3/3/24,3,10,126,49,"291745, expires: 2025-02-28"
+13267812,L'orée du Jardin Botanique,72389359,Claude,,Rosemont-La Petite-Patrie,45.5569,-73.56135,Entire home/apt,78,32,3,7/29/23,0.04,1,307,1,
+13300093,Appartement avec terrasse plateau Mont Royal,12231896,Laurence,,Le Plateau-Mont-Royal,45.53609,-73.56696,Entire home/apt,100,31,24,8/11/23,0.26,1,90,1,
+13312637,Studio apartment in the heart of Downtown,66881070,Oxford,,Le Plateau-Mont-Royal,45.50888,-73.5715,Entire home/apt,78,31,15,12/2/23,0.16,20,242,1,
+13328946,2 Bedrooms Condo in the heart of the city Montreal,73825331,Fiorella,,Ville-Marie,45.5120432,-73.5687147,Entire home/apt,153,3,11,2/19/24,1.56,1,152,11,"314848, expires: 2024-08-03"
+13332196,Amazing newly renovated loft in Old MTL w/Parking,75461248,Laurent,,Ville-Marie,45.50894,-73.5516,Entire home/apt,114,2,130,8/31/21,1.38,1,226,0,"317896, expires: 2025-03-11"
+13343394,Magnifique et grand au coeur du mile end,45591162,Marie-Eve,,Le Plateau-Mont-Royal,45.52618,-73.5999,Entire home/apt,169,3,166,1/2/24,2.05,1,36,27,"308148, expires: 2025-02-28"
+13357654,#1 Cozy Room,75761307,Olga,,Verdun,45.45781,-73.57719,Private room,30,32,13,3/9/24,0.14,6,111,1,
+13369241,Liv MTL Soho-5 + 6 Penthouse Groups Events Rooftop,73995257,Liv MTL,,Le Plateau-Mont-Royal,45.52199,-73.5783,Entire home/apt,501,2,127,2/19/24,1.35,47,347,9,"298468, expires: 2024-11-30"
+13376682,"Feel at home in our 2-Story townhouse, Plateau",1814568,Nicholas,,Le Plateau-Mont-Royal,45.52676,-73.5827,Entire home/apt,532,2,200,3/17/24,2.14,1,237,36,"294067, expires: 2024-03-31"
+13384923,"Big, Modern and Sunny Apartment in the Mile End!",25042946,Nadine,,Le Plateau-Mont-Royal,45.52398,-73.59448,Entire home/apt,171,31,35,8/5/19,0.37,1,105,0,
+13410166,#5 Sunny Room,75761307,Olga,,Verdun,45.45761,-73.57783,Private room,30,32,18,9/30/19,0.19,6,319,0,
+13414089,Bright and spacious 2 bedroom apartment,76411191,Yves,,Outremont,45.52357,-73.61318,Entire home/apt,110,31,7,8/6/18,0.07,2,365,0,
+13416050,Montreal Canadiens Condo,76435817,Dino,,Ville-Marie,45.49488,-73.57038,Entire home/apt,120,31,20,10/3/23,0.21,1,31,1,
+13416413,#2 Peaceful Room,75761307,Olga,,Verdun,45.4559,-73.57574,Private room,30,32,17,2/3/24,0.18,6,294,1,
+13496588,Liv MTL Soho-2 Stylish 1BR Artsy + Rooftop No Fees,73995257,Liv MTL,,Le Plateau-Mont-Royal,45.52022,-73.57845,Entire home/apt,148,2,79,2/19/24,0.87,47,365,7,"298468, expires: 2024-11-30"
+13533444,Private suite with a king size bed,38750828,Gilles,,Mercier-Hochelaga-Maisonneuve,45.58067,-73.56059,Entire home/apt,54,5,263,3/1/24,2.82,1,9,32,"294386, expires: 2024-07-01T00:00:00Z"
+13557596,1 bedroom Apartment Downtown Montreal,66881070,Oxford,,Le Plateau-Mont-Royal,45.51019,-73.5753,Entire home/apt,88,31,10,11/30/23,0.11,20,242,2,
+13575371,Condo meuble luxueux neuf 800 PC,24773796,Mounir,,Ahuntsic-Cartierville,45.53402,-73.67991,Entire home/apt,88,31,4,5/22/17,0.04,2,364,0,
+13601421,Liv MTL Urban-2 Spacious 2BR & Event-Ready No Fees,73995257,Liv MTL,,Le Plateau-Mont-Royal,45.52112,-73.58695,Entire home/apt,239,2,133,12/30/23,1.46,47,365,14,"298467, expires: 2024-12-31"
+13601638,Liv MTL Urban-1 Spacious 2BR & Event-Ready No Fees,73995257,Liv MTL,,Le Plateau-Mont-Royal,45.51993,-73.58715,Entire home/apt,215,2,152,2/19/24,1.67,47,363,14,"298467, expires: 2024-12-31"
+13624788,Luxurious condo in the heart of downtown,10836138,Amine,,Ville-Marie,45.49673,-73.57022,Entire home/apt,249,90,20,7/27/19,0.22,11,219,0,
+13625405,Montreal BIG APARTMENT @  25 minutes from Downtown,48636065,Olivier,,Ahuntsic-Cartierville,45.55559,-73.64754,Entire home/apt,115,31,68,10/7/23,0.73,1,361,6,
+13638221,Charming bedroom - Le Plateau - Next to Metro!,50211466,Maggaly,,Le Plateau-Mont-Royal,45.52547073,-73.58023071,Private room,145,31,74,12/23/23,0.79,4,336,16,
+13644463,Six in the Sky,47409366,Jean-Michel,,Ville-Marie,45.51636,-73.55845,Entire home/apt,460,31,119,10/12/22,1.27,6,365,0,
+13688685,"Maison 3 chambres, près du métro 2 parking gratuit",29872464,Lucie,,Saint-Laurent,45.50936,-73.66983,Entire home/apt,245,4,63,12/9/23,0.78,4,212,8,"218105, expires: 2024-04-30"
+13690687,fantastic Loft in Old Montreal,27445033,Daniel,,Ville-Marie,45.50692,-73.55286,Entire home/apt,155,2,187,3/1/24,2,1,61,23,"314432, expires: 2024-07-13"
+13708555,Tranquil Downtown Two Storey Appartement,80023904,Duane,,Ville-Marie,45.52248,-73.5568,Entire home/apt,100,31,14,12/28/23,0.17,1,267,2,
+13770977,Nice 2 bedrooms apartment with air conditioning,80802087,Stéphane,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.48887,-73.62355,Entire home/apt,100,32,80,7/9/23,0.86,2,102,4,
+13771230,The perfect 4 bedrooms apartment,80802087,Stéphane,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.48927,-73.62375,Entire home/apt,106,32,70,7/15/23,0.85,2,138,3,
+13795131,Long term *great location* 300m metro Rosemont (b),154735,Isabelle,,Rosemont-La Petite-Patrie,45.53379,-73.59757,Entire home/apt,103,32,22,8/1/23,0.24,8,109,1,
+13799116,Private Rm/Location/Rooftop terrace,33242683,Catherine Marie-Claude,,Ville-Marie,45.51222,-73.56572,Private room,450,31,8,11/28/21,0.09,11,292,0,"294189, expires: 2024-06-02T00:00:00Z"
+13803501,Luxurious new  condo downtown,54792154,Dave,,Ville-Marie,45.49486,-73.57499,Entire home/apt,119,31,100,10/31/22,1.07,1,70,0,
+13806711,LUXE-CHIC& COZY - Heart Dtown-Rooftop + Parking,33242683,Catherine Marie-Claude,,Ville-Marie,45.50653,-73.56256,Entire home/apt,639,31,12,9/6/21,0.13,11,365,0,"294189, expires: 2024-06-02T00:00:00Z"
+13811943,(CITQ 295836) Room w. Balcony near Olymp. Stadium,77588111,Shane,,Mercier-Hochelaga-Maisonneuve,45.57176,-73.54376,Private room,98,2,193,11/26/23,2.05,1,343,45,"295836, expires: 2024-05-31"
+13829510,THE ONE - Spacious and Private,10315681,Emily,,LaSalle,45.41752,-73.6265,Entire home/apt,85,32,60,9/23/23,0.64,1,333,6,
+13861801,"Heart of Downtown, luxury condo, with rooftop pool",81916634,Michelle,,Ville-Marie,45.50069,-73.57869,Entire home/apt,120,31,1,6/21/22,0.05,3,325,0,
+13898581,"Plateau,FreeParking,4BRs,2Bath,Spacious,Central",71535110,Mary&Tony,,Le Plateau-Mont-Royal,45.53741,-73.56123,Entire home/apt,447,2,246,12/30/23,2.63,1,92,40,"294425, expires: 2024-06-30"
+13928750,Plateau Hideaway LEGAL CITQ 310272 Exp 05/31/24,81963863,Elliott,,Le Plateau-Mont-Royal,45.5228,-73.59956,Entire home/apt,53,1,316,3/14/24,3.38,1,7,47,"310272, expires: 2024-05-31T21:46:44Z"
+13942585,"Location Delight,Cozy Comfy Modern & Central House",82882896,Michael,,Hampstead,45.4791,-73.63447,Entire home/apt,603,31,33,7/30/23,0.36,1,365,3,
+13943105,Chez Ping / A sunny and comfortable place to stay!,77596902,Ping,,Mercier-Hochelaga-Maisonneuve,45.5504,-73.55049,Entire home/apt,150,3,282,3/4/24,3.02,1,231,30,"301570, expires: 2024-05-31"
+13951431,ENTIRE UNIT NEAR DOWNTOWN MONTREAL. SELF CHECK IN,37785176,Elaine,,Ahuntsic-Cartierville,45.53717,-73.69312,Entire home/apt,48,32,37,10/28/23,0.41,1,0,2,
+14011176,Modern Large One bedroom Plateau Montreal,66881070,Oxford,,Le Plateau-Mont-Royal,45.51064,-73.57629,Entire home/apt,88,31,4,1/31/24,0.05,20,242,1,
+14012981,"Out of downtown, but close to town! 3 Bedroom Apt",83791200,Walid,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.48779,-73.62578,Entire home/apt,110,31,21,12/23/23,0.25,2,323,4,
+14070555,Apartment in Montreal,36741216,Letysia,,Verdun,45.46637536,-73.57886545,Entire home/apt,119,2,34,3/5/24,4.13,1,166,34,"314446, expires: 2024-07-07T00:00:00Z"
+14077466,Independent furnished Room,13648338,Nader,,Ville-Marie,45.52081,-73.56271,Private room,39,31,30,11/3/23,0.32,9,364,1,
+14091986,3 bedroom Apartment - Recently Renovated!,49199193,Joshua,,Côte-Saint-Luc,45.46672,-73.66643,Entire home/apt,102,32,182,11/30/23,1.95,3,265,2,
+14111911,"Bright, Large & Ultra Clean 5 BR in Safe Area",49199193,Joshua,,Côte-Saint-Luc,45.46653,-73.66769,Entire home/apt,236,32,164,12/3/23,1.76,3,293,1,
+14138169,Double bed on Byron next to Metro Snowdon and more,2596248,Denise,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.48237,-73.62775,Private room,40,31,37,8/17/23,0.4,2,230,1,
+14248383,Charming apartment in the Little Italy of Montreal,62863234,Nancy,,Rosemont-La Petite-Patrie,45.5338,-73.607,Entire home/apt,77,32,83,11/26/23,0.9,1,130,4,
+14250072,Quiet & clean in Plateau Mont-Royal Studio  #3,6312297,Katherine,,Le Plateau-Mont-Royal,45.52716,-73.57465,Entire home/apt,48,32,14,1/3/23,0.15,14,203,0,
+14254833,Unbeatable location One bedroom King size bed (3),11511525,Turgay,,Le Plateau-Mont-Royal,45.509293,-73.572342,Entire home/apt,169,1,6,12/30/23,0.06,4,351,1,"221252, expires: 2024-05-31"
+14259803,Superbe appartement 1 grande chambre meublée,9652125,Fanny,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.48255,-73.63005,Private room,42,33,13,10/29/19,0.14,2,323,0,
+14331867,Stunning Duplex (Griffintown),6178250,Michael,,Le Sud-Ouest,45.49227,-73.56274,Entire home/apt,94,1,87,3/1/24,0.95,8,100,19,"294243, expires: 2024-11-30"
+14350710,Chaleureux STUDIO au coeur des services,85388582,M.,,Westmount,45.4768,-73.60098,Entire home/apt,95,31,10,10/13/23,0.11,2,321,2,
+14394181,1 bedroom condo with patio in Downtown Montreal,7353316,Nika,,Le Sud-Ouest,45.4949,-73.55988,Entire home/apt,75,180,38,11/11/23,0.41,2,330,1,
+14395635,Grand appartement-Plateau Mont-Royal CITQ #294759,25263775,Adam,,Le Plateau-Mont-Royal,45.53606,-73.57556,Entire home/apt,177,2,109,1/1/24,1.18,2,298,36,"294759, expires: 2024-04-30"
+14404931,Angrignon Metro,85003331,Salvatore,,Le Sud-Ouest,45.44748,-73.60251,Entire home/apt,90,31,0,,,1,365,0,
+14448639,Chateaubriand - Metro Beaubien - Clim. murale,23714795,Helene,,Rosemont-La Petite-Patrie,45.53526,-73.60611,Entire home/apt,75,31,0,,,1,294,0,
+14503222,Natural Zen 1BR~ Downtown Montreal!,66340481,Daniel,,Ville-Marie,45.51158,-73.56406,Entire home/apt,59,31,28,2/16/23,0.31,28,188,0,
+14517704,Lovely cozy flat on the Plateau! Private parking!,21230502,Beatrice,,Le Plateau-Mont-Royal,45.53313,-73.57959,Entire home/apt,85,31,48,11/17/22,0.57,1,70,0,
+14588770,"Studio 5 minutes to subway, monthly stays",9770464,Melissa,,Ville-Marie,45.52109,-73.558,Entire home/apt,57,32,19,12/2/23,0.21,15,282,3,
+14669422,❤ La Peaceful and Cozy Petite Patrie (Rosemont) ❤,1098777,Lisa,,Rosemont-La Petite-Patrie,45.53448,-73.59435,Entire home/apt,77,31,35,9/13/23,0.38,3,99,2,
+14679290,3 bed rooms in my house of montreal,24973952,Qiang,,Lachine,45.43944,-73.70235,Entire home/apt,170,1,208,3/22/24,2.26,3,318,57,"300392, expires: 2024-05-31"
+14711440,Chambre confortable près du métro H-Bourassa,12858048,Michele,,Ahuntsic-Cartierville,45.55846,-73.66331,Private room,42,32,3,5/19/23,0.03,2,281,1,
+14740800,Central place with PRIVATE ENTRANCE near BerriUqam,91829654,Carol,,Ville-Marie,45.51525,-73.55637,Private room,70,32,68,4/1/23,0.74,1,49,1,
+14747883,Luxury Loft in The Heart of Downtown Montreal!,16221480,Mourad,,Ville-Marie,45.50545,-73.56618,Entire home/apt,91,33,20,2/8/24,0.22,2,312,4,
+14752586,Loft HoMa - 32 jours,36568769,JoanieHoule,,Mercier-Hochelaga-Maisonneuve,45.55919708,-73.53682334,Entire home/apt,74,32,4,2/29/24,0.44,1,52,4,
+14755965,Industrial and Modern style -  down town (1),32760952,Lise,,Ville-Marie,45.50558,-73.56289,Entire home/apt,87,31,18,9/1/22,0.2,3,99,0,
+14768962,A large apartment on Homa,6785372,Yohan,,Mercier-Hochelaga-Maisonneuve,45.54232,-73.54917,Entire home/apt,59,31,156,11/5/23,1.7,4,355,14,
+14881221,Heart Of The Village,34817449,Yusuf,,Ville-Marie,45.5217,-73.55314,Shared room,133,31,0,,,1,364,0,
+14896503,L'IDÉAL 1  ( métro Pie-IX )  Private Parking.,98785164,Susan,,Mercier-Hochelaga-Maisonneuve,45.55199814,-73.55274963,Entire home/apt,150,3,364,3/4/24,4.02,2,156,47,"294744, expires: 2024-09-30"
+14899256,#3 Comfortable Room,75761307,Olga,,Verdun,45.45614,-73.57707,Private room,30,32,5,10/13/23,0.06,6,49,2,
+14935592,"Superb view, parking, minutes to downtown!",55713549,Vera,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.49364,-73.61185,Entire home/apt,58,65,51,12/29/23,0.56,1,177,1,
+14951324,Mike's Beautiful Downtown Greystone,71753423,Mike,,Ville-Marie,45.49202,-73.57848,Entire home/apt,118,31,73,12/3/23,0.83,1,300,3,
+14993474,"Awesome studio, great location in NDG - CITQ301611",22382835,Ondine,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47616,-73.61909,Entire home/apt,90,2,123,8/26/23,1.35,1,21,7,"301611, expires: 2024-05-31"
+15116326,Liv MTL Urban-3 Spacious 2BR & Event-Ready No Fees,73995257,Liv MTL,,Le Plateau-Mont-Royal,45.52156,-73.58531,Entire home/apt,221,2,143,3/12/24,1.57,47,362,18,"298467, expires: 2024-12-31"
+15116683,Liv MTL Urban-4 Spacious 2BR & Event-Ready No Fees,73995257,Liv MTL,,Le Plateau-Mont-Royal,45.52137,-73.58729,Entire home/apt,354,2,172,11/26/23,1.89,47,319,24,"298467, expires: 2024-12-31"
+15143923,Cozy Loft in historical Old Montreal,96043242,Julien,,Ville-Marie,45.5052,-73.55669,Entire home/apt,104,31,77,10/17/23,0.85,1,89,4,
+15178067,"Cozy 1 bedroom at Vendome Metro, Glen Hospital",83791200,Walid,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47356,-73.60918,Entire home/apt,80,31,17,10/21/23,0.19,2,265,3,
+15256244,NEW Tour Des Canadiens Montreal Condo 44th Floor,7595127,Diana,,Ville-Marie,45.49502,-73.57178,Entire home/apt,80,31,6,1/8/24,0.11,1,112,4,
+15265481,Magnificent apartment,26210918,Yaneisy,,Mercier-Hochelaga-Maisonneuve,45.5439,-73.53739,Entire home/apt,113,3,257,3/17/24,2.82,2,171,40,"298255, expires: 2024-08-31"
+15272723,The View from the top,15935760,Erol & Jay,,Le Plateau-Mont-Royal,45.50771,-73.57411,Entire home/apt,101,1,304,3/14/24,3.34,24,72,22,"294006, expires: 2024-03-31"
+15318889,"Victoria Village, cosy LOFT Westmount A1 Loc.",85388582,M.,,Westmount,45.47832,-73.60158,Entire home/apt,135,31,10,12/22/21,0.11,2,365,0,
+15338264,Le Citadin: THE BEST of Montreal,24787258,Christine,,Rosemont-La Petite-Patrie,45.53612,-73.61447,Entire home/apt,149,4,30,5/6/23,0.33,1,171,1,"214071, expires: 2024-05-31"
+15389389,Penthouse with Roof Terrasse,1450796,Guillaume,,Ville-Marie,45.5265,-73.54955,Entire home/apt,100,120,34,1/16/23,0.38,1,303,0,
+15465983,Large 2 bedroom apartment Downtown Montreal,66881070,Oxford,,Le Plateau-Mont-Royal,45.51055,-73.57635,Entire home/apt,98,31,3,7/18/22,0.04,20,248,0,
+15519058,"Bel appartement, accueillant et bien situé",99748658,Josée Marie,,Rosemont-La Petite-Patrie,45.54189,-73.58423,Entire home/apt,80,31,15,11/30/23,0.17,1,200,2,
+15522103,"Roomy, Designer Apartment near Sherbrooke Metro Station",6260346,Adrien,,Le Plateau-Mont-Royal,45.51923,-73.56884,Entire home/apt,180,2,366,3/18/24,4.26,1,32,71,"296111, expires: 2024-04-30T18:48:01Z"
+15548000,2-Bedroom Condo beside Metro  (EST#296091/3star),12870387,Yan,,Saint-Laurent,45.50762,-73.67242,Entire home/apt,100,32,48,9/8/22,0.58,1,364,0,
+15551969,Big MTL Airbnb 3 Bedrooms. Free Parking.,33245632,Kristina,,Le Sud-Ouest,45.45522,-73.59121,Entire home/apt,200,2,185,2/20/24,2.07,1,298,19,"308263, expires: 2024-12-31"
+15553665,Liv MTL Soho-1 Spacious 2BR + Event Ready Rooftop,73995257,Liv MTL,,Le Plateau-Mont-Royal,45.52084,-73.57871,Entire home/apt,232,2,125,3/11/24,1.4,47,362,15,"298468, expires: 2024-11-30"
+15555898,Liv MTL Soho-3 Spacious 2BR + Event Ready Rooftop,73995257,Liv MTL,,Le Plateau-Mont-Royal,45.52189,-73.57838,Entire home/apt,232,2,140,12/30/23,1.56,47,365,9,"298468, expires: 2024-11-30"
+15610714,One bedroom apartment near Old Montreal,66881070,Oxford,,Ville-Marie,45.5041,-73.562,Entire home/apt,94,31,10,12/16/23,0.16,20,252,2,
+15624679,4 bedrooms facing Angrignon park,45775618,Mehdi,,LaSalle,45.44433,-73.61136,Entire home/apt,99,180,0,,,2,365,0,
+15674836,Small room in Plateau Mont-Royal!,64992076,Francis,,Le Plateau-Mont-Royal,45.53346,-73.57441,Private room,25,90,12,12/29/23,0.13,4,272,3,
+15720005,Cute and Cosy Downtown Apartment,101550440,Kay,,Ville-Marie,45.49404,-73.57567,Entire home/apt,55,120,18,3/30/19,0.2,1,306,0,
+15746375,Newly furnished Mile End apartment for up to 6.,19384162,Tony,,Le Plateau-Mont-Royal,45.52475,-73.60344,Entire home/apt,80,31,384,10/17/23,4.29,2,50,9,
+15753130,"""LE ST-CYR"" Luxury  Lounge Loft In Old Montreal",11206990,Sam,,Ville-Marie,45.50337,-73.55513,Entire home/apt,182,1,113,3/14/24,2.06,8,238,40,"313234, expires: 2024-04-30"
+15829579,Prestige Condo DT Montreal Bell Center Concordia,102491740,Jerry,,Ville-Marie,45.49633,-73.56989,Entire home/apt,,31,129,6/1/23,1.45,1,62,2,
+15855142,"Near Metro, Mall, Grocery, Niceview, Pool,Gym,WiFi",5998200,Amanda,,Ville-Marie,45.49025,-73.58635,Entire home/apt,102,210,8,7/30/19,0.12,1,326,0,
+15859276,"Rose park, 3 bedrooms",22299469,Louise,,Rosemont-La Petite-Patrie,45.55593,-73.57638,Entire home/apt,61,31,31,12/15/23,0.35,4,272,1,
+15889165,Comfortable studio - BEST location in the city!,103050764,Patrick,,Ville-Marie,45.51491,-73.56299,Entire home/apt,37,90,8,4/30/20,0.1,3,365,0,
+15917834,Studio right in the middle of the Quartier latin,103050764,Patrick,,Ville-Marie,45.51671,-73.56519,Entire home/apt,37,90,9,11/1/23,0.11,3,209,2,
+15943458,"Vintage room 10min to Metro, Glen site, CUSM",103493009,Frederick,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.46721,-73.60735,Private room,36,1,251,3/20/24,2.84,3,52,79,"295173, expires: 2025-01-31"
+15943857,"Bright room 10min to Metro, Glen, CUSM hospital",103493009,Frederick,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.46954,-73.6089,Private room,44,1,240,3/17/24,2.71,3,57,78,"295173, expires: 2025-01-31"
+15956356,Le Mont-Royal,103607205,Remi Et Marie,,Le Plateau-Mont-Royal,45.52269,-73.58417,Entire home/apt,216,3,264,2/29/24,3.07,2,209,53,"295246, expires: 2025-01-01T00:00:00Z"
+15957050,Centrally located and comfortable studio,103050764,Patrick,,Ville-Marie,45.51669,-73.563,Entire home/apt,36,90,1,8/14/23,0.13,3,206,1,
+15964704,"Just like at home, long term location.",23283031,Sebastien Et Elise,,Rosemont-La Petite-Patrie,45.55233,-73.57648,Entire home/apt,50,31,34,2/15/24,0.4,1,234,1,
+15972333,Luxueux appartement de style contemporain,98056118,Normand,,Le Sud-Ouest,45.47541,-73.56447,Entire home/apt,65,90,0,,,1,89,0,
+16050699,3 Bedrooms - 2600 Square feet - Luxurious House,10836138,Amine,,Mercier-Hochelaga-Maisonneuve,45.59484,-73.56276,Entire home/apt,149,31,10,7/31/20,0.11,11,178,0,
+16052945,lumineux  spacieux appartement Plateau Mont royal,32450186,Amelle,,Le Plateau-Mont-Royal,45.52474,-73.58067,Entire home/apt,179,3,176,3/18/24,2,2,202,58,"277922, expires: 2024-05-31"
+16063273,"Comfy and charming, 4 minutes walk to subway (a)",154735,Isabelle,,Rosemont-La Petite-Patrie,45.53379,-73.59757,Entire home/apt,110,32,16,2/20/24,0.18,8,253,4,
+16066455,Big loft with closed room.,692349,Pierre,,Verdun,45.43624,-73.5831,Entire home/apt,175,32,0,,,1,173,0,
+16095201,"Heart of the Plateau, Centre Ville",49286057,Emmanuel,,Le Plateau-Mont-Royal,45.51851,-73.57365,Entire home/apt,71,31,49,7/3/23,0.55,1,246,1,
+16118803,Dolce vita près metro Parc,2733396,Antonietta,,Villeray-Saint-Michel-Parc-Extension,45.52774,-73.62411,Entire home/apt,65,31,11,10/31/23,0.14,1,326,2,
+16122747,Studio Pedestrian street 203 rue Prince Arthur Est,91356213,Vladimir & Valentina,,Le Plateau-Mont-Royal,45.51582718,-73.57106018,Entire home/apt,56,31,78,1/17/24,0.94,3,33,4,
+16130411,"ZEN appartement à Montréal, 7 minutes métro",5707748,Juliette,,Ahuntsic-Cartierville,45.54915,-73.64631,Entire home/apt,400,3,17,8/5/19,0.19,2,285,0,"314362, expires: 2024-06-28"
+16130417,Loft semi sous-sol tout rénové,55940468,Sarifa,,Ahuntsic-Cartierville,45.55873,-73.65774,Entire home/apt,70,32,46,2/27/24,0.52,1,292,3,
+16132631,Studio 15 min from downtown,78606235,Odile,,Le Sud-Ouest,45.46292,-73.5833,Entire home/apt,50,1,464,3/15/24,5.24,2,172,97,"301991, expires: 2024-08-01T00:00:00Z"
+16175493,Spacious & bright apartment with large terrace,42616652,François,,Le Plateau-Mont-Royal,45.51868,-73.58363,Entire home/apt,195,2,326,3/19/24,3.92,2,205,66,"296110, expires: 2024-04-30"
+16207327,The Skylight Apt 2 BDR near Jean Talon Market,30720639,Jacques,,Rosemont-La Petite-Patrie,45.54123,-73.60706,Entire home/apt,186,3,239,3/15/24,2.76,2,75,37,"282262, expires: 2024-05-31"
+16222634,❌TREASURE - Opulent Pad - Dream Location,33242683,Catherine Marie-Claude,,Ville-Marie,45.51037938,-73.56244097,Entire home/apt,1390,31,56,8/20/23,0.64,11,365,10,"294189, expires: 2024-06-02T00:00:00Z"
+16242447,Au coeur  du Plateau Mont-Royal,24737340,Michele,,Le Plateau-Mont-Royal,45.5303,-73.58049,Entire home/apt,185,7,22,9/29/23,0.27,1,287,4,"294845, expires: 2024-09-30"
+16258070,Incredible Condo 41th floor Tour Des Canadiens,105270302,Adam,,Ville-Marie,45.49719,-73.56993,Entire home/apt,105,31,91,11/12/23,1.04,5,146,6,
+16295360,"AT HOME, YOU WILL FEEL",8207211,Claudy,,Rivière-des-Prairies-Pointe-aux-Trembles,45.62649,-73.58973,Entire home/apt,50,31,103,12/7/23,1.17,2,113,3,
+16298180,Lumineux 2 chambres  + bureau - Villeray,1501458,Frederic,,Villeray-Saint-Michel-Parc-Extension,45.53852,-73.62201,Entire home/apt,89,31,1,12/29/16,0.01,3,171,0,
+16325175,"Discover Little Italy from a Hip, Cozy Tinyhouse",5291235,Linda,,Rosemont-La Petite-Patrie,45.53462,-73.60954,Entire home/apt,123,3,111,2/20/24,1.26,1,24,17,"302976, expires: 2024-10-31"
+16362207,"Cozy & luminous 1 bedroom apartment, near metro",106304781,Jeanne,,Mercier-Hochelaga-Maisonneuve,45.54125,-73.55638,Entire home/apt,85,31,35,12/8/19,0.4,1,100,0,
+16376605,Flat at the Foot of the Mountain W/Parking,15935760,Erol & Jay,,Le Plateau-Mont-Royal,45.50793,-73.57356,Entire home/apt,110,1,348,3/13/24,3.97,24,69,56,"294117, expires: 2024-03-31"
+16379629,"Pedestrian Paradise, 300m to subway, homy feel (e)",154735,Isabelle,,Rosemont-La Petite-Patrie,45.53402,-73.59688,Entire home/apt,79,32,24,11/1/23,0.31,8,176,1,
+16395724,"MTLVR #05 | Fully equipped 3BR, 10min to downtown",24290215,Yann,,Le Plateau-Mont-Royal,45.52235,-73.59558,Entire home/apt,220,31,206,3/14/24,2.34,19,195,43,"295227, expires: 2024-12-31"
+16402905,Perfect spot little italy/mile-end,16862291,Sandrine,,Rosemont-La Petite-Patrie,45.53074,-73.60882,Entire home/apt,215,3,19,3/12/24,0.23,1,113,10,"314908, expires: 2024-08-10"
+16427142,Long term*well located*300m metro Rosemont (c),154735,Isabelle,,Rosemont-La Petite-Patrie,45.53379,-73.59757,Entire home/apt,65,32,10,3/6/24,0.17,8,295,3,
+16442798,"Free private parking, Cozy 1BR,  1 min from subway",96808067,Antoine,,Ahuntsic-Cartierville,45.54663,-73.63861,Entire home/apt,105,2,482,3/10/24,5.47,2,94,65,"298717, expires: 2024-11-30"
+16443677,"FREE PARKING, Cozy 2 BR, 1 min from subway!",96808067,Antoine,,Ahuntsic-Cartierville,45.54656,-73.63873,Entire home/apt,112,2,469,3/7/24,5.32,2,73,75,"298717, expires: 2024-11-30"
+16458568,O 55,47409366,Jean-Michel,,Ville-Marie,45.51486,-73.55829,Entire home/apt,330,31,99,6/19/23,1.13,6,365,1,
+16476843,"MTLVR #04 | Plateau, A/C, BBQ, sunny patio!",24290215,Yann,,Le Plateau-Mont-Royal,45.52981,-73.5758,Entire home/apt,188,31,139,3/3/24,1.63,19,233,35,"292353, expires: 2025-02-28"
+16518371,Liv MTL Plaza-2 Big Bachelor Loft Poker & Foosball,73995257,Liv MTL,,Rosemont-La Petite-Patrie,45.53576609,-73.60475923,Entire home/apt,1310,2,88,3/10/24,1.07,47,326,13,"298469, expires: 2024-12-31"
+16518809,1 bdroom downtown condo w garage in extra,108605371,Olga,,Ville-Marie,45.51091,-73.56806,Entire home/apt,166,2,150,9/24/23,1.78,3,85,13,"317015, expires: 2025-02-14"
+16619748,Bedroom with den near Metro Vendome & CUSM hospita,103493009,Frederick,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.46975,-73.60893,Private room,42,1,237,3/8/24,2.78,3,46,72,"295173, expires: 2025-01-31"
+16665026,Liv MTL Plaza-3 Big Bachelor Loft Poker & Foosball,73995257,Liv MTL,,Rosemont-La Petite-Patrie,45.53582887,-73.60402119,Entire home/apt,1277,2,74,9/4/23,0.9,47,333,6,"298469, expires: 2024-12-31"
+16749373,2 floor apt 4 br and 2 btr - Jean-Talon Market,85388203,Isabelle,,Villeray-Saint-Michel-Parc-Extension,45.535839,-73.617432,Entire home/apt,425,31,21,1/4/24,0.26,1,17,3,"307474, expires: 2024-10-31"
+16790852,mtlFlats | 1BR in the ❤ of Mtl! Monthly discounts,148786329,Frank,,Le Plateau-Mont-Royal,45.52889,-73.57874,Entire home/apt,92,1,267,2/24/24,3.08,7,295,62,"295154, expires: 2024-12-31"
+16795260,Vie de quartier,111314115,Guilaine,,Villeray-Saint-Michel-Parc-Extension,45.5479944,-73.6095133,Private room,85,1,16,3/14/24,2.12,1,176,16,"314803, expires: 2024-08-03T00:00:00Z"
+16837762,Duplex with rooftop terrace and BBQ for groups.,3998914,Brad & Dan,,Le Plateau-Mont-Royal,45.51996,-73.57329,Entire home/apt,736,31,52,8/20/23,0.6,3,115,2,"281470, expires: 2025-02-28"
+16853996,Superb condo - Fast Wifi & parking - Downtown MTL,1092438,Alexandre,,Ville-Marie,45.50945,-73.5628,Entire home/apt,90,32,60,1/23/24,1.05,4,210,6,
+16896438,Luxurious condo Dowtown,43563634,Mathieu,,Ville-Marie,45.51758,-73.55514,Entire home/apt,100,300,0,,,1,363,0,
+16923873,Boutique condo in the heart of Downtown Montreal,83991309,Rodney,,Ville-Marie,45.4963,-73.56968,Entire home/apt,125,31,40,4/22/23,0.46,1,286,1,
+16926859,DtownBeautiful condo-MonthlyRental,111294431,Magdalina,,Ville-Marie,45.49489,-73.57049,Entire home/apt,115,32,100,11/21/23,1.16,27,46,1,
+16984430,Room 301 | Maison Saint-Vincent,113699303,Maisons & Co,,Ville-Marie,45.50684,-73.55306,Hotel room,193,1,45,4/3/22,0.53,22,222,0,"222574, expires: 2024-05-31"
+16984967,"Charming 3 bedrooms, 2 bathrooms, private parking",113705344,Sidonie,,Ville-Marie,45.53343036,-73.55675832,Entire home/apt,300,2,130,1/6/24,1.72,3,154,17,"301142, expires: 2024-05-31"
+17007706,"MTLVR #03 | Stay-Dream-Explore, Plateau, 1.5 Ba",24290215,Yann,,Le Plateau-Mont-Royal,45.52714,-73.57775,Entire home/apt,169,31,120,3/11/24,1.39,19,227,30,"295320, expires: 2025-01-31"
+17022766,Brownstone Home in heart of Montreal!,37075135,Patty,,Ville-Marie,45.49522,-73.57244,Entire home/apt,429,2,102,3/10/24,1.23,2,283,32,"301521, expires: 2024-05-31"
+17024331,Room 302 | Maison Saint-Vincent,113699303,Maisons & Co,,Ville-Marie,45.50712,-73.55461,Hotel room,193,1,29,10/2/21,0.35,22,193,0,"222574, expires: 2024-05-31"
+17024822,Room 303 | Maison Saint-Vincent,113699303,Maisons & Co,,Ville-Marie,45.50712,-73.55483,Hotel room,193,1,32,12/4/21,0.38,22,193,0,"222574, expires: 2024-05-31"
+17077842,LE BALDWIN,9929704,Rosemarie,,Mercier-Hochelaga-Maisonneuve,45.60317,-73.5272,Entire home/apt,95,2,255,3/9/24,2.95,1,122,46,"294621, expires: 2024-09-30"
+17133410,Chambre canadienne,11241121,Laetitia,,Rosemont-La Petite-Patrie,45.54727,-73.5781,Private room,24,31,13,7/31/23,0.17,4,120,2,
+17133570,Chambre aux vélos,11241121,Laetitia,,Rosemont-La Petite-Patrie,45.54749,-73.57811,Private room,25,31,14,12/15/23,0.17,4,177,2,
+17175849,LoFT MILE END,115562215,Gerardo,,Le Plateau-Mont-Royal,45.52772141,-73.60266113,Shared room,564,1,346,1/13/24,4.02,1,281,21,"307496, expires: 2024-10-31"
+17222075,Industrial-Modern style- Down Town (3),32760952,Lise,,Ville-Marie,45.50582,-73.56182,Entire home/apt,90,31,10,9/2/23,0.12,3,297,3,
+17225323,Stylish Condo in the Quartier Des Spectacles. Indoor Parking,5449280,Magali,,Ville-Marie,45.51042,-73.56325,Entire home/apt,90,32,378,8/3/23,4.5,1,39,1,
+17232251,L'appartement.,6178250,Michael,,Le Sud-Ouest,45.49238,-73.55948,Entire home/apt,69,1,50,3/3/24,0.59,8,137,26,"294243, expires: 2024-11-30T20:24:45Z"
+17266251,"Quebexico Residence! Nice, cozy & close",9859234,Kevin,,Ville-Marie,45.52444,-73.56331,Entire home/apt,68,32,17,3/4/24,0.63,1,65,9,
+17279576,"Beautiful apartment, central and peaceful",23934791,Olivier,,Verdun,45.4584,-73.57043,Entire home/apt,120,5,12,12/31/22,0.15,1,39,0,"316436, expires: 2024-12-03"
+17282144,2 Bedroom The Best Downtown Luxury condo,57283693,Yankhob,,Ville-Marie,45.496021,-73.570732,Entire home/apt,,32,66,12/1/21,0.77,7,265,0,
+17339296,"Business condo, 5mn from metro, downtown Montreal",19870737,Eric,,Ville-Marie,45.526711,-73.549698,Entire home/apt,100,32,19,3/11/24,0.26,2,179,4,
+17347436,Gorgeous studio Overlooking the city!,4203817,Ayman,,Ville-Marie,45.52117,-73.56546,Entire home/apt,500,31,51,1/1/18,0.59,1,180,0,
+17378280,spacy and clean - trendy shops restaurant metro,464852343,Host-Me,,Mercier-Hochelaga-Maisonneuve,45.54238,-73.54837,Entire home/apt,79,2,56,3/8/24,0.66,18,299,14,"299998, expires: 2024-11-30"
+17381053,Beautiful fully equipped 2 bedrooms appartment,117466157,Svetlana,,LaSalle,45.42946,-73.60459,Entire home/apt,60,31,92,11/19/23,1.08,1,173,3,
+17405977,Spacious Apartment Mile-Ex.,9040641,Nicolas,,Rosemont-La Petite-Patrie,45.5326,-73.61787,Entire home/apt,414,4,11,8/23/23,0.14,1,43,3,"307067, expires: 2024-09-30"
+17432201,Beautiful functional home great for families,117934503,Francois,,Dorval,45.4479,-73.77533,Entire home/apt,527,31,19,9/8/19,0.23,1,364,0,
+17443756,"42 FLOOR, METRO Lucien l'Allier direct access",94874146,Eric,,Ville-Marie,45.49595,-73.57071,Entire home/apt,120,31,36,9/1/23,0.43,1,120,2,
+17464138,Superb Condo/Metro nearby/Netflix,50405689,Massimo,,Ville-Marie,45.53751,-73.55205,Entire home/apt,55,32,162,6/28/20,2.01,1,2,0,
+17474455,Luminous space in CDN! Entire place,17945018,Dorothée,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.49509,-73.62865,Entire home/apt,85,31,38,8/1/22,0.45,3,317,0,
+17481919,Quiet peace of heavent in the heart of Montreal,127714,Julie,,Le Plateau-Mont-Royal,45.52524,-73.58869,Entire home/apt,80,31,4,7/8/18,0.05,1,50,0,
+17493869,Room 304 | Maison Saint-Vincent,113699303,Maisons & Co,,Ville-Marie,45.5063,-73.55477,Hotel room,193,1,31,11/28/21,0.37,22,179,0,"222574, expires: 2024-05-31"
+17514242,Room 305 | Maison Saint-Vincent,113699303,Maisons & Co,,Ville-Marie,45.50692,-73.55295,Hotel room,193,1,16,2/20/23,0.2,22,240,0,"222574, expires: 2024-05-31"
+17514332,Homa 1 | A haven of light | WiFi+Workspace,118735512,Anna,,Mercier-Hochelaga-Maisonneuve,45.55547,-73.52921,Entire home/apt,87,2,180,3/1/24,2.14,6,259,41,"296161, expires: 2024-06-30"
+17539794,Appart entre le Jardin botanique et le Centre-V.,16245022,Pierre,,Ville-Marie,45.52865,-73.54719,Entire home/apt,65,31,12,12/11/23,0.16,1,270,2,
+17567531,Majestic 2-floor Water View Loft,11206990,Sam,,Ville-Marie,45.50294,-73.55508,Entire home/apt,482,1,345,3/17/24,4.04,8,0,52,"312932, expires: 2024-04-19"
+17570069,2 bd on the Plateau/Parc Baldwin/large balcony,4706927,Michel,,Le Plateau-Mont-Royal,45.53708,-73.56543,Entire home/apt,200,14,39,3/16/24,0.48,1,83,9,"306503, expires: 2024-08-31"
+17573588,St-denis IV-2 Apt In the heart of Montreal,114336380,Fred,,Le Plateau-Mont-Royal,45.52364,-73.58459,Entire home/apt,75,2,71,3/3/24,0.85,17,40,22,"308201, expires: 2024-12-31"
+17592355,Loft contemporain au coeur de Rosemont!!,6136951,Sylvie,,Rosemont-La Petite-Patrie,45.55332,-73.5842,Entire home/apt,81,62,31,2/29/24,0.36,2,212,1,
+17601361,Spacious | The Plateau Wifi + Laundry | Parking,119617572,Alain,,Le Plateau-Mont-Royal,45.51798,-73.58137,Entire home/apt,92,5,202,3/18/24,2.36,6,232,49,"296087, expires: 2024-04-30"
+17607227,Sunny studio - Heart of Plateau Mont-Royal,19532718,Patricia,,Le Plateau-Mont-Royal,45.51915,-73.57691,Entire home/apt,90,32,29,3/6/24,0.34,2,15,7,
+17618411,"Sunny, tiny and cozy studio",25646950,Eric,,Ville-Marie,45.50769,-73.56964,Entire home/apt,70,31,26,3/9/24,0.31,10,243,3,
+17619505,APARTMENT WITH HOME LIVING STYLE FEEL,62477577,Raphael,,Pierrefonds-Roxboro,45.5145,-73.81194,Entire home/apt,95,180,1,7/5/19,0.02,2,364,0,
+17636273,Studio in the heart of Mile End,3901487,France,,Le Plateau-Mont-Royal,45.52259,-73.59283,Entire home/apt,120,7,103,2/19/24,1.22,3,123,8,"271283, expires: 2024-11-30"
+17654167,Lovely little room in Villeray,28504421,Mathieu & Nathalie,,Villeray-Saint-Michel-Parc-Extension,45.55247652,-73.60178034,Private room,95,2,37,11/18/23,0.45,1,23,9,"307032, expires: 2024-09-30T19:07:48Z"
+17662560,Impeccable Parc Avenue Pad,15935760,Erol & Jay,,Le Plateau-Mont-Royal,45.50812,-73.57171,Entire home/apt,95,1,193,3/13/24,2.25,24,72,44,"294117, expires: 2024-03-31"
+17667759,DOWNTOWN MONTREAL 4 BEDROOM 2.5BATH SLEEP LOTS,7250257,Stewie,,Outremont,45.52292,-73.60821,Entire home/apt,1800,60,40,12/28/23,0.47,17,219,1,
+17693693,Cozy and Mystical 1BR - Palais de Congres!,66340481,Daniel,,Ville-Marie,45.50988,-73.5603,Entire home/apt,55,31,53,10/17/23,0.67,28,75,2,
+17823856,APPARt 1BR+BALCONY & PARKING ❤Plateau CITQ-221665,39653,Miozoti,,Le Plateau-Mont-Royal,45.53051,-73.56773,Entire home/apt,180,1,65,11/23/23,0.82,4,215,21,"221665, expires: 2025-02-28"
+17856600,"Cozy, sunny apt close to DT Mtl, & canal bike path",75658901,Jacy,,Le Sud-Ouest,45.47809,-73.56818,Entire home/apt,129,31,30,7/3/22,0.36,1,88,0,
+17875452,Private room in a house au pignon vert,31822751,Yuan,,Saint-Laurent,45.51402215,-73.6626296,Private room,27,32,35,1/1/24,0.42,7,357,2,
+17880122,{Wonderful}•Luxurious•Condo in Downtown Montreal,57283693,Yankhob,,Ville-Marie,45.49595,-73.57031,Entire home/apt,99,31,78,1/30/24,0.93,7,170,3,
+17905778,Live life like a Montrealer,6225316,Dalida,,Villeray-Saint-Michel-Parc-Extension,45.53998,-73.62891,Entire home/apt,289,32,4,8/13/17,0.05,1,87,0,
+17918115,Peace of mind's Suite - NDG Monkland village,8174996,Brian,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47766,-73.6211,Entire home/apt,75,32,83,12/22/23,0.99,1,67,4,
+17936071,Step away from downtown Bell Center CITQ#297014,121712538,Paris,,Le Sud-Ouest,45.48678,-73.57474,Entire home/apt,486,2,148,3/10/24,1.74,3,170,24,"297014, expires: 2024-12-31"
+17994600,Right in the heart of the Plateau - 2 bedrooms,68746814,Annie,,Le Plateau-Mont-Royal,45.52363,-73.57639,Entire home/apt,107,2,166,12/31/23,1.97,10,165,30,"294221, expires: 2024-05-31"
+18002553,Guest Room in Montreal,123734891,Brigitte,,Rosemont-La Petite-Patrie,45.53552,-73.61512,Private room,81,2,198,2/17/24,2.38,2,307,63,"296511, expires: 2024-07-31"
+18032324,"Cozy&Luxury, 2 bed 2 bath, Superhost. Magical sun!",19576554,Joël,,Ville-Marie,45.49674,-73.56981,Entire home/apt,125,31,93,1/31/24,1.1,1,42,6,
+18035557,Pope,124060044,Wana,,Ville-Marie,45.4918874,-73.58018049,Entire home/apt,102,1,377,3/20/24,4.47,3,287,59,"307217, expires: 2024-10-12"
+18050345,Spacious Aparment - Walk to the Mont-Royal Street,2343919,Heathcliff,,Le Plateau-Mont-Royal,45.53868,-73.58105,Entire home/apt,76,31,70,12/22/23,0.83,2,277,3,
+18088582,MONTREAL DOWNTOWN  LUXURY APARTMENT,120126939,Adams Abderrazak,,Ville-Marie,45.49693,-73.57406,Entire home/apt,200,90,0,,,1,179,0,
+18194049,Lovely studio downtown Montreal,3548411,CASA Heidi,,Ville-Marie,45.50205,-73.56813,Private room,60,31,7,12/21/23,0.08,2,139,1,
+18196976,"Luxury Montreal villa w/Pool,Indoor Jacuzzi,Sauna+",84751996,Sim,,Côte-Saint-Luc,45.46413,-73.66617,Entire home/apt,1379,31,34,8/7/23,0.41,1,364,2,
+18198057,Microclimat Unique Modern House,51954898,Audrey,,Rosemont-La Petite-Patrie,45.55234,-73.59481,Entire home/apt,914,4,15,1/3/24,0.19,2,255,7,"302774, expires: 2024-09-30"
+18220118,#4 Resting Room,75761307,Olga,,Verdun,45.45665,-73.57779,Private room,30,32,9,2/28/21,0.13,6,326,0,
+18223094,Homa 2 | A haven of light | WiFi+Workspace,118735512,Anna,,Mercier-Hochelaga-Maisonneuve,45.55676,-73.53096,Entire home/apt,87,2,218,3/17/24,2.64,6,236,61,"296161, expires: 2024-06-30"
+18234207,Magifique condo offert a la location long terme.,28588042,Frederic,,Ville-Marie,45.49651,-73.56929,Entire home/apt,107,31,92,1/5/24,1.1,1,128,5,
+18237872,1 Bedroom condo for rent Place des Arts- 804,387422,Service,,Ville-Marie,45.5064,-73.56825,Entire home/apt,77,31,4,10/9/22,0.05,14,335,0,
+18264906,"#300392,closed airport,downtown,river.5 bedrooms",24973952,Qiang,,Lachine,45.43789,-73.70281,Entire home/apt,378,1,120,1/6/24,1.43,3,312,17,"300392, expires: 2024-05-31"
+18267089,Studio in the heart of Mile End,126274289,Franco,,Le Plateau-Mont-Royal,45.52349,-73.59432,Entire home/apt,85,2,355,3/17/24,4.25,2,24,83,"298715, expires: 2024-12-31"
+18272882,Home Sweet Home ❤️of Downtown BreakfastBuffet&Spa,521417033,Sarah,,Ville-Marie,45.49308904,-73.57681536,Entire home/apt,115,2,225,3/17/24,2.67,5,274,88,"314165, expires: 2024-07-24"
+18286338,Joli studio bien rénové - proche du métro,54649,Delphine,,Rosemont-La Petite-Patrie,45.53721,-73.6003,Entire home/apt,87,6,263,2/25/24,3.12,1,85,37,"304905, expires: 2024-05-31"
+18287017,Spacious flat Downtown Montreal #202 CITQ #222125,126452184,John,,Ville-Marie,45.51157,-73.56251,Entire home/apt,112,1,444,3/16/24,5.33,6,86,85,"222125, expires: 2025-02-28"
+18287687,Spacious flat Downtown Montreal #201 CITQ #222125,126452184,John,,Ville-Marie,45.51133,-73.56263,Entire home/apt,103,1,397,3/3/24,4.76,6,111,75,"222125, expires: 2025-02-28"
+18321283,Appartement Quartier Villeray location 32 jours,110625951,Mariane,,Villeray-Saint-Michel-Parc-Extension,45.54473,-73.62995,Entire home/apt,60,32,16,12/23/23,0.19,2,110,4,
+18330698,"4,5 près du fleuve, parking
+(At Corner store) bus",28754730,Julie,,Mercier-Hochelaga-Maisonneuve,45.59543,-73.51283,Entire home/apt,66,33,50,8/17/23,0.61,12,252,1,
+18333400,@1379 Bright Condo next to Trendy Griffintown,126855320,Mishel,,Le Sud-Ouest,45.4822,-73.56756,Entire home/apt,75,31,200,12/22/23,2.39,6,95,2,
+18345412,"2 bedrooms,closed airport,downtown,river. #300392",24973952,Qiang,,Lachine,45.43886,-73.70098,Entire home/apt,178,1,100,3/11/24,1.22,3,315,29,"300392, expires: 2024-05-31"
+18388093,"Central 2 bed apt in lovely Outremont, Montreal",76411191,Yves,,Outremont,45.52357,-73.61092,Entire home/apt,110,31,62,1/6/24,0.77,2,137,5,
+18390434,Cosy and Comfortable Studio - Studio chaleureux,5598791,Michèle,,Ahuntsic-Cartierville,45.55109,-73.66973,Entire home/apt,120,1,248,3/16/24,2.99,1,121,45,"295489, expires: 2025-01-31"
+18404443,Pristine Parc Avenue Pad,15935760,Erol & Jay,,Le Plateau-Mont-Royal,45.50796,-73.57218,Entire home/apt,95,1,225,3/13/24,2.68,24,53,39,"294117, expires: 2024-03-31"
+18424257,Studio in the heart of downtown,11511525,Turgay,,Le Plateau-Mont-Royal,45.509155,-73.572533,Entire home/apt,138,1,4,3/28/22,0.09,4,257,0,"221252, expires: 2024-05-31"
+18432424,Appartement avec terrasse/Apartment with s.pool,76411893,Sébastien,,Mercier-Hochelaga-Maisonneuve,45.54709,-73.54107,Entire home/apt,330,3,51,10/9/23,0.61,1,356,3,"314340, expires: 2024-06-27"
+18440875,AMAZING Big family house with JACUZZI,127827616,Catherine,,Mercier-Hochelaga-Maisonneuve,45.60294,-73.52511,Entire home/apt,264,3,55,8/14/23,0.66,1,80,3,"296103, expires: 2024-04-30T23:52:34Z"
+18463634,"Beautiful Studio, 203 rue Prince Arthur Est",91356213,Vladimir & Valentina,,Le Plateau-Mont-Royal,45.51582718,-73.57106018,Entire home/apt,53,31,85,3/5/24,1.02,3,34,5,
+18485017,"Double room in Plateau apartment, near metro",3029588,Cesar,,Le Plateau-Mont-Royal,45.52757,-73.58398,Private room,37,31,101,2/4/24,1.23,3,39,3,
+18489503,Charmant appartement dans HOMA,4143325,Pascal,,Mercier-Hochelaga-Maisonneuve,45.55564,-73.53846,Entire home/apt,110,31,24,3/17/24,0.3,1,268,5,
+18506381,Spacious flat Downtown Montreal #203 CITQ #222125,126452184,John,,Ville-Marie,45.51323,-73.56131,Entire home/apt,118,1,414,3/16/24,4.97,6,75,88,"222125, expires: 2025-02-28"
+18508404,Luxury Historic Montreal 3 Bdrm w/Deck. # 296183,6512090,Nat,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47858,-73.61696,Entire home/apt,306,4,109,12/29/23,1.37,1,38,24,"296183, expires: 2024-06-30"
+18509647,Logement moderne et confortable,9953690,Lamine,,Le Sud-Ouest,45.45186,-73.59167,Entire home/apt,314,2,147,1/1/24,1.76,1,156,27,"304966, expires: 2024-06-01"
+18521734,Beautiful House,128564537,Noya Rina,,Pointe-Claire,45.46658,-73.80581,Private room,48,31,12,6/22/23,0.14,2,80,1,
+18526874,"Flat on Byron next to Snowdon Metro, Sleeps 4",2596248,Denise,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.48442,-73.62656,Entire home/apt,65,90,17,7/1/20,0.21,2,125,0,
+18548687,Appartement 1 chambre ou 2 à Montréal,124245730,Francine,,Ahuntsic-Cartierville,45.53666,-73.71349,Entire home/apt,136,31,37,10/18/22,0.45,2,179,0,
+18563293,Charming 2BD + den in Plateau!,1656323,Nadim,,Le Plateau-Mont-Royal,45.53691,-73.58099,Entire home/apt,81,31,109,8/15/23,1.32,6,357,2,
+18564662,The perfect spot! Cool Monkland next to the Metro.,5450306,Peter,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.4789296,-73.61913317,Entire home/apt,124,2,223,3/18/24,2.7,2,127,52,"307203, expires: 2024-09-30"
+18650321,Montreal-West/NDG upper duplex,41792938,Jonathan,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.45398,-73.64088,Entire home/apt,47,300,0,,,1,358,0,
+18658682,Spacieux et central,129669714,Eric,,Ville-Marie,45.52323,-73.54775,Entire home/apt,80,60,98,10/31/23,1.21,1,110,21,
+18674312,Luxurious Studio,128564537,Noya Rina,,Pointe-Claire,45.46471,-73.80729,Entire home/apt,165,1,97,12/19/23,1.16,2,167,16,"296501, expires: 2025-03-08"
+18685719,"Superb new 2 bedroom downtown condo, amazing view",2051698,Yves,,Ville-Marie,45.49162,-73.58397,Entire home/apt,220,365,0,,,1,365,0,
+18689645,Charming apt for 1 or 2 p. in Mile-End - monthly,8796008,Petit Séjour,,Le Plateau-Mont-Royal,45.52486,-73.60087,Entire home/apt,75,31,43,10/15/23,0.52,4,194,5,
+18702052,Amazing location - 2 Bedroom apartment,181445183,Max,,Le Sud-Ouest,45.48188,-73.57877,Entire home/apt,108,31,18,5/31/23,0.22,4,364,1,
+18703570,Séjour à Montréal en Fête,124245730,Francine,,Ahuntsic-Cartierville,45.53533,-73.71382,Entire home/apt,130,31,11,10/22/22,0.14,2,179,0,
+18707242,#6 Relaxing Room,75761307,Olga,,Verdun,45.45584,-73.57798,Private room,30,32,14,12/29/23,0.17,6,287,1,
+18718437,Exceptional apartment for 2 in Mile-End - Monthly,8796008,Petit Séjour,,Le Plateau-Mont-Royal,45.52417,-73.60258,Entire home/apt,88,31,37,8/6/23,0.45,4,201,3,
+18721226,43rd fl Luxury Downtown-Breathtaking view and prkg,130185204,Chris,,Ville-Marie,45.49574,-73.57169,Entire home/apt,250,31,76,11/1/23,0.91,1,158,3,
+180947,"Loft at Unity 1, Downtown - 423",387422,Service,,Ville-Marie,45.50312,-73.56346,Entire home/apt,115,31,5,3/22/22,2.45,14,273,0,
+18746943,Spacious flat Downtown Montreal #303 CITQ #222125,126452184,John,,Ville-Marie,45.51175,-73.56064,Entire home/apt,117,1,432,3/15/24,5.23,6,85,97,"222125, expires: 2025-02-28"
+18747398,Spacious flat Downtown Montreal #302 CITQ #222125,126452184,John,,Ville-Marie,45.51306,-73.56081,Entire home/apt,110,1,420,11/19/23,5.07,6,118,63,"222125, expires: 2025-02-28"
+18747598,Spacious flat Downtown Montreal #301 CITQ #222125,126452184,John,,Ville-Marie,45.50628,-73.56691,Entire home/apt,112,1,417,3/17/24,5.03,6,113,82,"222125, expires: 2025-02-28"
+18767039,Cosy Garden Apartment in Pointe-Claire - Pets OK,18881026,Gordon,,Pointe-Claire,45.45792,-73.78479,Entire home/apt,135,2,304,3/11/24,3.66,1,240,40,"306262, expires: 2024-08-31"
+18793716,Private room with private bathroom (Gold room),114551726,David,,Villeray-Saint-Michel-Parc-Extension,45.53057,-73.64174,Private room,50,4,34,2/21/24,0.41,2,65,25,"312784, expires: 2024-04-16"
+18796514,"DOWNTOWN VIP MONTREAL, GOOD VALUE ,GREAT DECOR 3",7250257,Stewie,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47223,-73.64617,Entire home/apt,1500,32,30,12/26/23,0.36,17,173,3,
+18806218,Charmant et lumineux condo dans Outremont-Mile end,4114836,Sandra,,Outremont,45.51676,-73.59921,Entire home/apt,225,31,21,7/27/23,0.26,1,268,1,
+18825457,Chambre lumineuse en plein coeur du plateau,36351965,Jerome,,Le Plateau-Mont-Royal,45.52425,-73.5859,Private room,72,4,77,2/19/24,0.94,2,65,35,"313084, expires: 2024-05-10"
+18825871,Quiet room in the heart of the Plateau.,36351965,Jerome,,Le Plateau-Mont-Royal,45.52247136,-73.58515682,Private room,68,4,69,3/18/24,0.83,2,68,33,"313084, expires: 2024-05-10"
+18841037,Pope 3,131206065,Wana,,Ville-Marie,45.4936666,-73.5801128,Entire home/apt,121,1,340,3/10/24,4.15,4,248,56,"307216, expires: 2024-10-12"
+18853937,"Sud Mile-end; Plateau, Métro Mont-Royal, 2e",15144339,Franck,,Le Plateau-Mont-Royal,45.52145,-73.58219,Entire home/apt,88,31,24,12/26/23,0.32,4,135,4,
+18888850,Warm & Comfy 1 BR near Olympic Stadium,13165668,Marianne,,Rosemont-La Petite-Patrie,45.56679,-73.58381,Entire home/apt,69,31,30,1/16/24,0.36,1,66,5,
+18907170,Great location close to metro 7 mins to downtown,131764078,Christopher,,Verdun,45.45281,-73.58142,Entire home/apt,99,31,26,1/17/24,0.35,1,248,6,
+18934507,Spacious & Comfy 1BR near Botanical Gardens!,66340481,Daniel,,Rosemont-La Petite-Patrie,45.5663,-73.58191,Entire home/apt,55,31,14,7/31/22,0.21,28,59,0,
+18994479,Appartement lumineux Plateau MontRoyal CITQ#301398,25263775,Adam,,Le Plateau-Mont-Royal,45.53724,-73.5758,Entire home/apt,202,2,75,11/28/23,0.92,2,329,35,"301398, expires: 2024-05-31"
+19006248,PRIME PLATEAU CENTRAL MONTREAL/TERRACE/AC/PARKING$,2624022,Steve,,Le Plateau-Mont-Royal,45.51786309,-73.57831183,Entire home/apt,161,2,84,3/2/24,1.02,7,124,8,"313088, expires: 2025-05-08T19:21:14Z"
+19013621,Master Bedroom with office in Original Duplex,50948144,Anaëlle,,Le Plateau-Mont-Royal,45.531,-73.58192,Private room,133,2,33,3/17/24,0.4,2,171,6,"316516, expires: 2024-11-11"
+19018990,Maison contemporaine lumineuse et accueillante,8912131,Annie,,Rosemont-La Petite-Patrie,45.53238,-73.61325,Entire home/apt,175,32,3,7/29/18,0.04,2,0,0,
+19037319,Urbain oasis in the Mile end/ Plateau,132856273,Alain,,Le Plateau-Mont-Royal,45.523121,-73.589088,Entire home/apt,400,3,25,8/15/23,0.31,1,12,2,"312810, expires: 2024-04-24"
+19039674,PETIT STUDIO,103607205,Remi Et Marie,,Le Plateau-Mont-Royal,45.52172,-73.58439,Entire home/apt,160,3,241,1/1/24,2.92,2,299,38,"295246, expires: 2025-01-01T00:00:00Z"
+19040132,“El Tigre” - Cozy 2BR - Downtown,9818417,Andre,,Ville-Marie,45.49724,-73.57304,Entire home/apt,80,31,52,12/29/23,0.63,16,247,1,
+19049170,Monthly rental Verdun studio with parking and yard,119975235,Tara,,Verdun,45.46203,-73.57746,Entire home/apt,60,31,231,1/29/24,2.83,2,167,7,
+19057256,Studio in Montreal downtown/Best location,133033132,Alfie,,Ville-Marie,45.49604,-73.58106,Entire home/apt,57,1,113,12/30/23,1.58,5,93,21,"378915, expires: 2024-06-06"
+19057633,Luxury 4 Bedroom Penthouse!,58076590,Berish,,Le Plateau-Mont-Royal,45.5244,-73.60689,Entire home/apt,264,1,251,2/24/24,3.04,25,349,15,"296457, expires: 2024-07-31"
+19057653,"Westmount Luxury house, 3BR/3BATH 2 Free parkings",133037544,Amir,,Westmount,45.47768,-73.5987,Entire home/apt,257,4,159,3/3/24,1.92,2,116,15,"314916, expires: 2024-08-15"
+19069949,Room#2 - Spacious and quiet home in trendy NDG !,13337147,Aurélie & Randy,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47311,-73.62295,Private room,112,32,23,8/29/21,0.28,3,89,0,
+19070391,Amazing location | Now 5 bedrooms + Extra Kitchen,181445183,Max,,Le Sud-Ouest,45.48228,-73.5789,Entire home/apt,196,31,19,9/11/23,0.23,4,364,2,
+19071539,Room #1 Spacious and quiet home in trendy NDG !,13337147,Aurélie & Randy,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47291,-73.62274,Private room,96,32,22,9/6/21,0.27,3,89,0,
+19084710,Room #4 - Spacious and quiet home in trendy NDG !,13337147,Aurélie & Randy,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47168,-73.62344,Private room,35,32,24,8/24/21,0.29,3,51,0,
+19086838,"Brand New Penthouse! Hot Tub,  AC MileEnd",58076590,Berish,,Le Plateau-Mont-Royal,45.5244,-73.60689,Entire home/apt,169,1,254,2/25/24,3.08,25,348,28,"296457, expires: 2024-07-31T19:15:22Z"
+19093836,Luxuriate in the Cozy Apartment near Mount Royal,58076590,Berish,,Le Plateau-Mont-Royal,45.52433,-73.60696,Entire home/apt,131,1,113,2/17/24,1.37,25,347,8,"296457, expires: 2024-07-31T19:18:50Z"
+19110133,Beautiful Antique furnished close to water Lachine,7038328,Lissa,,Lachine,45.4329,-73.67142,Entire home/apt,55,32,10,11/16/23,0.13,2,22,1,
+19111529,Queen Bed - Shared Condo Bedroom in Downtown,2001815,Wilson,,Ville-Marie,45.50769,-73.56964,Private room,106,2,205,2/19/24,2.48,1,50,27,"313281, expires: 2024-05-02"
+19136154,"Penthouse! 5 Star! Winterized Hot Tub, 2",58076590,Berish,,Le Plateau-Mont-Royal,45.5244,-73.60689,Entire home/apt,728,1,34,12/4/23,0.42,25,340,4,"296457, expires: 2024-07-31"
+19138461,Our Vivid City Views,15935760,Erol & Jay,,Le Plateau-Mont-Royal,45.5074,-73.57286,Entire home/apt,92,1,156,3/17/24,1.89,24,59,42,"294006, expires: 2024-03-31"
+19143052,Small Furnished Studio Meuble,13648338,Nader,,Ville-Marie,45.51966,-73.56256,Entire home/apt,47,31,15,8/14/22,0.19,9,179,0,
+19157989,Trans Island Home for happy travelers IV,133955982,Chris And Marc,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.49098,-73.64346,Private room,37,2,200,1/13/24,2.53,4,71,29,"301418, expires: 2024-04-30"
+19166446,Private Room/Montreal/West Island/8km from Airport,122674986,Rachelle,,Pointe-Claire,45.46577,-73.79853,Private room,75,2,83,12/10/23,1.01,1,133,32,"296277, expires: 2024-06-01T00:00:00Z"
+19172080,Liv MTL Soho-4 Stylish 1BR Artsy + Rooftop No Fees,73995257,Liv MTL,,Le Plateau-Mont-Royal,45.52061,-73.57838,Entire home/apt,151,2,82,3/19/24,1,47,358,13,"298468, expires: 2024-11-30"
+19208971,"Apartment with a patio
+203 rue Prince Arthur Est",91356213,Vladimir & Valentina,,Le Plateau-Mont-Royal,45.51582718,-73.57106018,Entire home/apt,78,31,83,2/20/24,1.01,3,68,5,
+19228001,Hotel ZOZO 3,134609468,W,,Mercier-Hochelaga-Maisonneuve,45.54318,-73.53864,Entire home/apt,177,3,158,3/9/24,1.95,3,298,24,"295943, expires: 2024-05-31T14:52:31Z"
+19228441,Quiet & clean in Plateau Mont-Royal near Park,6312297,Katherine,,Le Plateau-Mont-Royal,45.5271,-73.57466,Entire home/apt,51,32,19,12/31/23,0.23,14,365,2,
+19272886,St-denis  I-3 apt In the heart of Montreal,114336380,Fred,,Le Plateau-Mont-Royal,45.52413,-73.58505,Entire home/apt,58,32,58,1/1/24,0.73,17,39,21,"308201, expires: 2024-12-31"
+19303566,Two bedrooms Condo 1 King + 1 Queen Bed,11511525,Turgay,,Le Plateau-Mont-Royal,45.509048,-73.572685,Entire home/apt,175,1,7,3/16/24,0.1,4,332,5,"221252, expires: 2024-05-31"
+19325377,Loft 16 pieds de plafond avec deux terrasses!,28754730,Julie,,Mercier-Hochelaga-Maisonneuve,45.59761,-73.51266,Entire home/apt,77,33,24,8/27/19,0.29,12,148,0,
+19343875,Great appartment! Mountain view! Heart of Plateau!,135528481,Skander,,Le Plateau-Mont-Royal,45.51625,-73.59127,Entire home/apt,75,100,12,9/3/17,0.15,1,180,0,
+19400327,CHARM OF THE PLATEAU ❤️ BEST LOCATION•DECK•AC•COZY!,2624022,Steve,,Le Plateau-Mont-Royal,45.51587,-73.57943,Entire home/apt,104,2,154,3/16/24,1.88,7,130,24,"313088, expires: 2024-05-08"
+19427490,Stunning flat in the heart of Plateau Mont-Royal,35488867,Jean,,Le Plateau-Mont-Royal,45.52457809,-73.57678986,Entire home/apt,1107,3,41,12/31/23,0.51,1,144,11,"309442, expires: 2025-03-31"
+19437779,The art of living at the Jean-Talon market,136276439,Diane,,Rosemont-La Petite-Patrie,45.54128,-73.6118,Entire home/apt,130,31,15,7/5/23,0.19,1,173,1,
+19440943,Room in Plateau Mont-Royal!,64992076,Francis,,Le Plateau-Mont-Royal,45.53327,-73.5742,Private room,28,90,15,2/11/24,0.19,4,253,3,
+19459264,"Gorgeous Downtown Condo-Balcony, Pool, FREE Garage",45643240,Chrissy,,Ville-Marie,45.49291,-73.57396,Entire home/apt,186,31,109,6/18/23,1.33,7,270,2,
+19460986,Room in Plateau Mont-Royal!,64992076,Francis,,Le Plateau-Mont-Royal,45.5333,-73.57257,Private room,18,32,6,8/31/23,0.12,4,188,2,
+19528566,Bright and spacious art deco loft on Ave Laurier,1656323,Nadim,,Le Plateau-Mont-Royal,45.53514,-73.58121,Entire home/apt,54,31,81,1/9/23,0.99,6,352,0,
+19531776,Maison de ville chaleureuse avec terrasse,137176257,Isabelle,,Le Sud-Ouest,45.475803,-73.563736,Entire home/apt,280,2,7,1/1/24,0.67,1,257,7,"312756, expires: 2024-04-18T00:00:00Z"
+19555586,Rustic & cozy 1bedroom flat in Le Plateau,15667508,Sarah & Aristide,,Le Plateau-Mont-Royal,45.51769,-73.5739,Entire home/apt,80,31,142,2/15/24,1.73,1,207,5,
+19602232,Chambre discrète dans le Plateau,22215540,Sandra,,Le Plateau-Mont-Royal,45.51965,-73.57985,Private room,40,1,364,3/16/24,4.47,7,229,118,"302949, expires: 2024-06-30"
+19612057,"Le Chalet St-Léo, S-Sol",137921345,Nacima & Kamal,,Saint-Léonard,45.58585,-73.58198,Entire home/apt,189,2,111,10/13/23,1.36,7,68,8,"296468, expires: 2024-09-01T02:55:35Z"
+19662318,Renovated 3-bed home by Villa Maria Metro,5450306,Peter,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47914498,-73.61936931,Entire home/apt,175,4,0,,,2,15,0,"307203, expires: 2024-10-31"
+19682110,Charming 2 bedroom apartement / private terrace,26186633,Jean Romain,,Ville-Marie,45.53711,-73.55688,Entire home/apt,139,31,68,6/12/22,0.88,1,89,0,
+19717514,"Unwind in Style at a Luxurious, Modern Condo",58076590,Berish,,Le Plateau-Mont-Royal,45.52449,-73.60682,Entire home/apt,203,1,172,3/4/24,2.11,25,352,12,"296457, expires: 2024-07-31T19:20:16Z"
+19721891,Extended Stays 1BR perfect for Business!,66340481,Daniel,,Ville-Marie,45.51049,-73.5622,Entire home/apt,55,31,2,8/25/22,0.03,28,108,0,
+19728679,Appart downtown montreal,41703564,Medy,,Ville-Marie,45.51304861,-73.56651265,Entire home/apt,60,90,148,12/22/23,1.85,2,210,2,
+19734354,Modern Condo Located in Montreal Village!,101498023,David,,Ville-Marie,45.52165,-73.55539,Entire home/apt,248,4,38,6/20/23,0.49,1,152,3,"253352, expires: 2024-05-31"
+19750226,Condo WOW Perché au sommet du centre-ville de MTL,103479409,Ping,,Ville-Marie,45.49623,-73.56936,Entire home/apt,99,31,68,3/31/22,0.84,1,162,0,
+19751687,Your home away from home,139105292,Elsa & Rawi,,Ahuntsic-Cartierville,45.57044,-73.65076,Entire home/apt,50,31,53,2/2/24,0.65,1,171,1,
+19762784,Oasis familial en plein coeur de Montreal,11241121,Laetitia,,Rosemont-La Petite-Patrie,45.54695,-73.57731,Entire home/apt,410,3,19,12/27/23,0.24,4,69,5,"312696, expires: 2024-04-18"
+19764537,"MTLVR #08 | Fully equipped for 8, Family focused",24290215,Yann,,Le Plateau-Mont-Royal,45.52053,-73.59402,Entire home/apt,253,2,135,2/27/24,1.66,19,192,39,"295227, expires: 2024-12-31"
+19788530,APPARTEMENT CHALEUREUX ET CONVIVIAL / FEEL AT HOME,139724181,Bill,,Rosemont-La Petite-Patrie,45.57954,-73.56826,Entire home/apt,104,32,90,11/10/23,1.18,1,129,4,
+19791598,"Le Laurentien MTL, Best location for best vacation",20862173,Mireille,,Ahuntsic-Cartierville,45.53105,-73.72585,Entire home/apt,95,31,18,9/18/23,0.24,1,0,3,
+19798843,Magnifique appartement 2 chambres au dernier étage,6099892,Ahmed,,Mercier-Hochelaga-Maisonneuve,45.55858,-73.54489,Entire home/apt,120,31,68,10/13/23,0.84,1,79,34,"315818, expires: 2025-03-13"
+19808134,Grande chambre dans grand appartement,95328441,Steven,,Le Plateau-Mont-Royal,45.53361,-73.57265,Private room,65,155,5,10/8/17,0.06,1,179,0,
+19808669,"Spacious Flat in the Ville-Marie, FREE U. Parking!",40235180,Mark,,Ville-Marie,45.51577,-73.55406,Entire home/apt,65,31,90,7/1/23,1.11,1,89,3,
+19829961,"La chambre qui vous fait signe, dans le Plateau",22215540,Sandra,,Le Plateau-Mont-Royal,45.51965,-73.57985,Private room,30,1,459,3/18/24,5.63,7,188,114,"314182, expires: 2024-06-27T00:00:00Z"
+19839769,Hotel ZOZO 2,134609468,W,,Mercier-Hochelaga-Maisonneuve,45.54288,-73.54007,Entire home/apt,177,3,131,2/24/24,1.62,3,302,23,"295943, expires: 2024-06-01T00:00:00Z"
+19936655,"Elegant Downtown Apt /King bed, Parking n Balcony",141276031,Walter,,Ville-Marie,45.50203,-73.58022,Entire home/apt,142,2,159,3/18/24,1.99,1,172,64,"313246, expires: 2024-05-01"
+19947667,Downtown Sunny Utopia,15935760,Erol & Jay,,Le Plateau-Mont-Royal,45.50708,-73.57327,Entire home/apt,94,1,266,1/13/24,3.28,24,79,34,"296971, expires: 2024-11-17"
+19951538,Luxurious 2Bdrm 2Parking Old Port& Downtown House,24128002,Mariam,,Ville-Marie,45.53027341,-73.54426656,Entire home/apt,161,2,278,3/7/24,3.43,1,80,42,"311764, expires: 2025-01-10"
+19952340,Sunny white room with balcony,68746814,Annie,,Le Plateau-Mont-Royal,45.52266,-73.57427,Private room,62,2,279,2/22/24,3.47,10,133,46,"291745, expires: 2025-02-28"
+19964276,Beautiful Apartment / Four Bedrooms in the Trendy Plateau,141542996,Pur-Plateau Urban Retreats,,Le Plateau-Mont-Royal,45.53640312,-73.57302767,Entire home/apt,148,2,187,3/10/24,2.31,1,239,39,"296522, expires: 2024-07-31"
+19969925,Private room with original wooden queen bed,68746814,Annie,,Le Plateau-Mont-Royal,45.52266,-73.57427,Private room,58,2,242,3/6/24,2.99,10,128,41,"291745, expires: 2025-02-28"
+19979999,Peaceful room in Hochelaga,1789044,Colin&Özge,,Mercier-Hochelaga-Maisonneuve,45.55621,-73.53295,Private room,50,31,13,3/1/24,0.16,3,74,5,
+19983302,Large 2 bedroom suite in Downtown Montreal,66881070,Oxford,,Le Plateau-Mont-Royal,45.51007,-73.57564,Entire home/apt,98,31,3,6/30/22,0.09,20,242,0,
+20009187,Black and white private room,68746814,Annie,,Le Plateau-Mont-Royal,45.52266,-73.57427,Private room,62,2,224,2/10/24,2.77,10,175,41,"291745, expires: 2025-02-28"
+20025799,"One bedroom apartment in Downtown, near Plateau",66881070,Oxford,,Le Plateau-Mont-Royal,45.51007,-73.57564,Entire home/apt,90,31,15,12/3/23,0.19,20,204,6,
+20056015,Cozy apartment in the heart of The Village,142509528,Wendy,,Ville-Marie,45.52268,-73.55666,Entire home/apt,102,1,37,3/8/24,3.18,1,115,37,"311357, expires: 2024-12-15T02:55:29Z"
+20057500,Open concept in the heart of Montreal 31 days min,125900921,Franck,,Ville-Marie,45.50937,-73.56096,Entire home/apt,70,31,257,12/21/23,3.17,1,174,20,
+20075945,5☆ DESIGNER 2BR IN ❤️ OF PLATEAU/AC/NICE TERRACE!!!,2624022,Steve,,Le Plateau-Mont-Royal,45.51599642,-73.57847712,Entire home/apt,215,2,113,8/30/23,1.4,7,84,19,"313088, expires: 2024-05-09T00:00:00Z"
+20095771,Unique & Charming 3BR Loft - Heart Of Old Montreal,138835642,Al,,Ville-Marie,45.5076,-73.55381,Entire home/apt,541,3,82,6/13/23,1.02,1,278,1,"315947, expires: 2024-10-10"
+20122505,"Clean and spacious apartment, Verdun metro station",141755088,Olga,,Verdun,45.45072,-73.57309,Entire home/apt,68,32,46,11/6/23,0.69,1,235,2,
+20135370,Hotel ZOZO 1,134609468,W,,Mercier-Hochelaga-Maisonneuve,45.54376,-73.54045,Entire home/apt,177,3,185,2/19/24,2.29,3,98,42,"295943, expires: 2024-05-31"
+20153204,Cozy apt in century-old house Centre-Ville/Village,2885271,Maxime,,Ville-Marie,45.51913,-73.55883,Entire home/apt,165,31,170,11/4/23,2.18,1,140,2,
+20153447,Rustic Industrial Loft in Historical Building,7685881,Pat,,Ville-Marie,45.49976,-73.5571,Entire home/apt,200,31,111,10/16/23,1.38,2,51,11,
+20164905,Beautiful 1 bedroom in the heart of Montreal,66881070,Oxford,,Le Plateau-Mont-Royal,45.51007,-73.57564,Entire home/apt,84,31,4,6/1/20,0.05,20,38,0,
+20174258,Classic Montreal Atelier,15935760,Erol & Jay,,Le Plateau-Mont-Royal,45.50921,-73.57413,Entire home/apt,100,1,190,3/14/24,2.35,24,60,49,"294006, expires: 2024-03-31"
+20195499,Grande chambre Namasté,11241121,Laetitia,,Rosemont-La Petite-Patrie,45.54861,-73.57467,Private room,26,31,18,12/22/23,0.23,4,257,4,
+20267616,Stunning Downtown Studio,15935760,Erol & Jay,,Le Plateau-Mont-Royal,45.5098,-73.57499,Entire home/apt,86,1,137,1/1/24,1.7,24,68,20,"296974, expires: 2024-11-17"
+20439648,"Clean, quiet, clean appartment 32 days+",111660954,Judy,,Mercier-Hochelaga-Maisonneuve,45.57096,-73.52569,Entire home/apt,71,32,117,12/1/23,1.46,11,275,2,
+20455499,SLEEP 18 4 BEDROOM 2 BATHROOM MONTREAL DOWNTOWN,7250257,Stewie,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47213,-73.64582,Entire home/apt,1500,60,31,6/22/23,0.39,17,280,1,
+20478865,Cozy Room with Plenty Sunlight,39159881,Lizzy,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47624,-73.63201,Private room,100,2,48,2/29/24,0.6,7,236,20,"308087, expires: 2024-09-12"
+20479231,Comfy Room Close to Restaurants & Bars,39159881,Lizzy,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.4756,-73.63208,Private room,105,2,43,3/8/24,0.54,7,255,17,"308087, expires: 2024-09-12"
+20479413,Large and Cozy Room Near Restaurants,39159881,Lizzy,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.47581,-73.6302,Private room,110,2,42,2/4/24,0.52,7,325,18,"308087, expires: 2024-09-12"
+20556406,"Plaza12 - StringLights, XL Terrace, restos & shops",51144331,Norman G,,Rosemont-La Petite-Patrie,45.53711526,-73.60677129,Entire home/apt,171,3,90,3/19/24,2.2,2,305,28,"296619, expires: 2024-08-31"
+20557333,Charming Mtlhomestay Accommodation,208453,Maureen,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.46856,-73.60565,Private room,75,3,44,1/6/24,0.55,1,356,20,"305995, expires: 2024-07-31"
+20572453,Appartement confortable - Villeray,1229488,Marilou,,Villeray-Saint-Michel-Parc-Extension,45.54743,-73.63481,Entire home/apt,91,60,31,12/12/23,0.42,2,238,3,
+20601389,"10 Min & Under to Most of Verdun, 1st Floor",2657524,Sunny,,Verdun,45.45872,-73.56911,Entire home/apt,87,4,149,2/23/24,1.96,6,277,23,"296323, expires: 2024-07-31"
+20601669,PETIT NID SUR LE PLATEAU- NEST ON THE PLATEAU,15638458,Catherine,,Le Plateau-Mont-Royal,45.53229,-73.56477,Private room,30,31,12,3/3/24,0.18,2,304,3,
+20607226,"10 Min & Under to Most of Verdun, Ground Floor #2",2657524,Sunny,,Verdun,45.45691,-73.567,Entire home/apt,100,4,4,12/24/23,0.54,6,315,4,"296323, expires: 2024-07-31"
+20619856,Studio apartment downtown Montreal,66881070,Oxford,,Le Plateau-Mont-Royal,45.50909,-73.57475,Entire home/apt,75,31,11,3/1/24,0.15,20,241,1,
+20662172,Peaceful apartment for 2,57301146,Sylvain & Nathalie,,Mercier-Hochelaga-Maisonneuve,45.6114,-73.53547,Entire home/apt,51,32,115,1/6/24,1.45,1,256,3,
+20677936,Magnifique! face au fleuve et parc! Wow!,17204322,Josee,,Verdun,45.44886,-73.57012,Entire home/apt,125,31,52,7/24/23,0.65,3,268,1,
+20708008,Luxury Haven!,121344355,Felicia,,Pierrefonds-Roxboro,45.51552,-73.82915,Entire home/apt,718,365,4,6/18/18,0.05,1,365,0,
+20728537,Corporate Stays | Le Shaughn | Trendy 1BR,38459934,Corporate Stays,,Ville-Marie,45.49091,-73.5774,Entire home/apt,168,31,6,3/7/23,0.08,102,78,0,
+20730627,Private room in a house in Ville St-Laurent,31822751,Yuan,,Saint-Laurent,45.51224424,-73.66308954,Private room,25,32,11,7/17/23,0.14,7,333,1,"314144, expires: 2024-08-31"
+20795323,"Face à un parc - Grand patio, 32 jrs +",12670936,Kay - Marc,,Ahuntsic-Cartierville,45.57073,-73.64147,Entire home/apt,68,45,29,10/29/23,0.37,1,130,3,
+20831254,Corporate Stays | Le Shaughn | Homey 1BR,38459934,Corporate Stays,,Ville-Marie,45.49273,-73.57578,Entire home/apt,198,31,5,1/3/23,0.07,102,35,0,
+20856442,Vivre comme un Montréalais! - Rosemont -,69879199,Julie,,Rosemont-La Petite-Patrie,45.55186,-73.59863,Entire home/apt,115,31,68,11/23/23,0.86,1,194,2,
+20874792,Trans Island Home for happy travelers I,133955982,Chris And Marc,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.49087,-73.64357,Private room,37,2,202,1/27/24,2.54,4,66,31,"301418, expires: 2024-04-30"
+20881764,Trans Island Home for happy travelers II,133955982,Chris And Marc,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.49084,-73.64351,Private room,36,2,168,1/25/24,2.12,4,109,25,"301418, expires: 2024-04-30"
+20881976,Trans Island Home for happy travelers III,133955982,Chris And Marc,,Côte-des-Neiges-Notre-Dame-de-Grâce,45.49084,-73.64351,Private room,36,2,181,1/28/24,2.3,4,100,35,"301418, expires: 2024-04-30"
+20887433,Nice Spacious Apartment,150025873,Moshe,,Outremont,45.52418,-73.61085,Entire home/apt,80,31,31,12/27/23,0.39,1,105,3,
+20904430,Cozy 1 bedroom appartment,10836138,Amine,,Mercier-Hochelaga-Maisonneuve,45.59322,-73.56322,Entire home/apt,65,90,2,6/30/23,0.03,11,28,1,
+20966184,Liv MTL Avenue-1277 Big 3BR + Event-Ready Rooftop,73995257,Liv MTL,,Le Plateau-Mont-Royal,45.53028846,-73.578894,Entire home/apt,328,2,116,2/18/24,1.51,47,352,23,"298470, expires: 2024-12-31"
+20989609,Rare Penthouse in Old Montreal/Sq. Victoria,278707,Elodie,,Ville-Marie,45.50197,-73.55717,Entire home/apt,87,31,41,3/8/24,0.52,1,71,3,
+21014939,App. Dandurand  #296326.Près du métro H-Beaugrand.,136180647,Maryse,,Mercier-Hochelaga-Maisonneuve,45.60911,-73.51665,Entire home/apt,108,2,127,2/24/24,1.62,4,344,39,"296326, expires: 2024-08-01T00:00:00Z"
+21037355,"Beautiful cachet 2 bedrooms, kitchen,living room",25282125,Marlyn,,Le Sud-Ouest,45.47108,-73.58969,Entire home/apt,70,31,133,1/2/22,1.93,1,87,0,
+21074676,"Bright, renovated, spacious 3 bedrooms, 2 bathroom",42772654,Martine & Albert,,Côte-Saint-Luc,45.47358,-73.66415,Entire home/apt,227,3,135,2/26/24,1.72,2,308,26,"306553, expires: 2024-11-01T00:00:00Z"
+21075561,"HWY 40 & 15N; 3-Bedrooms; 1,100 ft2; CITQ #300239",151896049,Raymond,,Ahuntsic-Cartierville,45.54016,-73.65178,Private room,200,7,51,9/23/23,0.65,1,209,3,"300239, expires: 2024-09-30"
+21076091,Plateau Bright Modern 2BD on Ave Laurier,1656323,Nadim,,Le Plateau-Mont-Royal,45.53502,-73.57964,Entire home/apt,81,31,67,8/8/23,0.93,6,203,1,
+21081169,Cozy Plateau Apartment,28424299,Francis,,Le Plateau-Mont-Royal,45.53161,-73.56646,Entire home/apt,90,31,29,11/22/20,0.37,2,173,0,
+21090217,306 - 1 Bedroom for rent at Solano Building,387422,Service,,Ville-Marie,45.51154,-73.55061,Entire home/apt,90,90,0,,,14,364,0,
+21108606,Mystical 2 Floor Penthouse Loft In Old Montreal,11206990,Sam,,Ville-Marie,45.50204,-73.55738,Entire home/apt,379,1,288,3/18/24,3.66,8,320,62,"312927, expires: 2024-04-19"
+21113006,Riverfront Condo Old-Port of Montreal w/ Parking,76399703,Ely,,Ville-Marie,45.51141,-73.54973,Entire home/apt,149,32,126,12/23/23,1.62,1,39,1,
+21134723,Spacious & Cozy | Plateau | Wifi | HD TV | Parking,119617572,Alain,,Le Plateau-Mont-Royal,45.51798,-73.58137,Entire home/apt,110,1,188,2/24/24,2.39,6,256,47,"296087, expires: 2024-04-30"
+21136120,Exotic 2 Floor Penthouse Loft With Terrace,11206990,Sam,,Ville-Marie,45.50353,-73.55722,Entire home/apt,217,1,140,3/18/24,1.78,8,248,48,"313005, expires: 2024-05-04"
+21148965,Tour des Canadiens #1 condo Centre Bell balcony 33,9211981,Mitchell,,Ville-Marie,45.49732,-73.5698,Entire home/apt,80,32,35,2/4/21,0.44,1,21,0,
+21153019,Little Burgundy Gem,100445818,Rebekah,,Le Sud-Ouest,45.48448,-73.57363,Entire home/apt,150,5,58,3/10/24,0.87,1,219,21,"313382, expires: 2024-05-04"
+21226498,Nice little apartment 15min from downtown/Airport,153379835,Williams,,Lachine,45.4445,-73.6433,Entire home/apt,108,31,18,3/1/23,0.78,2,240,0,
+21278614,Charming studio in the historic Plateau,21215937,Saladin,,Le Plateau-Mont-Royal,45.51663,-73.57319,Entire home/apt,130,32,39,9/1/22,0.66,1,234,0,
+21282704,❤️WOW❤️ -7 🛏-3BR-2🚽-1🚘FreeParking ❤️,111648938,Janet,,Rosemont-La Petite-Patrie,45.54221,-73.5946,Entire home/apt,246,1,300,3/2/24,3.87,1,235,53,"297417, expires: 2025-02-28"
+21374591,Spacious 2 bedroom flat trendy Villeray 1-24 March,18868751,Catherine,,Villeray-Saint-Michel-Parc-Extension,45.54095,-73.62594,Entire home/apt,200,31,11,8/27/23,0.15,1,126,5,
+21383588,Bright apt with private terrace last floor,464852343,Host-Me,,Mercier-Hochelaga-Maisonneuve,45.5406,-73.54668,Entire home/apt,73,2,94,3/17/24,1.21,18,321,20,"299998, expires: 2024-11-30"
+21397875,Magnificent ✦ In The Plateau Wifi + Renovated ✓,119617572,Alain,,Le Plateau-Mont-Royal,45.5189,-73.58121,Entire home/apt,138,2,169,2/25/24,2.17,6,239,52,"296243, expires: 2024-05-31"
+21435377,Hôtel à la maison - Au cœur de Montréal,28249488,Hôtel À La Maison,,Villeray-Saint-Michel-Parc-Extension,45.53583,-73.62009,Entire home/apt,44,180,94,7/13/22,1.21,10,228,0,
+21456004,Lumineux studio pour 2 dans hochelaga.,20235959,Aurelie,,Mercier-Hochelaga-Maisonneuve,45.55494,-73.53728,Entire home/apt,70,32,10,10/26/23,0.13,1,288,1,
+21472833,FREE PARKING ✸ UNIQUE ❤ of City ✸ Pool Table ✸,33057626,Sam,,Le Plateau-Mont-Royal,45.51382589,-73.57225875,Entire home/apt,179,2,282,3/15/24,3.64,2,37,20,"316003, expires: 2024-10-11"
+21476961,Special Sud-Ouest! 3 Bedroom Townhouse,142785225,Martha,,Le Sud-Ouest,45.48421,-73.57432,Entire home/apt,105,31,97,9/28/23,1.25,1,186,3,
+21515585,"L'IDÉAL2, métro Pie-ix, parking on street",98785164,Susan,,Mercier-Hochelaga-Maisonneuve,45.551319,-73.552986,Entire home/apt,140,3,95,1/25/24,2.17,2,134,36,"294744, expires: 2024-09-30"
